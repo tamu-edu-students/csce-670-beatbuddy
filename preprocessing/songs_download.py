@@ -81,34 +81,3 @@ if __name__ == "__main__":
     search_and_download(df, author_song_df)
 
 
-# def remove_duplicates_and_update_file(csv_path='dataset.csv'):
-#     # Load the dataset
-#     df = pd.read_csv(csv_path)
-    
-#     # Remove duplicates based on 'track_name' and 'artists', keep the first occurrence
-#     updated_df = df.drop_duplicates(subset=['track_name', 'artists'], keep='first')
-    
-#     # Save the updated DataFrame back to the same CSV file
-#     updated_df.to_csv(csv_path, index=False)
-#     print(f"Updated file saved. Original rows: {len(df)}, Updated rows: {len(updated_df)}")
-
-# # Assuming your CSV path is as defined
-# remove_duplicates_and_update_file()
-            
-# def check_missing_mp3_files(csv_path='updated_dataset_with_youtube_urls.csv', save_path='./mp3s'):
-#     df = pd.read_csv(csv_path)
-#     missing_files = []
-#     for index, row in df.iterrows():
-#         if pd.isnull(row['YouTube URL']):
-#             continue
-#         filename = f"{row['track_name']} - {row['artists']}.mp3"
-#         expected_path = os.path.join(save_path, filename)
-#         if not os.path.exists(expected_path):
-#             missing_files.append((index, row['artists'], row['track_name'], row['YouTube URL']))
-#     return missing_files
-
-# # Assuming your CSV and save path are as defined in your initial setup
-# # missing_files = check_missing_mp3_files()
-# # print(f"Total missing MP3 files: {len(missing_files)}")
-# # for missing in missing_files:
-# #     print(f"Index: {missing[0]}, Artist: {missing[1]}, Track: {missing[2]}, YouTube URL: {missing[3]}")
