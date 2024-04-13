@@ -1,0 +1,913 @@
+7 ContributorsThe Making of Paul (Chap. 4: Paul in Narrative) Lyrics      THIS CHAPTER WILL take up stories about Paul, in particular the various acts. Like most divisions, this is somewhat artificial, for, as has been shown,1letters also relate an implied story. The first area of investigation is the canonical Acts (hereafter Acts). The traditional title ''.Acts of the Apostles" is not original, for its principal character, Paul, is not an apostle.2 That fact serves as an immediate introduction to controversy.
+
+      Since c. 1840, a struggle about the sources for a life of the "real Paul" has been active, sometimes simmering, sometimes at a boil.3The acute criticism of Ferdinand Christian Baur (1792-1860) and his followers in the "Tübingen School" posited Acts as a late-close to mid-second century-text dominated by unhistorical tendencies. Efforts to refute Baur propelled New Testament study into modern maturity. Leaders of those investigations included Theodor Zahn (1838-1933) in Germany and Joseph B. Lightfoot (1828-1889) in the United Kingdom.4 When the great Berlin church historian Adolph von Harnack (1851-1930) shifted his position to embrace an early date for Acts, it seemed that Baur's had been completely refuted. The twentieth century saw a gradual erosion of confidence in the historical value of Acts, a tendency strongly reinforced by the commentary of Ernst Haenchen (1896-1975), first published in' 1956.5
+
+      A major impetus for Haenchen's literary analysis (focus upon what Luke wrote rather than his sources) was Martin Dibelius, who, in fact, occupied a middle position between the extremes.6 Still, conservative exegetes in both the U.K. and Germany, among other countries, continue to defend the reliability of Acts. The dominant trend in the U.S. at present is to treat Acts as literature. This has a corrosive effect (often unacknowledged) upon arguments for its historical reliability. Most would agree that Acts contains history, whatever the author's purpose. The extent of that history is a matter for debate. The present tendency is to view Acts not simply as material to be compared to the letters, but as one element in the reception of Paul.7
+
+      The major difficulties with accepting Acts as a historical record are, in
+fact, literary. These include a proclivity toward symmetry, most notably in the various "parallels" among characters. Similar deeds and experiences mark the lives of Moses, Elijah, Elisha, Jesus, Peter, and Paul.8 No critical historian will believe that history repeats itself quite so frequently and conveniently. Repetition, such as three accounts of the conversions of Cornelius and Paul, is a means of emphasis. Another element is consistent reliance upon stereotyped scenes. Paul, for example, routinely begins his mission in a synagogue. This leads to opposition from Jews, sparking a persecution that propels the missionary onward to a new site. Finally, one may note the uses of some narrative techniques more suitable to fiction than to historiography.9 Luke's portrait of Paul is best viewed as a response to contemporary issues10 rather than as an attempt to extract historical data from various sources.11 The object of this exploration is not to compare these "two Pauls" but to set forth the characterization and actions of Paul in Luke's sequel to his gospel.12 Contrasts between the "Paul of the letters" and. the "Paul of Acts" do exist. The following table identifies a number of them:
+
+      Table 8: Paul: Letters vs. Acts
+
+      Undisputed Letters
+
+Paul imitates Christ by suffering.
+Paul is an apostle.
+Paul is a missionary to gentiles.
+Paul has conflicts with his communities.
+Paul's theological opponents are other believers.
+Paul had difficult relations with other leaders; he was not subordinate to Jerusalem.
+Paul engaged in conflict over Torah.
+Paul's colleagues were important figures in his mission.
+Natural theology shows that everyone is without excuse.
+Paul does not claim benefits pertinent to his worldly status.
+Paul is known as a letter-writer.
+
+      Acts
+Paul imitates Christ by working miracles
+Saul/Paul is not an apostle.
+Paul is a missionary to Jews first.
+Paul has no conflicts with his communities
+Paul's opponents are primarily Jews.
+Paul and other leaders had no conflicts; he was subordinate to Jerusalem.
+Conflict with Jews involves resurrection
+Paul's colleagues were very junior assistant
+Natural theology levels playing field between Jews and gentiles.13
+Paul is a Roman citizen of high status makes use of his privileges.
+Paul does not write letters.
+
+      Other items of divergence could be identified. Some of these contrasts are strongly stated. Debate is possible. The major issue is not the extent to which each can be minimized or as indications of how Luke traduced Paul, but what they reveal about the agenda of Acts.
+
+      Luke possessed sources for his depiction of Paul, probably including a published collection of nine or ten letters.14 In addition, based upon the hypothesis that Luke worked (or spent a good deal of time) in Ephesus,15 is the possibility that he had access to administrative or other corespondence not deemed worthy of inclusion in the collected letters. A written source traditionally designated "the Antioch source," which I call "the gentile mission source," mentioned Paul (in connection with Barnabas). A written source dealing with "the pre-Christian Paul," as it were, can be detected in Acts 8:1-3; 9:1-19a. Finally, it is reasonable to suspect that Luke had access to some oral traditions about Paul. It is also apparent that Luke utilized other material, including stories derived from the LXX and the Jewish historian Josephus. With these final items the task has shifted from identification of possibly historical material to composition. Luke was the master of all his sources, selecting what he wished and molding the material into the shape desired.
+
+      Use of the letters-including pseudonymous pieces-and the introduction of post-Pauline narrative material establish Acts as a Deutero-Pauline text. A major contrast is that, whereas the Deutero-Pauline letters often present Paul as effectively the only apostle and universalize his message, Acts universalizes the church, a body that includes Paul and James, neither of whom is an apostle, as well as the Twelve (especially Peter) and representatives of the Seven (Stephen and Philip). Unity is Luke's object. His universal church of the apostolic age, so to speak, was headed by the Jerusalem community, itself under successive single leaders, first Peter then James.16 Paul therefore had no independent mission, did not break with Peter and Antioch, and repeatedly returned to Jerusalem for consultation, as he had done shortly after he went over to the Jesus movement (9:26-30). All leaders share the same theology, a theology that shows at least as much influence from the historical Paul as from any conjectural reconstructions of the views of Peter and James.
+
+      Luke's task was to support the legitimacy of the gentile mission without cutting the links to the ancestral religion of Israel. His major challenge was not from those who wished to impose Torah observance upon all Christians. In the Aegean world, that was no longer a vital controversy-in so far as extant evidence indicates. A greater problem came from those who were willing to kiss that heritage goodbye. This is quite apparent in Luke's Gospel, which revises Mark along the lines of continuity with the Israelite heritage.17 With this are associated several apologetic goals: Paul is no renegade Jew, but remained faithful and observant to the end. He was not the originator of the gentile mission. That honor belonged to Peter (10:1-11:18), followed by anonymous missionaries in Antioch, who were supported by the Jerusalem community, which sent Barnabas to their aid. Barnabas recruited Paul (11:19-25). Paul was not a rebel against duly constituted authority. All claims of this nature were the fraudulent concoctions of devious enemies. These controversies are already apparent in Paul's correspondence.
+
+      Paul (introduced in the narrative with the name Saul, used until 13:9 and never thereafter, except in retrospect) sets out to convince Jews that their hopes have been fulfilled by what God did through Jesus. Most Israelites disagreed, justifying his subsequent turns to gentiles.18 Paul's Jewish credentials are superior to those of any other believer in Acts. He was reared and educated in Jerusalem, a Pharisee taught by the eminent Gamaliel, rising eventually to become a member of the Israelite high court (the Sanhedrin) and a prominent persecutor of the partisans of Jesus, authorized by the high priests to arrest and incarcerate the same, for whose executions he dutifully voted (Acts 22:3-5; 26:10). The historical Paul affirmed that he had been a Pharisee; in Acts Paul remains a Pharisee, still an adherent of that strictly observant sect (23:6).19 Indeed, Paul is the only Christian in Acts depicted as participating in the temple cult (21:26). His Jewish resume is therefore utterly unimpeachable.
+
+      This is not to suggest that he was a "barbarian." lacking Hellenic attributes. Paul was a citizen of no less prestigious a citadel of Greek culture than Tarsus (21:37). Showing is Luke's major means for establishing his hero's Hellenism. Paul is a gifted orator who can dissuade "barbarians" from sacrificing to him (14:8-18), quiet a riotous crowd with a gesture (21:40), engage the philosophers of Athens (17:22-33), and entertain Hellenistic monarchs and provincial officials with his erudition (24:24-26; 26:1-32). These worthies may not agree with Paul, but they respect his character and learning. The character of Paul manifests some development. The youthful Saul had many good qualities, but, like the typical tyrannical persecutor, his temper was out of control (8:3; 9:1-2). In the Greco-Roman world, uncontrolled rage was among the most deprecated of vices. After conversion Paul gave up his fanatical rage. Thereafter his anger found appropriate channels (e.g., 17:16). He became an example of the classical virtues of prudence, moderation, courage, and justice.20Virtuous people allowed reason to regulate their conduct, manifested a courageous temper, and never lost control of their emotions.
+
+      Those who were considered eligible to lead the virtuous life were wealthy and well educated. Paul enjoyed a high social status. He was wealthy (24:26), but willing to engage in a craft and live the rigorous life of an itinerant teacher of wisdom. This status is most apparent in the ease with which he can move in high society, although he has no difficulty in associating with those further down the social scale.21 To his Jewish and Greek credentials Paul adds Roman citizenship, inherited, not acquired (e.g., 22:25-28), high, not low. Such is the force of his character and bearing that no one challenges his claim to be a citizen of Rome. Roman officials and military officers repeatedly declare that he is innocent.22 One result of his fulsome curriculum vitae is that Paul exhibits in person the universality of the Christian faith and mission. Paul is a highly placed and learned Jew, embodying the Israelite heritage, a capable and cultured Hellene fully equipped to evangelize Greek-speaking gentiles, and a Roman of excellent standing, embodying the official virtues of the ruling political power.
+      Paul does not lack the charismatic qualities of speaking, healing, and leading. His hands bestow the Spirit, his voice curses the wayward, his cast-off clothing cures the afflicted (19:1-7; 13:6-12; 19:11-12). 23 The onetime Saul is also a hero of the traditional sort, manifest in courage before mobs (14:14-17; 21:39b-40) and judges (e.g., 23:1-10), his ability to act vigorously despite severe injuries (14:19-20; 21:25-40), and his resourceful courage aboard a storm-battered ship (27:21-43). Paul in Acts does not work with true colleagues. His historical associates, such as Timothy, are low-level assistants who perform errands. This is one means for demonstrating Paul's superiority and self-sufficiency. 24 One reason that Paul does not write letters in Acts is that he does not need to do so. His communities have no problems and evidently do not require friendly, pastoral support beyond what visits convey.
+
+      Because of the numerous parallels between and among Jesus, Peter, and Paul, the care taken by Luke to conform Paul's biography to that of Jesus is easily overlooked. Since the former began as a violent enemy of God's people while the latter was the Son of God by birth, the task was not easy.25 Nonetheless, the story of Paul begins with a baptism and receipt of the Spirit (Acts 9:17-18; cf. Luke 3:20-21), accompanied by prophecies about his destiny (e.g., Acts 9:15-16; Luke 1:30-33). Both had forerunners.26 Both preached an inaugural sermon in a synagogue that generated contention (Luke 4:16-30; Acts 13:14-50). 27 Each is a teacher  engaged in an itinerant mission, that is, journeys. Both are "chosen vessels" (Luke 9:35; Acts 9:15). An important thematic similarity is that each pursues courses that lead to the center of his mission-Jerusalem and Rome, respectively-missions that conform to the will and plan of God.28 Peter and others are appointed as witnesses, but they do not have a mission explicitly characterized as fulfillment of God's will. The final part of Paul's story (Acts 20:1-28:16) closely conforms to that of Jesus.
+
+      Table 9: The "Passions" of Jesus in Luke and Paul in Acts29
+
+      Jesus (in Luke)
+
+1. ''Passion Predictions": 9:22, 34; 18:31
+2. Final Address: 22: 14-38
+3. Argument with Sadducees over Resurrection: 20:27-39
+4. Agents of High Priest Slap: 22:63-64
+5. Four "Trials":
+A.Sanhedrin: 22:66-71
+B. Roman Governor (Pilate): 23:1-5
+C. Herodian King (Antipas): 23:6-12
+D. Roman Governor (Pilate): 23:13-25
+6. Officials Declare Innocent: Pilate: 23:14 (cf. 23:4, 22); Herod: 23:14; centurion: 23:47
+7. Mob Demands Death: 23:18
+
+      Paul (in Acts)
+
+1. "Passion Predictions": 20:23-25; 21:4, 11-13
+2. Final Address: 20:17-35
+3. Argument with Sadducees over Resurrection: 23:6-10
+4. Agents of High Priest Slap: 23:1-2
+5. Four "Trials":
+A. Sanhedrin: 22:30-23:10
+B. Roman Governor (Felix): 24:1-22
+C. Herodian King (Agrippa): 26
+D. Roman Governor (Festus): 25:6-12
+6. Officials Declare Innocent: Lysias (Tribune): 23:29; Festus: 25:25; Agrippa: 26:31
+7. Mob Demands Death: Acts 22:22
+      This symmetry demanded substantial labor (and the sacrifice of much historical credibility). Luke indubitably wishes to make the legal experiences of Paul replicate those of his master. This compels raising the question of why Luke does not narrate the martyrdom of Paul, as the Acts of Paul would do. In the same structural place where Luke's Gospel records the conviction, crucifixion, and resurrection ofJesus (Luke 23:24-24:49), Acts describes Paul's journey to Rome (Acts 27:1-28:16). This narrative is a symbolic death and resurrection. 30 Acts presents the story of Paul as a kind of "gospel," a life pressed into the mold of myth, that is, the creed. In Acts Paul is not just a bearer of the saving message; he is also a savior figure. This is clearly depicted on the voyage to Rome, where all are saved because of Paul, who promises deliverance, echoing the words of Jesus (Acts 27:34; cf. Luke 21:18). Cast, like Jonah, alive onto dry land, he shows himself invulnerable to poison and is therewith vindicated, as comments of the local "natives" confirm.31 For Luke, a major function of the resurrection of Jesus was likewise the vindication of one wrongly executed. The "risen'' Paul then engages in a ministry that echoes Jesus' early activity (Acts 28:7-9; Luke 4:38-41) A. J. Mattill observes, "It is almost as if Paul were Jesus redivivus..."32 He is. The theme of Paul the savior is one component of the Deutero-Pauline portrait. 33 Paul does not replace Christ, whose servant he is, but he does bring redemption to others, light for those who live in darkness. Both can be characterized as "light for the nations" (Luke 1:32; Acts 13:47).
+
+      This high "paulology" is congruent with Lucan soteriology and anthropology, which do better service to the cause of continuity in salvation history than to the status of Jesus as a unique redeemer. 34 In the realm of anthropology, Colossians and Ephesians are more akin to Luke and Acts than to Paul, for, despite the affirmations of newness of life, there is a tendency to replace the indicative/imperative model with ethical instruction, in other words, to regard moral capacity as a natural endowment for which grace is a kind of "booster shoot."
+
+      The canonical Acts plays quite successfully with both sides of divinization: Paul is received as a god by those who know no better. The most famous incidents take place in Lystra (14:8-20)35 and on the island of Malta (28:3-6).36 Another text worthy of examination is the telling (and humorous37) Acts 19:13-17:
+
+      13 Then some itinerant Jewish exorcists tried to use the name of the Lord Jesus over those who had evil spirits, saying, "I adjure you by the Jesus whom Paul proclaims." 14 Seven sons of a Jewish high priest named Sceva were doing this. 15 But the evil spirit said to them in reply, "Jesus I know, and Paul I know; but who are you?" 16 Then the man with the evil spirit leaped on them, mastered them all, and so overpowered them that they fled out of the house naked and wounded. 17 When this became known to all residents of Ephesus, both Jews and Greeks, everyone was awestruck; and the name of the Lord Jesus was praised.
+
+      The phrase "Jesus ... and Paul I know" evokes the supernatural knowleage of demons confronted by the Jesus in Mark 1:24: "and he cried out, 'What have you to do with us, Jesus of Nazareth? Have you come to destroy us? I know who you are, the Holy One of God.' "38
+
+      In summary, the heroization of Paul in Acts is not highly restrained. Paul has it all and does it all. His story and his accomplishments rival that of Jesus in some important respects. Luke did not construct his portrait of the heroic Paul simply to glorify him. Every element of his extraordinary character served his mission, namely, Luke's theological and other goals. The Paul of Acts is both the agent and symbol of the worldwide mission to create a universal church, the legitimate heir of Israel and a tent under which all people could experience the salvation of God. One of the ironies of history is that Luke, who did not fully embrace Paufs theology and did not acknowledge the existence of his letters, did much to establish a framework in which the letters of Paul were received by the merging
+orthodox church.39
+
+      Paul is without doubt Luke's hero, but Luke does not present the leading features of Paul's theology, nor does he reveal some of the more salient elements of his biography. For the author of Acts, the heritage of gentile Christianity pioneered by Paul was under attack, and Paul could only be defended through some major modifications. One of these concerns the title "apostle," a title used routinely by Paul of his vocation and authority. Paul is Luke's hero, but Luke cannot assign him the title of apostle, which was restricted to the followers of Jesus. As far as Luke's circumstances went, the opponents of Paul in Galatians and 2 Corinthians had triumphed! Luke's was not, despite its ultimate success, the only resolution to the problem of the Pauline heritage and to the issue of church unity.
+
+      THE ACTS Of PAUL
+
+      The Acts of Paul appeared in the second half of the second century, between c. 160 and c. 190, probably c. 170-175.40 The works now designated "apocryphal acts of the apostles" are a disparate group united by a biographical frame that follows an apostolic missionary from his original commission to his death, usually by martyrdom. Five of these books-those featuring Andrew, John, Paul, Peter, and Thomas-are called "major," although a case can now be made for adding the Acts of Philip to that category. Only the Acts of Thomas is complete, and all of these acts were subjected to editing.41 Of the major Acts the piece devoted to Paul was the most acceptable in catholic circles, particularly on doctrinal grounds, and was ultimately condemned because of its use by heretics, notably the Manichees as well as followers of Priscillian.42 Nonetheless, the Acts of Paul continued to be read and utilized as an historical and edifying source throughout the Middle Ages.43
+
+      Perhaps two-thirds of the entire work survives, and several sections exist in scanty fragments. The existence of some scenes can be identified or outlined by reference to the sixth-century Acts of Titus and two Byzantine authors, Nicetas of Paphlagonia (tenth century) and Nicephorus Callistus (c. 1256-c. 1335).44 Although the work was composed in the late second century, the edition now reconstructed is not earlier than c. 300. Three components of the Acts of Paul enjoyed a separate existence. One, the martyrdom, was used liturgically on the appropriate feast, and was thus subject to considerable editing.45 Another, 3 Corinthians, was not an original part of the Acts of Paul.46 The third is the material featuring Thecla (or Thekla) of Iconium, who became an immensely popular saint in antiquity and later eras, as well as a more recent feminist heroine.47 The residue of the work must be reconstructed from incomplete papyrus texts.
+
+      As is the case with all of the apocryphal acts of the apostles except those of Thomas, the opening of the Acts of Paul is not extant. The logical and standard place to begin was the call of the particular apostle. In the case of Paul that means his "conversion" in the vicinity of Damascus. The span of Acts of Paul thus extended from that event to his martyrdom in Rome under Nero.48 The intervening material relates visits to various sites. In the more complete passages, these visits are not explicitly initial, church-founding visits. The emphasis is upon the apostle's pastoral role. This is in keeping with much of the Deutero-Pauline tradition, which honored Paul as a great missionary, but focused upon his role as a teacher for the extant church, as, most notably, in the Pastoral Epistles.
+
+      This orientation has helped to promote a hypothesis that Acts of Paul is a sequel to the canonical Acts.49 One should note, however, that a number of Paul's visits could have been foundational, as the data are incomplete (see below). In order to support his argument that Acts of Paul is a sequel, Richard Bauckham has to posit that the Acts of Paul did not begin with an account of his conversion.50 In response to Bauckham, Richard Pervo proposed that Acts of Paul sought to revise the story of Paul in the canonical Acts, while Daniel Marguerat argues that it should be considered as a "Rereading."51 All three of these approaches argue that Acts of Paul knew and utilized the canonical Acts.
+
+      Willy Rordorf, a distinguished authority on the Acts of Paul, has long dissented from this view, holding that Acts of Paul is quite independent of Acts.52 He therefore rejects all of the above-mentioned theories. The evidence for use of Acts by the Acts of Paul is, however, quite strong, including not only its general plan and content-a journey from Damascus to Rome, from conversion to martyrdom-but also specific examples of linguistic borrowing, as emphasized by Julian Hills, as well as imitation/revision of particular episodes.53 The use of Paul's letters is undisputed.54 Equally manifest is the use of gospel traditions. (See below.) The stories about Thecla contain some marks of an earlier, possibly first century, origin.55
+
+      The question of intertextual relationships among the various apocryphal acts of the apostles is vexing.56 Because these works exist in multiple editions, none original, separation of initial borrowing (such as the use of Mark by Matthew) from later contamination is difficult.57 The question is most acute in comparison of the Acts of John, Peter, and Paul. The use of a form of the Quo Vadis story in Acts of Paul 13 probably derives from the Acts of Peter 35 (Passion 6).58 This is quite possibly a secondary improvement to the Acts of Paul rather than the imitation by the author of one scene from the extant Acts of Peter, but certainty is not possible. If Acts of Paul utilized the Petrine acts, it is not to be dated before c. 175. Other sources, possibly oral in origin, are probable, especially for the story of Thecla.59 In its present form, the episodes featuring Thecla are an integral portion of the work, as numerous intratextual allusions indicate. The most notable of these is the encounter each has with a friendly lion ( 4.3; 9.23).60 This intratextual parallelism indicates that, despite the ravages of editors, condemnation, and the varied fate and state of manuscripts, Acts of Paul is a literary work executed by an author in control of his sources. 61 The following table reveals the evident plan of the original work, in so far as surviving sources indicate.
+
+      Table 10: Synopsis of the Acts of Paul
+
+Locality -- Section62 -- Source -- First Visit/Revisit68 -- NTData
+Damascus -- 163 -- 2, 5, [6]65 -- First -- Galatians, Act
+Jericho -- 9, 7 -- 1, 6 -- First -- ___
+Jerusalem -- 1 -- 2 -- ? -- Acts (Gal)
+Syrian (?) Antioch -- 2 -- 1a, 2, 7, 8 -- First69 -- Galatians, Act
+Iconium -- 3 -- 2, 3, 8 -- First70 -- Acts 14:1-673
+Pisidian Antioch -- 464 -- 2, 3, 8 -- First -- Acts 13
+Myra -- 5 -- 2, 8 -- Unknown71 -- Acts 27:5-674
+Sidon -- 6 -- 2, 766 -- Unknown -- Acts27:3
+Tyre -- 7 -- 767 -- Unknown -- Acts 21:3, 7
+Jerusalem-Cilicia-Smyrna -- 8 -- 6 -- Unknown -- Galatians, Act
+Ephesus -- 9 -- 1, 6, 7, 8, 9 -- First -- Acts 19, letters
+Philippi -- 10-11 -- 1a, 2, 7 -- Unknown -- Acts 16
+Corinth -- 12 -- 1, 2 -- Re-visit (?)72 -- Acts, letters
+Voyage -- 13 -- 1, 1a -- ___ --Acts 27
+Rome -- 14 -- 1, 2, 4, 7 -- First -- Acts, PE
+
+      Source Key:
+
+1. Greek papyrus of third-fourth century (P. Hamb.). Eleven leaves. 75
+1a. P. Michigan 1317, 3788, P. Berlin 13893, P. Oxy. 6, 1602, P. Bodmer 10, fourth century, mostly overlapping with P. Hamb.76
+2. Coptic papyrus of fifth-sixth century (P. Heid.). 2000 fragments of parts of the entire work.77
+3. Acts of Paul and Thecla, available in over forty Greek mss. and various versions.78
+4. The Martyrdom, available in several Greek mss. and various versions.
+5. P. Rylands inv. 44. A short but valuable Coptic papyrus.79
+6. Coptic P. Bodmer XLI.
+7. The Acts of Titus.
+8. Nicetas of Paphlagonia.
+9. Nicephorus Callistus.
+
+      Observations: (1) Although substantial portions of some episodes are missing, the general plan of the book and of its contents is clear. This is apparent from the overlap among the larger sources, which link the various sections, and from the multiple attestations for many of the episodes. The beginning is the most obscure, but it is most likely that the story included an account of Paul's conversion, modeled more upon Galatians than upon Acts 9. The Acts of Paul knows nothing of a release in Rome,
+followed by a mission to Spain.
+
+      (2) The chief plank in Richard Bauckham's argument that Acts of Paul is a sequel to the canonical Acts is the contention that it features return visits to sites already evangelized by Paul.80 The text itself is silent on this matter, and, more often than not, implies, or at least is open to, the interpretation that this is Paul's first stay at a site.81 Residence in the house of a believer does not prove that he has been at a city previously. The housechurch of Onesiphorus (3), for example, was evidently founded by Titus. Paul was unknown to Onesiphorus (3:2) His stay with Prisca and Aquila at Ephesus (9) is a logical inference from Acts 18-19 (cf. 1 Cor. 16:19). Acts of Paul is not interested in the question of initial or repeat visits, and the inference that Paul has been to many of these communities on a previous occasion is generally unwarranted.82 Paul is a wandering preacher supported by household patrons in almost every place.83
+
+      The chief inspiration for the portrayal of Paul in the Acts of Paul is the canonical gospel type, from opening epiphany to post-mortem appearance.84 The author took pains to make the story, both in its general plan and in many details, an echo of that of Jesus. The following list does not seek to be exhaustive; it is demonstrative:
+
+      1. Initial epiphany. Commission of Paul in a vision of Christ. (referred to in APl 9:5-6). Compare the baptism of Jesus.
+
+      2. "Temptation." Paul goes to the desert and is "with the wild beasts" (cf. APl 9:7). Compare Mark 1:12-13. On his journey to Jericho (in the desert region) Paul encounters and baptizes a lion (1).85
+
+      3. A ministry of proclamation, wonderworking, and persecution. Note, for example, Acts of Paul 2, where the apostle preaches, raises a dead person, and is thrown out of town (cf. Luke 4:16-30). In Ephesus, Paul's antagonist, Hieronymus, loses an ear, but is healed through the intervention of an angel deputizing for Paul (APl 9:27-28; cf. Luke 22:50-51). Like Jesus, Paul had forerunners (e.g., Titus, APl 3:286).
+
+      4. Paul recruits a disciple who follows his path of preaching (baptizing) and persecution (APl 3-4; cf. Mark 6:6b-13; 30). The apostle begins his mission in Iconium by preaching a sermon that opens with beatitudes (3:6; cf. Matt. 5:3-12). This leads to the conversion of Thecla, who gives up all to follow him.87 Her fiance came to arrest Paul with an armed crowd (4:15; cf. Mark 14:43).88 The offical before whom Paul is tried hears him gladly (cf. Mark 6:20 [John the Baptizer and Antipas]). Thecla is like a sheep without a shepherd (cf. Mark 6:34). In a vision she sees the Lord in the form of Paul (APl 3:21). Paul arranges to feed the household of Onesiphorus, which has given up all to follow him,89 by selling his cloak for five loaves (APl 3:23; 25; cf. Mark 6:35-44).90 Thecla offers to give up her sexual identity (gender) and follow Paul wherever he goes (APl 3:25; cf. Luke 9:57-58). When condemned to the beasts, she has an inscription describing her crime (APl 4:28; cf. John 19:19). The traditional name ''Acts of Paul and Thecla" is no less appropriate than the ''Acts of God and the Apostles" would be for the canonical book. Paul is the master, the shepherd, Thecla the lamb and pupil. He is, in some sense, Christ to her. In the episodes centering upon Thecla, Paul is like the "absent" Christ, to whom one prays and from whom consolation is sought:
+
+      But as a lamb in the wilderness looks around for the shepherd, so Thecla [condemned to burn in the arena] kept searching for Paul. And having looked into the crowd she saw the Lord sitting in the likeness of Paul and said, ''As if I were unable to endure, Paul has come to look after me." And she gazed upon him with great earnestness, but he went up to heaven.91
+
+      These images speak for themselves.92 Paul is a celestial shepherd who comes to succor his sheep. He also finds means for meeting their bodily needs: In the Acts of Paul 3:23-25, the apostle has his cloak93 sold to buy bread for his starving followers. The yield was five loaves. One doubts that the number was pulled out of a hat.94 The capacity for such sacrifice is miraculous.
+
+      At Myra no kinder fate lay in store:
+
+      ... He saw Hermippus coming with a drawn sword in his hand, and with him many other young men with their cudgels. Paul said to them, "I am not a robber,95 nor am I a murderer ..."96
+
+      Such repeated reminiscences point out that Paul did indeed take up his cross daily and suffer not one but many passions. One might argue that he had accomplished greater things than Jesus.97 The text just cited is a case in point, for the apostle thwarted this attack. His assailant was struck blind and broke down into confession. Presently he is, of course, healed.
+
+      5. Paul undergoes a passion (APl 14:4-7).98 On the voyage to Rome, (APl 13) Paul (who, 13:1, like Jesus [Mark 4:38] has fallen asleep) meets the risen Lord, walking on the water (cf. Mark 6:45-52), who announces that he is about to be crucified again. This-probably secondary-"passion prediction"99 indicates that Paul's death will have a saving effect.100 Condemned, like Jesus, by the ruling authority (Nero in this case), Paul was beheaded. From his neck flowed milk. This parallel to John 19:34 is followed by admiration from the soldier and bystanders (cf. Mark 15:39 and parallels). Following the execution Paul appears to the emperor and makes a speech. The soldiers, Longus and Cestus (the latter a centurion), come "very early" (cf. Mark 16: 1) to the grave, find two men praying with Paul, and flee in fear. The two, Titus and Luke, likewise flee in fear of the soldiers, but all works out for the best.
+
+      And, as Paul had told them, Longus and Cestus, the centurion, came in fear very early101 to the grave of Paul. And when they drew near they found two men in prayer and Paul with them, and they became frightened when they saw the unexpected miracle, but Titus and Luke, being afraid at the sight of Longus and Cestus, turned to run away.102
+
+      But they followed and said to them, "We follow you not in order to kill you, blessed men of God, as you imagine, but in order to live, that you may do to us as Paul promised us. We have just seen him in prayer beside you." Upon hearing this Titus and Luke gave them joyfully the seal103 in the Lord, glorifying God and the Father of our Lord Jesus Christ to whom be glory for ever and ever. Amen.104
+
+      This report is a recasting of the empty tomb story in Mark 16:1-8. It includes several "improvements" upon the original. Paul appeared to Nero rather than to his own followers.105 Moreover, his (male) disciples, in contrast to those of Jesus, remained with him. Unlike the women, they did not flee. The attendant soldiers (cf. Matt. 27:62-66; Gospel of Peter 35; 38, are converted and initiated. Paul's death (and resurrection) epitomizes the soteriological character of his ministry. Paul does not replace Christ, whose messenger he remains, but he recruits disciples, as had Jesus. These followers view Paul as their master and savior. The story follows the model of the canonical Gospel, arguably that of Mark. Although the same shape can be seen, in more subtle fashion, in the canonical Acts, 106 and this could have inspired the author, his particular model was apparently Mark, whose political orientation was more congenial to the author than was that of the Gospel of Luke. 107
+
+      The Acts of Paul promotes the most radical-next to Marcionform-of Paulinism yet witnessed. Its views represent a nearly diametrically opposite view to those of the Pastoral Epistles on such matters as authority, church and society, and ethics.108 The roots of its theology do not derive from Paul alone. This Paul does turn "mother against daughter and daughter against mother" (Luke 12:53).109 Rejection of marriage sets the mission against the fundamental institution of Greco-Roman society-the household.110 Although married couples can be found (e.g., Onesiphorus and Lectra, ch. 3; Aquila and Priscilla, 9:1), there is no suggestion that they procreate, and Paul, like the heroes of other Acts, certainly disrupts marriages (e.g. those of the affianced Thecla, 3; Eubula and Diophantes; Artemilla and Hieronymus, ch. 9; and Stratonike, the wife of Apollophanes111). In the apocryphal acts of the apostles conflict over sex replaces, as it were, the conflicts with Jews that motivate much persecutifn in the canonical Acts. In the Acts of Paul, the apostle continues the tradition of the radical, alienated, penniless itinerant, now active in the Greek-speaking urban world rather than in Syria and Palestine.112
+
+      The Acts of Paul brooks no compromise with the world. In response to harassment by the highly placed Alexander, Thecla "... attacked Alexander and rent his raiment, and tore off the golden crown of the figure of Caesar, which he had on his head, and dashed it to the ground, and left him naked, destitute and full of shame." (This follows the Armenian version,113 as the Greek text has been bowdlerized.114) Alexander was a priest of the imperial cult, and his crown bore the image of Caesar. Thecla's action was a crime against the emperor.115 The Acts of Paul uses the image of holy war-Christian warfare-in opposition to the Empire. Christians are, soldiers of the eternal monarch (APl 14:2-3). This declaration of war survives even in the martyrdom, where one would reasonably expect eventual editorial mollification.116
+
+      Moral rigorism, vigorous eschatology, embrace of ecstatic prophecy, and acceptance of women prophets have led to the reasonable conclusion that Acts of Paul, which emerged in central Asia Minor at about the same time as the "New Prophecy," known after its founder as Montanism, represents and/or advocates this movement. At the very least, Acts of Paul reflects the strong interest in spiritual renewal characteristic of the region at that time. If the Acts of Paul is a specimen of outright Montanist propaganda, it is quite subtle. No "new" -in the sense of postapostolic-revelations are delivered. Such pronouncements were characteristic of the New Prophecy, which saw itself as the recipient of the promised "Paraclete" (John 14:16). Thecla is an ideal Montanist icon because of her celibacy and ardor, but it is remarkable that the portion of the work devoted to her (APl 3-4) does not refer to the Spirit (although she does have a vision, 3:21). The safest conclusion is that the Acts of Paul and the New Prophecy come from a similar environment, but that Acts of Paul is not a direct representative of it.117
+
+      This work displays modest theological sophistication; it propounds a popular theology with charismatic elements that is not without parallels in many eras of Christian history. In this regard, the author was not utterly unlike his canonical predecessor, although his theology was both more popular and more charismatic. Literarily, however, the author displayed more than a little sophistication by placing his story of Paul within the gospel shape. Those who received Paul (and Thecla) received Christ. Salvation history is a tool for opposing heretics, but it does not play the vital role that it does for Luke.118
+
+      The Paul of these non-canonical Acts, like the Paul of Acts, is a wandering missionary, who works wonders and converts large numbers to the faith. Differently from the Paul of Acts, his message has a strongly antiestablishment edge, rejecting the established forms of authority, notably the emperor, and its institutions, particularly the family. He is, like the Paul of the Deutero-Pauline letters, but unlike the Paul of Acts, a "loner," with no apparent connections to a community in Jerusalem or to other leaders, such as Peter and James.119
+
+      THE EPISTULA APOSTOLORUM
+
+      This text, 120 the title121 of which derives from its content, was probably composed in Egypt during the last quarter of the second century.122 The Epistula survives fully in very late Ethiopic manuscripts, probably translated from an Arabic version of a presumed Greek original.123Epistula Apostolorum itself is a revelation dialogue, a post-resurrection conversation between Jesus and the apostles that is embedded within a communication itself embedded within a narrative introduction. The text is, in structure, a double Chinese box. No epistolary conclusion is provided. The revelation dialogue flourished in the world of Gnosis. The generally "orthodox" Epistula Apostolorum was an attempt to capture this genre for catholic Christianity. This suggests that the form-a distant descendant of Plato's brilliant dialogues-had some appeal.124 These conversations are also testaments of Jesus, with roots in that genre also.125 The quasi-epistolary framework is additional evidence for the importance of the letter as a medium of communication among Christians. Behind this framework stands, at some remove, the impact of Paul.
+
+      This is the most "catholic" of "epistles," addressed to churches in East and West, North, and South (ch. 2). It therefore pretends both that the apostles had gone out to the four corners of the earth to evangelize the world and yet were evidently together at the time of its composition. It also draws upon a wide range of early Christian literature, including many of the texts that would find their way into the eventual New Testament canon, and the Apostolic Fathers, as well as a number of Christian apocrypha. Allusions to the Pauline corpus are frequent. 126 The author was also familiar with Acts and, possibly, with the Acts of Paul.
+
+      In retrospect, it is likely that the concept of a document from the apostolic college was inspired by Acts 15:23-29. For the author, Acts was no sacred or inviolable source. In ch. 15, the Lord predicts that one of the group will be in prison at Passover, experience an angelic delivery and miraculously opened door, then spend time with believers. This reflects the adventure of Peter in Acts 12:1-17, which has, in its complexity, the marks of a Lucan composition. The most probable explanation is that the author utilized and modified Acts 12, clarifying somewhat the enigmatic conclusion of v. 17.127
+
+      After a command to preach to Jews and gentiles throughout the world in ch. 30, chs. 31-32 turn to a new subject. The Twelve will meet a man named Saul, "which being interpreted means Paul."128 The Lord then narrates the conversion, following the D-Text, and/or, possibly, the Acts of Paul.129 The apostles themselves will heal his blinded eyes. After an expanded account of the prophecy about Paul's future in Acts 9:10-16, the Lord tells his hearers to instruct Paul in all matters of the faith, with particular reference to prophetic scripture. According to ch. 33, Paul will come to them "quickly," presumably in Jerusalem, per Acts 9:26-30. This account, which is at considerable variance with Galatians 1, goes beyond Acts in its efforts to integrate Paul into the early Jerusalem community and the company of Jesus' immediate followers. Like Luke, this author stresses the continuity of salvation history and places Paul within it as a subordinate of the Jerusalem authorities.
+
+      Polemical and controversial issues cannot be directly detected.130 If, however, any spoke of conflict between Paul and the Jerusalem leaders, either positively, as did Marcion, or negatively, as in the Clementines, one could point to the Epistula Apostolorum to correct these views. Although quite different from the roughly contemporary Irenaeus, this text likewise assumes Paul's regularity and legitimacy. Paul teaches nothing that Peter does not teach. False teachers and doctrine exist,131 but Paul cannot be linked to any of them. Unlike Irenaeus, Epistula Apostolorum is utterly innocent of Pauline theology.132 Although Pauline letters are cited by allusion, Epistula Apostolorum says nothing about Paul as an author. In balance, it is likely that the insertion of Paul into the Epistula Apostolorum was deemed important133 and that its purpose was to assure the readers that Paul belongs to what it views as, and eventually became, the mainstream. Otherwise stated: this report will correct opposing views of Paul. Epistula Apostolorum may be a rare voice of an Egyptian "popular" Christianity that lacked the sophistication of such Alexandrians as Clement and various "Gnostics."134 Egypt also contained some for whom Paul was primarily a teacher of righteousness.135 The Epistula Apostolorum shows the utilization of Pauline narratives within another narrative for purposes not unlike those of the canonical Acts, in a different and later context.
+
+      THE ACTS OF PETER
+
+      The Acts of Peter exists, like the Acts of Paul, only in fragments.136 The martyrdom section, used, like that of Paul, in worship, alone survives in complete Greek witnesses. The subject of this section is the Actus Vercellenses (Vere.), a sixth- or seventh-century Latin piece derived from a translation made in the third or fourth century.137 The earliest certain attestation of the work is Eusebius (H.B. 3.3.1-2), who places it among rejected Petrine writings.138 Third-century writers made use of the work, without attribution,139 and the thicket of intertextual relationships among the Acts of Peter, Paul, and John make it quite certain that the work existed in the last quarter of the second century.140 The general perspective of the Acts of Peter is quite unlike that of the Acts of Paul, for it opposes rigorism.141 Lapsed believers who repent are to be restored to communion, martyrdom is to be accepted but not pursued, and money may be received from those of questionable character.
+
+      Two-thirds of the original work survives, although not in its original state. The original evidently had two foci: Jerusalem and Rome. This is to say that travel was not a major focus of the Acts of Peter. Its hero was the leader of the church in two "capitals," the Holy City of the biblical tradition and the imperial center. The shift in his location represents the movement from Jewish to gentile Christianity. Probably because of its combination with the Pseudo-Clementines,142 this section was removed and the book re-edited to account for gaps. The Pauline material (Verc. 1-3) is a later addition to the Acts of Peter; it now begins the major surviving section. Two pieces from the earlier Jerusalem component survive, each edited in a strongly misogynist fashion to support celibacy.143 Both of these stories use miracle as a symbol and evidently sought, in their earlier form, to reinforce the view that God's ways may seem cruel but work out for the best. Other episodes may be implied.
+
+      Actus Vercellenses begins with Paul in Rome. After he leaves for Spain, Simon (the magician of Acts 8) makes substantial inroads into the community. A vision summons Peter to Rome, where he engages in a lengthy contest with Simon, whom he utterly masters in a duel of miracles. Forestalled by Peter in an attempt to fly, Simon was injured and eventually died. Disruption of partnerships and marriages brought about by Peter's preaching lead to persecution. Advised of the plot, Peter leaves Rome but experiences an appearance of Christ (the Quo Vadis episode) and returns to Rome, where, at his request, he is crucified upside down, delivering a moving oration to his followers.144 Peter's death brought the persecution to a close.
+
+      Actus Vercellenses opens, in effect, where Acts left off, with the exception that Paul seems to be in prison, rather than in a private house,145 although he has regular contact with the faithful. Among his converts was Candida, the warden Quartus' wife. She, in turn, brought her husband into the fold.146 That worthy, without making any reference to legal issues, instructs Paul to leave Rome and travel at his own discretion.147 Paul leaves the matter in God's hand. At the end of a three-day fast, he prayed and received a vision with an oracle directing him to become a physician to the Spaniards.148 The balance of the unit is an extended farewell scene.149 The faithful lament and recall, somewhat gratuitously, his arguments with Jewish leaders (cf. Acts 28:17-31}, whom.he refuted by. saying that Christ, whom their fathers killed, had abrogated the "ritual" law. The people entreated Paul to restrict his Spanish mission to a year, at most, comparing the apostle to a mother who abandons her children. A public voice from heaven squelches their petitions. Paul will,be executed by Nero. This silences the protests and augments faith.
+
+      The narrative is aware of the tradition that Paul fulfilled his plans to visit Spain,150 but does not adopt the theory that Paul was acquitted at trial and later returned to Rome and re-arrest. The public voice from heaven is superior to private revelations received, for example, in Acts 9:15-16. Paul's commission comes from Christ. The immediate object of this divine intervention is pastoral: believers must not resist the will of God. The first paragraph has established three qualities of Paul: he is a missionary who can convert influential people,151 a pastor who nourishes the faithful, and a disputant who can rout rivals.152 He is, moreover, a privileged agent of God, one who communicates privately with the deity and publicly on God's behalf.
+
+      Chapter 2 describes the farewell liturgy,153 also set in a pastoral context. Paul celebrates a (bread and water154) eucharist. Spiritual insight led him to rebuff one communicant, Rufina, who was involved in an adulterous relationship.155 She may be saved if she repents. In punishment, Rufina was paralyzed on one side and lost her speech.156 This incident panics the other believers, who wonder if they can be forgiven. The apostle responds with a brief address promising that those who abide in the moral requirements of their faith will be forgiven sins committed in ignorance. 157 As in the epistles (e.g., Col. 3:5-17), his exhortations take the form of contrasting catalogues of virtues and vices.
+
+      In his subsequent prayer, Paul utilizes the Deutero-Pauline "once ... now" frame158 to characterize himself as a former blasphemer, persecutor, and enemy of Christ. This prayer makes the pastoral purpose of such passages as 1Tim.1:12-17 (an apparent model)159 explicit: if God forgave the abominable Paul, he can also forgive the likes of me. The faithful, recognizing their vulnerability, pray that Paul may return as soon as possible. This foreshadows the difficulty that will soon arise. Acts of Peter represents the venerable view that heresy could gain no foothold so long as the original apostles were present.160
+
+      The final Pauline unit (ch. 3) draws out the farewell through retardation. Among those conducting him to the harbor are representatives of all sorts and conditions, headed by a Senator, Demetrius.161 Unfavorable weather prevents an immediate departure. Paul sends messengers with this news, motivating large numbers to come by various means to be with Paul, who edifies them for three days before he finally departs. This unit reinforces the great love of the entire community for Paul.
+
+      The Paul of these secondary chapters is very much the Deutero-Paul found elsewhere: a gentile, to all intents and purposes, a sinner turned around by God; the chosen vessel; and a great spiritual leader. Grace stands at the center of his theology. "He" understands that grace is power, the source of faith, which equips believers. Even egregious sinners can repent and return.162 The purpose of the addition is clear: to place Paul on an equal footing with Peter (who also advocates reception of the penitent) in Rome, where both will lead in turn and in turn be martyred. The tendency to strengthen the relationship between the two apostles, first concelebrated in 1 Clement, will continue to develop.163
+
+      Related texts include the Passion of Peter and Paul and the Acts of Peter and Paul. Sources of the Passion included the Acts of Peter, PseudoMarcellus (below), the Clementines, and the Acts of Paul.164 The longer edition of the Passion opens with Paul's return from Spain to Rome, where he assists Peter, whose theology he shares, in debate with some Jews and in the conflict with Simon. Their joint prayers send the airborne Simon to his just doom.165 This event, rather than recalcitrant wives and concubines, 166 led to the condemnation of both, who die in ,the respective manners.167 Nero, too, soon dies.168 Paul's role is relatively minor in this account, but his link to Peter, which extended to their deaths, is dear. In that sense the Passion resolves matters that the Acts of Peter anticipated.
+
+      " The Acts of Peter and Paul, known as "Ps.-Marcellus" from the putative author (a companion of Peter in the Acts of Peter), is a sixth- or seventh-century Greek text also available in various versions.169 Elaborations of Paul's travels and martyrdom give Paul a role more nearly equal to that of Peter. They are the "two great lights."170 A remarkable feature of this work is that it begins with data derived from Acts 28:10-15: Paul departs from Malta ("Gaudomeleta'') and stops at Syracuse, Rhegium [Messina, Didymus],171 Puteoli, Three Taverns, and the Forum of Appius. He follows this itinerary as a free man who can choose his own destination. Ps. Marcellus thus uses data from Acts while adopting the view of the Acts of Paul that Paul was not a prisoner.172
+
+      After a number of adventures, Paul arrives in Rome, after which the story blends into the tradition of the Acts of Peter.173 This text was the most successful attempt to unify the ministries of Peter and Paul. As de Santos Otero observes, it amounted to a reJecuohilltlie earlier acts of the two apostles.174 One might add that this program also rejects the spirit of the major apocryphal acts of the apostles, each of which presented its hero in near isolation from the other apostles. Like some other later Acts, this book was summoned to the aid of ecclesiastical politics. In its rivalry with the "New Rome" of Constantinople, the old Rome could invoke the bones of the two greatest apostles of the faith. One example of that tendency is the Acts of Titus. Another is the Acts of Barnabas.
+
+      THE ACTS OF BARNABAS
+
+      The Journeys and Witness of St Barnabas the Apostle, as it is entitled barely qualifies for a place in Lipsius-Bonnet's standard edition of apocryphal Acts, where it constitutes an Appendix.175 The work derives from the late fifth century. Its major purpose was to defend the autonomous character of the Church of Cyprus.176 The leading interest here is its treatment of the conflict between Paul and Barnabas (Acts 15:36-39), which was quite troubling to patristic authorities and has influenced the text of this work.177 Both the purpose of the text and its geographical information indicate that Acts of Barnabas was composed in Crete. Probable sources include, in addition to Acts and Galatians, an old edition of the Acts of Mark, and the Acts of Paul.
+
+      Mark, the point of contention in Acts 15:36-39, narrates the work in the first person singular. In contrast to Acts 12, Mark was of polytheist origin, a former servant of Cyrillus, high priest of Zeus, who was baptized by Paul, Barnabas, and Silas in Iconium.178 His story frames the account (chs. 1-6; 24-26). The mission focuses upon the conflict with polytheism, the feasts and temples of which play a prominent role.179 This may well represent the continuance of popular festivals that even the baptized were reluctant to abandon.180 The agent who brings about the martyrdom of Barnabas is none other than Paul's old adversary Barjesus (Acts 13:6-12). He foments the Jews to arrest and eventually lynch Barnabas (chs. 8 and 23). Pursued by a Jewish mob, Mark and his companions were able to escape, arriving eventually in Alexandria, where Mark launched his mission.181 The narrative leaves no room for Mark to meet with Peter and compose his Gospel, nor was he an eyewitness to Jesus' ministry. The focus of the central section is upon Mark's relations with Barnabas and Paul.
+
+      After Mark's baptism, Mark and Barnabas had paired visions, the content of which Barnabas commanded him to disclose to no one ( chs. 2-3). This establishes a link between the two and a distance from Paul, who is kept ignorant of God's plan for Mark. The mission to Cyprus had its point of origin in Iconium (ch. 5).182 The Antiochene commission of Acts 13: 1-3 is implicitly contradicted, perhaps because that made no mention of John Mark. Chapter 5 reports that Mark spent two months in Perga, hoping to sail west, but was forbidden by the Spirit to do so. Learning that "the apostles" were in Antioch, he went there. Once again, the account expands and contradicts Acts (13:14; cf. 15:38), which implies that Mark deserted Paul and Barnabas on his own initiative.
+
+      The portrait of Paul in chs. 6-10 is neither heroic nor edifying; to the modern reader, at least, it is amusing. Mark found the apostle sick in bed183 and furious with him because of his "delay" in Pamphylia. Mark avoided Paul for some time and finally begged his forgiveness by kneeling before him for several weeks, but to no avail. It transpires that  Mark had retained some parchments while at Perga.184 Their work at Antioch completed, the two decided to evangelize the East and then return to Cyprus for a pastoral visit. Barnabas wanted to go to Cyprus first (while Lucius proposed Cyrene185). Paul received a vision directing him to Jerusalem. Barnabas nonetheless continued to press the case of Cyrpus. Tue result was a big fight, one not ameliorated by Barnabas' proposal that he and Paul take Mark with them. The other believers supported this plan. In the end, Paul-who is clearly Barnabas' superior rather than a colleague whom Barnabas had recruitedsaid that, if Barnabas were to take Mark, he should go on his own. The two then made up, with a full ration of tears and prayers. Barnabas affirmed that they would not meet again, as he was to die in Cyprus. Paul, for his part, reported a vision of the Lord who told him not to resist Barnabas' plans, while he was to go to Jerusalem and learn of his own fate. The situation in view is more like that of Acts 20-21 (Paul's final journey to Jerusalem) than to Acts 15.
+
+      Although Acts of Barnabas seeks to justify Mark's action and Barnabas' continuing support of him, it does so by portraying Paul as stubborn and irascible, slow to forgive and unwilling to forget. The narrator obviously relied upon evidence and intimations from the epistles suggesting that the great apostle could be difficult. With that view many modern readers will agree. It is the most "candid" and unflattering portrait of Paul in early Christian literature, ad hoc but not without some careful exploration of the tradition. In the end, the whole controversy is patched up with - mutual good wishes and visions, which are shared, if at all, after matters has been decided. God decided the outcome, to be sure, but with support from Paul that came too little and too late. Those who write laudatory biographies of the apostle to the gentiles will not invoke these Acts as evidence. Barnabas could not, evidently, be the patron of Cyprus without establishing his reasons for separating from Paul.186 Even more importantly, the founder and patron of the Alexandrian church could not be portrayed as a Pauline reject.187 It was necessary to show, with or without delicacy and divine intervention, that Paul was wrong about Mark.
+
+      THE ACTS OF TITUS
+
+      Tue Acts of Titus188 is very similar to the work just discussed. Probably written c. 550-600, it focuses upon ecclesiastical issues and conflicts with polytheism. The form of the work is unlike most of the various Acts, biographical, following the subject from birth to death and covering most of the standard topics.189 Like the correspondence between Seneca and Paul,190 this story deals with the problems of well-educated people faced with the poor literary quality of the Christian scriptures. Titus himself was a Hellene of high social standing. Paul did not convert him-in fact, Titus was a very early believer. The information about Paul is unremarkable. He did authorize Titus to engage in missionary work Titus preceded Paul to every missionary site (ch. 4). Paul's status can be taken for granted. His character requires no defense or exposition. The Pauline itinerary is, of necessity, different, including a foray to Crete, which was evangelized before Ephesus (ch. 5).191
+
+      XANTHIPPE
+
+      The Life and Conduct of the Holy Women Xanthippe, Polyxena, and Rebecca,192 commonly known as the Acts of Xanthippe and Polyxena (Xan), makes rich use of various apocryphal acts of the apostles, as well as the canonical book, in the construction of a short Christian novel. The date is difficult to determine. M. R. James suggested the middle of the third century. Stefan Davies proposes 190-250,193 though the language of the extant edition cannot be earlier than c. 400.194 Note also the apparent use of the Acts of Philip. An Eastern provenance is likely. Spain is a closed book for the author, who cannot identify a single place in the Iberian Peninsula. All of the characters except Probus have Greek names. Greece, the other scene of action, may be a likely place of composition, but the geography of Greece is no less vague than that of Spain.Xanthippe is closer in content to the ancient romantic novels than any of the other works surveyed in this chapter. The work falls into two parts, rather like the Jewish novel Aseneth, with a conversion story in the first part and adventures in the second. Chapters 1-21 relate the initiation of Xanthippe by Paul during his mission to Spain, with the normal consequent marital difficulties, all happily resolved by the eventual baptism of her husband.195
+
+      Xanthippe came equipped with a beautiful younger sister, Polyxena. Chapters 22-42 relate her story, beginning with her kidnapping by a rival of her suitor, assisted by a gang of bandits. They set sail for Babylonia.196 Cast upon the Greek shore by a storm, she was rescued by Philip, who had been warned of her arrival in a vision. 197 Polyxena fled in the face of an attack by the bandits. Through the assistance of a lioness and the apostle Andrew (apostles were thick on the ground in Greece just then198), she and a Jewish slave named Rebecca received baptism, after which Andrew left them to their own devices.199 An official presently kidnapped the ravishing Polyxena, while a private soldier had to be content with the possession of Rebecca. The non-compliant Polyxena is condemned but, like Thecla, finds a friendly lion. Eventually she makes her way back to Spain. A barbarian assault and her attempt to do away with herself rather than face a fate worse than death enlivened this voyage. Xanthippe conforms to the popular convention of "There and back." In structure and plot, it is a Christian alternative to romantic novels such as An Ephesian Story. Even ,by the standards of that terse production, Xanthippe is so brief that the second part reads like an outline that would serve a narrator as an aidememoire.200 Paul is the chief religious authority, the equal, at least, of other japostles, but he enjoys no adventures.201 All of those are experienced by women, as the title aptly indicates. This is not an Acts of Paul, Xanthippe, and others.
+
+      The story opens in Spain. Probus, an official, sent his slave to Rome with messages. While there the slave happened to hear the message of Paul, "the truly golden and beautiful nightingale." This purple patch effectively characterizes the preaching of the apostle.202 The slave is smitten, but must return. The theme of a cult diffused through a slave illustrates a famous thesis of historians of religion. 203 Both this slave and Mme. Probus, our very own Xanthippe, fall sick with longing for the faith. Their symbolic language about illness (clearly intelligible to the Christian reader) leads Probus to believe that the sickness is physical and that Paul is a conventional physician (chs. 1-2).204 Physician was applied metaphorically to Christ. 205
+
+      In due course, "The preacher and teacher and illuminator of the world" arrived in Spain. The circumstances conform to the Actus Vercellenses (of Peter).206 The epithets conform to the Deutero-Pauline portrait of the apostle. Xanthippe is sick with (religious) love, and longs to touch his, garments (ch. 7).207 When the poor Probus learns of Paul's presence, he rushes into the street and beseeches him to come to his house.  Xanthippe's spiritual insight reveals that upon his forehead are the words "Paul the herald of God." She washes Paul's feet with her hair (cf. Luke 7:38). These parallels to interactions between Jesus and women help nurture the implicit paulology of this story. Paul is Christ to Xanthippe. The success of Paul's mission is described in terms reminiscent of the gospel.208 The apostle has the power to remit sins.209 His suffering is vicarious.210 After a normal series of adventures she is rewarded by a christophany, when the savior appears in the form of Paul (ch. 15).211
+
+      Chapter 22 introduces Polyxena. She had a threatening dream, in which Christ appeared in the form of Paul. Xanthippe advised her to receive baptism the very next day, then left to hear Paul. Kidnappers disrupted this plan. As she was finally preparing, following her diverse adventures (narrated above), to return home, Onesimus212 breaks into the narrative in the first person (ch. 38213). While en route to Paul in Spain, with letters (ch. 41), Onesimus received a vision directing him to pick up the two women and convey them to Paul. Weather prevented their departure. This was providential, for it gave "Lucius" (probably Luke214) opportunity to convert the entire city. Upon their return, they are welcomed by Paul. Both Polyxena's kidnapper (who has returned by some unreported route and means )215 and her former suitor abandon their schemes upon receipt of baptism. Just as in romantic novels, the entire populace celebrates the return of a heroine.216 Polyxena, however, will remain a virgin and never let Paul (rather than a husband) out of her sight. Nothing is said of Paul's eventual return to Rome.
+
+      The text is not clear about marital sex. Although Paul appears to endorse lawful marriage for those who burn, his subsequent words to Probus imply that sex is best avoided, and readers may conclude that the two will live in chastity, since Xanthippe had withdrawn from his bed after baptism. Polyxena will never marry. The surface interpretation is that baptism precludes marriage and that baptism after marriage should
+preclude sex, but this is not certain. The evident ambiguity may be due to subsequent editing of an earlier anti-sexual text.217
+
+      The apostle of Xan is the typical hero oflater Paulinism. He possesses all of the qualities-universal missionary, divinely guided hero, surrogate savior-of the tradition, and evidently works alone, with the support of various colleagues, but Paul is not the only or an isolated apostle.218 This image is taken for granted in this little novel, in which Paul's chief function is to ignite the plot. Many Christian authorities would have found Xanthippe and company preferable heroines to Thecla, for they do not challenge valid authority acting correctly in its proper sphere.
+
+      APOCALYPSES
+
+      In so far as they relate the content of visions, apocalypses are narratives. A popular type in early Judaism and Christianity featured tours of heaven and hell. 219 One of the most widespread and influential examples of this type was the Apocalypse of Paul (Visio Pauli).220 The original was probably composed in Greek, possibly in Egypt, c. 250. The most familiar form of the piece is a Latin text of the fifth and sixth centuries. This is incomplete and not well organized. So many editions in various languages exist that Richard Bauckham characterized the remnants as a "collection of literature."221 The ApocPl became the most popular apocalypse of its type and exercised a vast influence upon Christian art and literature, culminating in the great achievement of Dante. The extent of its popularity is manifest in the number of editions and translations into ancient and later vernacular languages, although its relatively thin attestation by theologians might lead one to conclude that ApocPl was an obscure text.222 The present form of the edition can be dated to c. 390, as it reports the discovery of the long-hidden book in Tarsus at that time.223 The work is orthodox, meting out stringent penalties for those who deny the virgin birth and the resurrection ( chs. 41,-42). A monastic, ascetic interest is patent. Clergy who commit sexual sins or neglect the poor also receive harsh treatment (chs. 34-36). Virgins of either sex receive a seven-fold greater reward than the.married (ch. 22). Still and all, the focus of the piece is upon God's love and mercy.
+
+      Although apocalypses were attributed to other apostles, Paul was a natural, since he reported that he had received a heavenly vision (2 Car. 12:2-4).224 For the figures of salvation history, from Adam to Abraham, the Patriarchs to Moses, and the prophets, Paul is the apostolic missionary (e.g., ch. 20) and the recipient of considerable praise as a guide to souls and for his powers of persuasion (e.g., ch. 51). He is often hailed as the "beloved of God" (e.g., chs. 20, 47, 48), and is the recipient of macarisms ("blessed are you ... ," for example, chs. 49-50). At the close (available only in Coptic), Paul returned from his tour of the other worlds to the Mount of Olives where he joins the other apostles. The heavenly world had salutations for Peter and John, but especially for Paul: "Greetings, Paul, honored letter-writer [or 'bearer']. Greetings Paul, mediator of the covenant! Greetings, Paul, roof and foundation of the church." This is the most complete integration of Paul into the apostolic college known from the ancient world. It silently refutes both the Paul of the letters and the Paul of Acts, who had a post-resurrection career as a persecutor of the church.
+
+      Through his intercession, those suffering in hell will receive a doubtless welcome day off each Sunday (ch. 44). Paul is, readers may safely conclude, a rather important and influential person. An angel predicts that he will defeat the accuser in the underworld.225 This makes him an agent rather than simply a herald of salvation, and sets the stage for the next work to be considered. In this once-famous apocalypse Paul is the apostle par excellence, recognized as such by God, implicitly, the heavenly Lord, and every prominent figure from the Hebrew Bible. Things do not get much better than this.
+
+      The Coptic Apocalypse of Paul, which probably dates from the second century,226 is preserved in the Nag Hammadi Library (V, 2; 17,19-24,9).227 It stands first in a group of four writings designated as "apocalypses." The classification is based upon the title rather than upon its apparent genre.228 A Greek original is presumed. This book is among the earliest efforts to associate the vision report of 2 Cor. 12:2-4 with Paul's conversion experience related in Gal. 1: 15-17. It therefore contradicts Acts 9:1 -19a. The author may not have known-or honored-Acts. Knowledge of epistles is certain, as there are citations of or allusions to 2 Corinthians, Galatians, and Ephesians. The text has one undisputedly Gnostic passage (19, 1-7), and represents the creator god, who resides in the seventh heaven, as inferior to higher beings (22,24-23,30). Murdock and MacRae believe that it represents the Valentinian reception and estimation of Paul in the second century.229 If Paul is not superior to the other apostles, he is certainly their full peer (19, 14-19).
+
+      Some of the opening is lost. Paul has encountered a little child (the puer speciosus, one form taken by the Savior230). It transpires that he is upon a mountain (a favored site for epiphanies), "the mountain of Jericho." That site evokes the apparent initial scene of the Acts of Paul.231 Paul asks the youth for directions to Jerusalem-a feature not in harmony with Galatians, although it could fit the Acts of Paul. The child says, "I know who you are Paul. You are he who was blessed from his mother's womb. For I have [come] to you so that you may [go up to Jerusalem] to your fellow [apostles."]232
+
+      "I know who you are" is reasonable enough, but it also evokes demonic recognitions of Jesus (Mark 1:24). The macarism transforms Gal. 1:15 into a statement like that made about Jesus in Luke 1 :42. When caught up to the third heaven (cf. 2 Cor. 12:2), Paul sees the twelve beneath him. (At 21:30 it is not clear whether they are ahead of him; in 22:14-15 Paul leads them. In the Ogdoad [eighth heaven, 23,29-24,3 ] the apostles greet Paul and accompany him upward.)
+
+      In the seventh heaven, the apostle responds to a question of the elderly, enthroned, resplendent figure (the Demiurge, inferior creator god) by saying: "I am going down to the world of the dead in order to lead captive the captivity that was led captive in the captivity of Babylon."233 The immediate source of this saying is Eph. 4:8: "Therefore it is said, 'When he ascended on high he made captivity itself a captive; he gave gifts to his people'." The author of Ephesians had applied Ps. 68: 19 to the victory of Christ. In the Coptic ApocPl, the apostle applies it to himself. He is a redeemer in his own right. One may argue that this is a transformation of Paul's own view that the preaching of the message is an eschatological event (2 Cor. 6:1-2). This is the most remarkable and dramatic presentation of Paul as a redeemer, because he is the source of redemption. No less remarkable is its basis: a Pauline citation about the work of Christ.
+
+      Several features of these two apocalypses coincide. Each applies macarisms to the apostle; each fully aligns him with the Twelve, and that not to his disadvantage; and each describes his descent as a means of salvation.234 The two apocalypses are evidently connected by a no longer readily recoverable intertextual web. The simplest solution is to posit that a Greek edition of the text now extant in Coptic served as a source for the theologically purified Latin edition, but this is not the sole possibility. These apocalypses show the continuation of the Deutero-Pauline efforts to magnify Paul's role in salvation history, with the concomitant shift from portraying him as the sole apostle (the letters) or as a non-apostle who is the great witness to the ends of the earth (Acts) to making him a peer, perhaps prim us inter pares, of the original twelve.
+
+      THE PSEUDO-CLEMENTINES
+
+      Among the writings purporting to stem from Clement of Rome is a work based upon, or using as a model, a novel of the "family" type. It probably appeared in west Syriac. 250.235 From extensive revisions there remain the Homilies (Hom.), which exhibit Arian sympathies, and the Recognitions (Rec.), which survives in Latin and Syriac translations.236 The Clementines237 are difficult to characterize.238 Tuey are rather rationalistic, like the Apologists, although with speculative tinges, but display a stridently anti-Pauline, "Judeo-Christian" orientation. From a literary perspective, the Pseudo-Clementines may be compared to the apocryphal acts of the apostles, in so far as they treat Peter's travels, conflicts, and message, but this dimension, like the novel framework, is in danger of being swamped by the concentration upon sermons. For a summary of the complex plot, it is difficult to improve upon that of the late Bishop of Durham, Joseph Barber Lightfoot239:
+
+      Clement, a noble Roman citizen, was connected by birth with the family of the Caesars. His father Faustus was a near relation and a foster brother of the reigning emperor, and had married one Mattidia, likewise Caesar's kinswoman. From this union had sprung two elder sons, Faustinus and Faustianus,240 who were twins, and our hero Clement, who was born many years after his brothers. At the time when Clement first comes before our notice, he is alone in the world. Many years ago, when he was still an infant, his mother had left home to escape dishonourable overtures from her husband's brother, and had taken her two elder sons with her. Not wishing to reveal his brother's turpitude to Faustus, she feigned a dream which warned her to leave home for a time with her twin children. Accordingly she set sail for Athens. After her departure her brother-in-law accused her to her husband of infidelity to her marriage vows. A storm arose at sea, the vessel was wrecked on the shores of Palestine, and she was separated from her children, whom she supposed to have been drowned. Thus she was left a lone woman dependent on the charity of others. The two sons were captured by pirates and sold241 to Justa the Syrophoenician woman mentioned in the Gospels,242 who educated them as her own children, giving them the names Aquila and Nicetes. As they grew up they became fellow-disciples of Simon Magus, whose doctrines they imbibed. Eventually however they were brought to a better mind by the teaching of Zacchaeus,243 then a visitor to those parts; and through his influence they attached themselves to S. Peter, whom they accompanied from that time forward on his missionary circuits. They were so engaged at the moment when the narrative, to which we owe this account of their career, presents them to our notice.
+
+      Their father Faustus, as the years rolled on and he obtained no tidings of his wife and two elder children, determined after many fruitless enquiries to go in search of them himself. Accordingly he set sail for the east, leaving at home under the charge of guardians his youngest son Clement, then a boy of twelve years. From that time, forward Clement heard nothing more of his father and suspected that he had died of grief or been drowned in the sea.
+
+      Thus Clement grew up to man's estate a lonely orphan. From his childhood he had pondered the deep questions of philosophy, till they took such hold on his mind that he could not shake them off. On the immortality of the soul more especially he had spent much anxious thought to no purpose. The prevailing philosophical systems had all failed to give him the satisfaction which his heart craved. At length-it was during the reign of Tiberius Caesar-a rumour reached the imperial capital, that an inspired teacher had appeared in Judaea, working miracles and enlisting recruits for the kingdom of God. This report determined him to sail to Judaea. Driven by stress of wind to Alexandria244 and landing there, he fell in with one Barnabas, a Hebrew245 and a disciple of the divine teacher, and from him received his first lessons in the Gospel. From Alexandria he sailed to Caesarea, where he found Peter,246 to whom he had been commended by Barnabas.247 By S. Peter he was further instructed in the faith, and from him he received baptism. He attached himself to his company, and attended him on his subsequent journeys.
+
+      At the moment when Clement makes the acquaintance of S. Peter, the Apostle has arranged to hold a public discussion with Simon Magus. Clement desires to know something about this false teacher, and is referred to Aquila and Nicetes, who give him an account of Simon's antecedents and of their own previous connexion with him. The public discussion commences, but is broken off abruptly by Simon, who escapes from Caesarea by stealth.248 Saint Peter follows him from city to city, providing the antidote to his baneful teaching. On the shores of the island of Aradus,249 Peter falls in with a beggar woman, who had lost the use of her hands. In answer to his enquiries she tells him that she was the wife of a powerful nobleman, that she left home with her two elder sons for reasons which she explains, and that she was shipwrecked and has lost her children at sea. Peter is put off the right scent for the time by her giving feigned names from shame.250 But the recognition is only delayed. Clement finds in this beggar woman his long-lost mother, and the Apostle heals her ailment.
+
+      Aquila and Nicetes had preceded the Apostle to Laodicea. When he arrives there, they are surprised to find a strange woman in his company. He relates her story. They are astounded and overjoyed. They declare themselves to be the lost Faustinus and Faustinianus, and she is their mother. It is needless to add that she is converted and baptised. After her baptism they betake themselves to prayer. While they are returning, Peter enters into conversation with an old man whom he had observed watching the proceedings by stealth. The old man denies the power of prayer. Everything, he says, depends on a man's nativity. A friend of his, a noble Roman, had had the horoscope of his wife cast. It foretold that she would prove unfaithful to him and be drowned at sea. Everything had come to pass in accordance with the prediction. Peter's suspicions are roused by the story; he asks this friend's name, and finds that he was none other than Faustus the husband of Mattidia. The reader's penetration will probably by this time have gone a step farther and divined the truth, which appears shortly afterwards. The narrator is himself Faustus, and he had represented the circumstances as happening to a friend, in order to conceal his identity. Thus Clement has recovered the last of his lost relatives, and the 'recognitions' are complete. One other incident however is necessary to crown the story. Faustus is still a heathen. But the failure of Mattidia's horoscope has made a breach in the citadel of his fatalism, and it is stormed by S. Peter. He yields to the assault and is baptised.
+
+      This survey must acknowledge the issue of the sources of the PseudoClementines, the numerous and thorny problems regarding which it will not engage. Scholarly consensus agrees that the anti-Pauline texts to be examined, Recognitions (1.27-71); the Epistula Petri (2), and Homilies (17.13-19), derive from sources.251 In the Pseudo-Clementines, Peter is closely allied with and subordinate to James, who is the Bishop of Jerusalem and effectively the "ecumenical patriarch." The primacy of James suggests an anti-Pauline orientation. F. Stanley Jones has studied the question of a source behind Rec. 1.27-71(specifically,1.27.1-44.1, 53.4-71.6).252 He identifies "Matthew" as the name of the putative author of this text, which he dates c. 200.253 Sources included the LXX, Jubilees, Matthew, Luke, Acts, Hegesippus, Justin, and (possibly) the Gospel of the Ebionites. Gerd Ludemann characterizes this material as " ... virtually ... a competitor with Acts ... [that] intentionally sets out to correct a section of Luke's Acts with its own version of the story."254 The thesis of this material is that Paul was to blame for the failure ofJames to convert his fellow Jews.255
+
+      Recognitions 1.27-39256 present a review of salvation history, with certain particular features.257 Chapter 39 describes the appearance of the prophet announced by Moses.258 He demanded the cessation of animal sacrifice, which was to be replaced with water baptism as a means of forgiveness. The people rejected him and had him crucified. This deed was changed to good (ch. 40). Rejection by the people authorized the conversion of gentiles (42.1). Under the leadership of James, the Jerusalem community prospered. At the climax of a series of disputes between the apostles and the priestly leadership, James goes to the temple with the entire community of believers (ch. 66). Gamaliel, a secret believer and a spy within the Council, spoke first. James was then invited to say his piece-and quite a piece it was. After seven days everyone, including the high priest, was on the verge of baptism. At this point (70.1), a hostile person entered to disrupt proceedings259 and throw James down the temple steps, leaving him for dead. 260
+
+      This "enemy" is Paul. The epithet comes from the Parable of the Wheat and the Weeds (Matt. 13:24-30), in which an "enemy" secretly planted wheat-like weeds in the crop (vv. 25, 28). The originator of this interpretation understood the parable as an allegory of salvation history and assigned to Paul the role most readers would attribute to a satanic adversary. Paul is thus portrayed as an agent of the evil one.261Recognitions 1.71 confirms this when Gamaliel reports that the enemy had been sent to Damascus to attack the believers.262 These incidents portray in narrative form the author's thesis: Paul halted James' mission when it was on the verge of complete success.
+
+      Introducing the Pseudo-Clementines are several authenticating texts. The Letter of Peter to James (Epistula Petri) accompanies Peter's "Preachings" (kerygmata). James is Peter's brother in the faith, but also "lord and bishop of the holy church" ( 1.1). The writer's goal is the proper protection and dissemination of James' thought. The model for this activity is the Jewish practice of guarding tradition. Following this is the Contestatio, a narrative of a covenant ceremony, somewhat reminiscent of the ceremony of the Qumran community,263 in which the presbyters solemnly engage to follow the regulations for the protection of these books. Finally comes a letter from Clement to James, "the lord and bishop of bishops, who governs the holy church of the Hebrews at Jerusalem and those which by the providence of God have been well founded everywhere, together with the presbyters and deacons and all the other believers."264 After considerable praise of Peter, Clement describes his ordination by Peter as his successor, including a homily on the duties of a bishop (chs. 3-19). The Pseudo-Clementines extend their claims from Jerusalem to Rome. This letter serves to introduce the novel, a copy of which accompanies it. The use ofletters is probably a distant reflection of the Pauline practice.265
+
+      Warnings in 1.2-5 and 3.1-2 frame the EpPetri. The reason for stringent precautions emerges in 2.3: "For some from among the gentiles have rejected my lawful preaching and have preferred a lawless and absurd doctrine of the man who is my enemy. 2.4. And indeed some have attempted, whilst I am still alive, to distort my words by interpretations of many sorts, as if I taught the dissolution of the law and, although I was of this opinion, did not express it openly. But that may God forbid!"266 Galatians 2 is in mind, in particular 2: 11-14, 17. Peter borrows the words of Gal. 2: 17 to rob Paul's gospel of validity.267 The author reinforces the permanence of the Torah with citations from Matt. 5:18 and 24:35. The enemy of James is also the enemy of Peter.
+
+      Peter's principal enemy in the apocryphal tradition was Simon of Samaria ("the magician"). In contrast to the proto-orthodox tradition, the Pseudo-Clementines hold that the false always precedes the true. The result is a series of"syzygies;' pairs of representatives of one and the other. This pattern can be traced throughout salvation history (Hom. 2.15-18). Simon therefore preceded Peter. Homilies 2.17.2-3 reads:
+
+      There came as the first the one who was among those that are born of women, 268 and after that there appeared the one who was among the sons of men. Whoever follows this order can discern by whom Simon, who as the first came before me to the gentiles, was sent forth, and to whom I [Peter] belong who appeared later than he did and came in upon him as light upon darkness, as knowledge upon ignorance, as healing upon sickness. 269
+
+      Although Simon is given the traditional "Gnostic" biography (Hom. 2.22-26), he represents Paul. The Pseudo-Clementines slandered Paul's views by placing them in the mouth of one of early Christianity's great villains. All that Paul said and did can be dismissed via this ad hominem claim.
+
+      Homilies 2.17.13-19 are part of a debate between Peter and Simon. Tue former claims that association with Jesus and instruction by him are superior to visions and dreams. Peter knows that sinners can experience dreams, while visions can be conjured by demons. Proper discourse among friends is oral and clear, not involving enigmatic speech or appeals to visions, for they entail uncertainty. The issue is the question of whether someone like Paul could offer a message of equal validity with the associates of the historical Jesus.270 There is at least one clear allusion to 1 Cor. 15:1-8. Peter's case rests upon his confession (Matt. 16:13-20)271. If "Simon's" commission by way of a vision were valid, his message would be the same as that of Peter and James.272 On two grounds his doctrine cannot stand: it does not harmonize with that of the acknowledged leaders, and its basis is untrustworthy. As even a casual reading of the epistles will confirm, these conflicts go back to Paul's own lifetime. The Pseudo-Clementines show that they remained alive at the close of the second century.273 In the end, it is difficult to understand the persistence of these views beyond affirmation that Paul was an early "bad guy," for, if the Pseudo-Clementines reflect the requirement that Jewish males by birth be circumcised-and this may be a residue from the past-they exhibit a hostility to the cult that surpasses anything in Paul and retain only the so-called "moral law," with which Paul was in essential agreement. All in all, the chief surprise is that the overt anti-Paulinism was not more thoroughly expurgated from the tradition.
+
+      Another text that plays an important role in the debate over the sources of the Pseudo-Clementines is the Ascents (or Steps) of James.274 The title comes from the speech and fate of James on the temple steps (e.g., Rec. 1.65-70). The work is mentioned by the arduous, if a notch or two below brilliant, fourth-century Bishop of Salamis, Epiphanius, who collected many descriptions of heretical sects in his Panarion, a heresiological pharmacology. In that he states:
+
+      They [Jewish Christians] call other acts 'of the apostles.' In these there is much that is full of impiety. There they armed themselves against the truth in no minor way. 7 Now they set out certain steps and guides in the Steps of James as if he expounds against the temple and sacrifices and against the fire on the altar and many other things full of babble. 8 Hence, they are not ashamed of denouncing even Paul here through certain contrived falsehoods of their pseudoapostles' villainy and deceit. They say, on the one hand, that he was a Tarsian, as he himself declares and does not deny. On the other hand, they assert that he was from the Greeks by taking a pretext in the passage spoken by him through love of the truth, 'I am a Tarsian, a citizen of no ignoble city' [Acts 21:39]. 9 Then they say that he was a Greek, the child of both a Greek mother and a Greek father, that he went to Jerusalem and remained there a while, that he desired to marry a priest's daughter,275 that for this reason he became a proselyte and was circumcised, that when he still did not receive such a girl276 he became angry and wrote against circumcision and against the Sabbath and the law.277
+
+      The claim that Paul was inspired by a worldly motive is typical of religious polemic. Asserting that Paul was a gentile contradicts Phil. 3:4-6. The basis is Acts, which is cited. The exegesis is not without justice, for it recognizes that it would have been difficult for a practicing Jew to obtain full citizenship at Tarsus, which required not only participation in polytheist worship, but two citizen parents. The characterization also builds
+upon the image of Paul as a man who could not manage his anger.278 It is also interesting that Epiphanius (rightly) rejects the claim that James opposed the temple cult, although this would have been congenial to the theme of perfect harmony among the apostles. The thesis that Paul was a gentile is also in harmony with the Deutero-Pauline tradition, which often makes him effectively such in the interest of encouraging gentile converts.279 This venomous legend attests to the depths of anti-Paulinism in certain Jewish-Christian circles.280 That subject will continue to receive attention in the subsequent chapter.
+
+      CONCLUSION
+
+      The portraits in these narratives vary considerably, from the hero portrayed in the canonical Acts to the villain of the Pseudo-Clementine tradition. Among the pro-Pauline writings, the Acts of Paul presents the most distinct portrait. There an "anti-establishment" Paul survives. Otherwise, the Deutero-Pauline tradition tends to yield to the understanding of Paul among the apostles. Rather than the subordinate of Jerusalem who ran his own mission, Paul is accepted into the apostolic college and granted his own sphere(s) oflabor. His ultimate close association with Peter came to stand as a symbol of church unity and as a powerful argument for the claims of the church in the imperial capital.
+
+      From the outset Christians at Rome were not shy about their two most distinguished local martyrs: Peter and Paul. The historical Paul focused upon his relations with Peter. These ended in disappointment (Gal. 1-2). In 1 Peter and 1 Clement Paul is the more important of the two.281 By the height of the Patristic era, Peter had become the more prominent, because he was the leader of the others and thus earthly head of the church. Up to the middle of the fifth century, the two apostolic martyrs held an equal place as founders of the Roman community. That this was not true is demonstrated by Paul's letter to the Romans, but few sought to challenge the claim.282 The (edited) Acts of Peter (Vere. 23) portrays them as a tag team: Peter goes to Rome to replace the absent Paul.
+
+      By c. 170, Dionysius of Corinth could depict the two as teaching together in Italy and as martyred in close temporal proximity. 283 He was not motivated by a desire to augment the prestige of Rome. The culmination of this process, which can be seen in a number of the later acts, amounted to replacement of the earlier Acts of Paul and the Acts of Peter: The two worked together and died together.284 Its liturgical symbol is the selection of a single day (29 June) to mark their joint martyrdom. The Decretum Gelasianum, of the early -sixth century and probably of Italian origin, assigns to "heretics" the view that the two did not work and die as a pair.285 In due course, Peter and Paul would oust Romulus and Remus as patrons ofRome.286 This was not unrelated to ecclesiastical politics and was stimulated by the rise of Constantinople as a new and Christian Rome.287 In the end, in poetry rather than mere fact, Peter and Paul joined hands in God's service. This is the eschatological conclusion to Paul in early Christian narrative.288
+
+      Narratives about Paul confirm the opening claim of this book that Paul has long been both a great hero and a nefarious villain within Christian circles. The data and portrait set forth in the canonical Acts exercised substantial influence over subsequent accounts, including those that had no interest in exalting Paul. The narratives (excepting the Acts of Paul) do not follow the Deutero-Pauline letters in portraying Paul as the only apostle worth mentioning. Integration of him into the apostolic circle is either assumed or demonstrated. In some cases, this involves subordination (e.g., Epistula Apostolorum; 3 Corinthians), a major object of which is to show congruity between his teaching and that of the other apostles. The Coptic Apocalypse of Paul evidently places him in a superior position.
+
+      Another noteworthy component of the narrative tradition is the representation of Paul as a savior figure in his own right. The means for this vary considerably. It is most notable in the close of the Acts of Paul and the Coptic Apocalypse, but it can be observed in the canonical Acts and in such a relatively late orthodox work as Xanthippe and Polyxena. Here continuity with the Deutero-Pauline letters is present, for Colossians already elevated Paul's trials to a soteriological level.
+
+      Identification of trajectories and common tlireads Should not obscure the wealth of variety and creativity displayed by these disparate authors over several centuries. The narrative established by Luke continued to exercise a potent influence, already apparent in the Acts of Paul, which sought to modify its content, and even in the Pseudo-Clementines, which do Acts the honor of rewriting it to reflect a thoroughly contrary viewpoint. Beginning with Acts, Christians of various orientations sought to make Paul the subject of biographical narrative and thus, to complete the circle, a figure resembling Jesus.
+
+      Notes
+
+1. See chapter 7.
+
+2. On the term INSERT TEXT ("acts, deeds") as a title, see Richard I. Pervo, Acts, Hermeneia (Minneapolis: Fortress Press, 2009), 29-30. The original title of Acts, if one existed, is unknown.
+
+3. For a survey of research, see Paul-Gerhard Miiller, "Der 'Paulinismus' in der Apostelgeschichte. Ein Forschungsgeschichtlicher Überblick," in Paulus in den Neutestamentlichen Spätschriften: Zur Paulusrezeption im Neuen Testament, ed. Karl Kertlege; QD 89 (Freiburg: Herder, 1981), 157-201.
+
+4. Zahn's work remains valuable because of his monumental erudition and unflagging energy. He was not immune to excesses of speculation. Lightfoot also remains valuable, particularly because of the clarity, honesty, and logic with which he addressed questions.
+
+5. The English translation, The Acts of the Apostles, trans. and ed. B. Noble et al. (Philadelphia: Westminster, 1971), was based upon the 1965 edition.
+
+6. M. Dibelius, Studies in the Acts of the Apostles, trans. M. Ling and P. Schubert; ed. H. Greeven (New York: Scribner's, 1956).
+
+7. See Karl Löning, "Paulinismus in der Apostelgeschichte," in Kertlege, ed., Paulus, 202-34; Daniel Marguerat, "L'image de Paul dans les Actes des Apotres," in Les Actes des Apotres: Histoire, recit, theologie. XX congres de l'Association catholique franraise pour l'etude de la Bible (Angers, 2003 ), ed. M. Berder; LD 199 (Paris: Cerf, 2005), 121-54. See Marguerat, ed., La Reception du paulinsime dans les Actes des Apotres.
+
+8. See Table 6.
+
+9. See Pervo, Acts, 14-18.
+
+10. So Andreas Lindemann, Paulus im iiltesten Christentum, BHT 58 (Tubingen: Mohr Siebeck, 1979), 49-50.
+
+11. The same observation may be made about many, perhaps most, modern historians. Many books about the "founding fathers" of the U.S., for example, are explicit or implicit programs or tracts about how contemporary problems should be addressed. The difference is, however, clear. A biography of Thomas Jefferson that had him addressing same-sex marriage or arms-reduction treaties would be the object oflaughter. Luke's Paul is anachronistic.
+
+12. Ernst Haenchen (The Acts of the Apostles, trans. and ed. B. Noble et al.[Philadelphia: Westminster, 1971], 904) says: "The Lucan Paul lacks much that the real Paul possessed, perhaps the best. But again the Lucan Paul also possesses much that was lacking from the real Paul, and yet was necessary if he was to be portrayed as the Christian witness to the truth in his time."
+
+13. In effect, both Paul and Luke see natural theology as an equalizer. See Richard I. Pervo, The Paul of Acts.
+
+14. See Richard I. Pervo, Dating Acts: Between the Evangelists and the Apologists (Santa Rosa, Calif.: Polebridge, 2006), 51-147. Evidence for the use of 2 Thessalonians is lacking.
+
+15. Pervo, Acts, 5-7.
+
+16. Acts 15 is the pivot. Peter gives the first speech, supporting the mission to convert gentiles without requiring them to observe Torah. In a short speech of his own, James agrees, then announces the decison ( vv. 7-21). The torch has been passed on.
+
+17. Compare Ephesians' revision ofColossians.
+
+18. Paul stated (Gal. 1:16-17) that his call included the commission to convert gentiles.
+
+19. In Acts (unlike Luke), the important quality of the Pharisaic party is its affirmation of
+resurrection (23:6-12).
+
+20. On Paul and the virtues, see John C. Lentz, Jr., Luke's Portrait of Paul, SNTSM, 77 (Cambridge: Cambridge University Press, 1993), 62-104.
+
+21. See Richard I. Pervo, Profit with Delight (Philadelphia: Fortress Press, 1987), 77-81. Lentz, Luke's Portrait of Paul, 66, contrasts this model of discipleship to that of the Gospel of Luke.
+
+22. See Table 6.
+
+23. It is inappropriate to distinguish between "miraculous" and "non-miraculous" in constructing such lists. Speaking can be no less inspired than exorcizing (cf. Acts 6:8-15; Luke 12:11-12).
+
+24. Note also Titus, the memory of whom is expunged from Acts.
+
+25. Much of the data for this section is well summarized by Glen R. Jacobson, "Paul in Luke Acts: The Savior Who Is Present," in SBLSP, 1983 (Chico, Calif.: Scholars, 1983), 131-46. Note also A. J. Mattill, Jr., "The Paul-Jesus Parallels and the Purpose of Luke-Acts: H. H. Evans Reconsidered," NovT 17 (1975): 15-47.
+
+26. In Luke the forerunners ofJesus are "all the prophets," who predicted his advent and mission. The specific forerunner is John the Baptizer. Paul's forerunners include Peter, Stephen, Philip, and Barnabas. Apollos is also a forerunner like the Baptizer (18:24-28).
+
+27. The narrator shows both Jesus and Paul as frequently preaching in synagogues: Luke 4:15, 16, 33, 44; 6:6; 7:5; 13:10; Acts 9:20; 13:5, 14; 14:1; 17:1, 10, 17; 18:4, 19, 26; 19:18. Doubts can be raised about the frequency with which Paul was welcomed to share his message in synagogues, and the same may be said about Jesus.
+
+28. Note the frequently mentioned parallel between Luke 9:50 and Acts 19:21.
+
+29. For additional data, see Walter Radl, Paulus and Jesus im Lukanischen Doppelwerk:
+Untersuchungen zu Parallelmotiven im Lukasevangelium und in der Apostelgeschichte, Europaische Hochschulschriften 23/49 (Bern: Lang, 1975), 169-251, and, with emphasis upon the trial of Jesus as a Lucan composition, Joseph B. Tyson, The Death of Jesus in Luke-Acts (Columbia: University of South Carolina Press, 1986), 114-41.
+
+30. For arguments supporting this, see Pervo, Acts, 644-54.
+
+31. Antiquity related stories about evil persons who escaped one tragedy only to be cut down by a snake. See Pervo, Acts, 673-75.
+
+32. Mattill, "Paul-Jesus Parallels," 145.
+
+33. Cf. p. 41 on Col. 1:24.
+
+34. The death of Jesus in Luke and Acts is not just the death of another martyred prophet, although the account in Luke more closely resembles a martyrdom than do the other canonical passions. One effect of this presentation is to facilitate comparison of the respective "passions" of Luke and Paul. See, among many studies, Tyson, The Death of Jesus, and M. Parsons and Richard I. Pervo Rethinking the Unity of Luke and Acts (Minneapolis: Fortress Press, 1993 ), Chapter 3.
+
+35. See Pervo, Profit, 64-65, and Parsons and Pervo, Rethinking, 90-94.
+
+36. See Pervo, Profit, 65.
+
+37. Pervo, Profit, 63.
+
+38. Cf. also the exorcism of Acts 16:16-18 with Luke 4:34, 41.
+
+39. See the discussion of Irenaeus, p. 220.
+
+40. For an introduction, see W. Schneemelcher, "The Acts of Paul," in New Testament Apocrypha, ed. W. Schneemelcher; 2 vols,; trans. and ed. R. McL. Wilson (Louisville: Westminster John Knox, 1991-92), 2:213-37, and Hans-Josef Klauck, The Apocryphal Acts of the Apostles: An Introduction, trans. Brian McNeil (Waco, Tex.: Baylor University Press, 2008), 47-79. The fullest translation is that of W. Rordorf, "Actes de Paul," in Ecrits apocryphes chretiens 1, ed. F. Bovon and P. Geoltrain (Paris: Gallimard, 1997), 1115-77. Recent English versions are found in Schneemelcher, ed., New Testament Apocrypha, 2:237-70, and J. K. Elliott, trans., The Apocryphal New Testament (Oxford: Clarendon, 1993), 364-88.
+
+41. For a brief description of the various Acts in their literary context, see Richard I. Pervo, "The Ancient Novel Becomes Christian;' in The Novel in the Ancient World, ed. G. Schmeling; Mnemosyne Supplementum 159 (Leiden: E. J. Brill, 1996), 685-711. Note the important new introduction by Klauck, Apocryphal Acts.
+
+42. For early attestation and opinion, see Elliott, Apocrypha, 350-52. In H.B. 3.3.4-6, Eusebius discusses "his" Acts, after noting the debate about Hebrews, as if Paul were the author. He did not accept the Acts of Paul as "undisputed," which appears to place it in the category of "disputed" books, like Hebrews, and then discusses Hermas, also left in the middle ground. At 3.25.4, however, the Acts of Paul are lodged with Hermas, the Apocalypse of Peter, and others as "not genuine." Nonetheless, it does not receive the opprobrium assigned to other apocroyphal acts of the apostles (3.25.6). These not entirely harmonious views are indicative of the mixed reception of the Acts of Paul, which were not condemned on doctrinal grounds.
+
+43. On the use of the work through the twelfth century, see Leon Vouaux, Les Actes de Paul et ses letters apocryphes, ANT (Paris: Letouzey, 1913), 24-69.
+
+44. See Richard I. Pervo, "The Acts of Titus: A Preliminary Translation, with an Introduction and Notes," in SBLSP, 1996 (Atlanta: Scholars, 1996), 455-82.
+
+45. Such editing included both expansion and abbreviation as well as conformity with accepted theological views and historical traditions.
+
+46. See the discussion of 3 Corinthians, p. 96.
+
+47. On the popularity of Thecla, see M. Pesthy, "Thecla in the Fathers of the Church," in The Apocryphal Acts of Paul and Thecla, ed. Jan Bremmer; SAAA 2 (Kampen: Kok Pharos, 1996), 164-78, and S. F. Johnson, The Life and Miracles of Thekla: A Literary Study(Washington: Center for Hellenic Studies, 2006), 1-14. Johnson's study focuses upon a fifth-century paraphrase of her life, which was issued with a collection of miracles worked at her shrine. For a review of recent thought, see Shelly Matthews, "Thinking of Thecla: Issues in Feminist Historiography," Journal of Feminist Studies in Religion 17 (2002): 39-65; Elisabeth Esch-Wermeling, Thekla-Paulusschiilerin wider Willen? Strategien der Leserlenkung in den Theklaakten, Neutestamentliche Abhandlungen. Neue Folge 53 (Munster: Aschendorff, 2008), and the collection edited by Martin Ebner, Aus Liebe zu Paulus? Die Akte Thekla neu aufgerollt, Stuttgarter Bibelstudien 206 (Stuttgart: Katholisches Bibelwer, 2005).
+
+48. As noted earlier, this is the same span covered in Acts and the Pastoral Epistles, although neither narrate Paul's death.
+
+49. The most forceful promoter of this interpretation has been Richard Bauckham, "The Acts of Paul as a Sequel," in The Book of Acts in its First Century Setting, vol. 1, The Book of Acts in Its Ancient Literary Setting, ed. B. W. Winter and A. D. Clarke (Grand Rapids: Eerdmans, 1993), 105-52, with additional discussion in "The Acts of Paul: Replacement of Acts or Sequel to Acts?" Semeia 80 (1997): 159-68.
+
+50. For evidence that the Acts of Paul did begin with the conversion, see W. Rordorf, "Paul's Conversion in the Canonical Acts and in the Acts of PauI." Semeia 80 (1997): 137-44. J
+
+51. Richard I. Pervo, "A Hard Act to Follow: The Acts of Paul and the Canonical Acts; Journal of Higher Criticism 2, no. 2 (1995): 3-32; D. Marguerat, "The Acts of Paul and the Canonical Acts: A Phenomenon of Rereading," Semeia 80 (1997): 169-83. Both Bauckham (previous n.) and Marguerat utilize a model of revision. Bauckham appeals to the analogy of the "Rewritten Bible," while Marguerat utilizes the intertextual theory of R. Genette. This model dictates a certain admiration for the text being rewritten, an assumption that is not fully supported by the text of the Acts of Paul.
+
+52. For example, Willy Rordorf, "In welchem Verhiiltnis stehen die apokryphen Paulusakten zur kanonischen Apostelgeschichte und zu den Pastoralbriefen?" in Text and Testimony: Essays on New Testament and Apocryphal Literature in Honour of A. R J. Klijn, ed. T. Baarda et al. (Kampen: Uitgeversmaatschappij J.H. Kok, 1988), 225-41.
+
+53. See Julian Hills, "The Acts of the Apostles in the Acts of Paul," in SBLSP, 1994 (Atlanta: Scholars, 1994), 24-54, and "The Acts of Paul and the Legacy of the Lukan Acts," Semeia 80 (1997): 145-58. For imitation of particular episodes, see, for example, Pervo, "Hard Act," 10-17.
+
+54. For examples from 1 Corinthians, see P. Dunn, "The Influence of 1 Corinthians on the Acts of Paul," in SBLSP, 1996 (Atlanta, Scholars Press, 1996), 438-54. For other certain and possible allusions to early Christian writings, see Schneemelcher, "Acts of Paul," 265-70.
+
+55. See W. M. Ramsay, The Church in the Roman Empire (London: Hodder & Stoughton, 1897), 375-428. In his notes, Ramsay attended to the differences in the Syriac and Armenian traditions. On the latter, see F. C. Conybeare, The Apology and Acts of Apollonius and Other Monuments of Early Christianity (London: Swan Sonnenschein, 1894). Lipsius recognized the value of the Syriac version; see Richard A. Lipsius and Maximilian Bonnet, Acta Apostolorum Apocrypha, 2 vols. (Leipzig: Hermann Mendelssohn, 1891-1903), 1:cv-cvi.
+
+56. See the studies appearing in Robert F. Stoops, ed., The Apocryphal Acts of the Apostles in Intertextual Perspectives, Semeia 80 (1997).
+
+57. Determination that Mark was the major source for Matthew and Luke required the
+establishment of a sound text, since the Byzantine tradition had resulted in a great deal of
+contamination, for example, of Mark and Luke by Matthew. This achievement was based upon a
+large number of complete mss. In the case of the apocroyphal acts of the apostles, complete mss. are, except for the Acts of Thomas, lacking.
+
+58. The criterion of appropriateness gives priority to the Acts of Peter in that the Quo Vadis story is an anecdote that is typical of stories told about Peter. Cf. Mark 14:29-31. In the Acts of Peter, this is a lesson about martyrdom and discipleship; for the Acts of Paul, it amounts to a prophecy. Moreover, Peter is crucified, whereas Paul is beheaded. 336 11 Notes to Chapter 4
+
+59. See E. Esch-Wermeling, Thekla-Paulusschalerin wider Willen? Strategien der Leserlenkungin den Theklaakten, Neutestamentliche Abhandlungen. Neue Folge 53 (Münster: Aschendorff, 2008).
+
+60. For others, see C. Schmidt, with Wilhelm Schubart, PRAXEIS PAULOU. Acta Pauli (Glückstadt: J. J. Augustin, 1936), 120-22.
+
+61. An example of literary skill not easily recognized because of the fragmentary state of the evidence is that the narrator withholds description of Paul until 3.3.
+
+62. The numberings follow those of Rordorf, which will appear in his forthcoming edition, the first full edition of the APl in original languages (Greek and Coptic).
+
+63. For the possibility that the APl reported Paul's journey as beginning in Tarsus, see the following discussion of the Epistula Apostolorum.
+
+64. Rordorf divides the story of Paul and Thecla into two chapters, based upon stations. The division is at par. 26 of the conventional numeration.
+
+65. For interesting proposals that Ephrem made use of the APl in his commentary on Acts, see I. Czachesz, "Between Canon and Apocrypha." 109-11.
+
+66. ATit 3 mentions, in inverse order, the exorcism of Amphia, wife of Chrysippus and the destruction of the temple, following a summary of Paul's conversion.
+
+67. See Rordoff, Actes, 1149-50.
+
+68. "Revisit" is a presumption based upon the presence of an organized community of believers who acknowledge Paul as their leader.
+
+69. According to ATit 4, this was an initial visit.
+
+70. According to 3.2, Titus had evangelized Iconium before Paul's visit.
+
+71. From the fragmentary material of P.Heid., one might conclude that this was an initial visit. Hermocrates (and his family) had, however, come to the faith, but had not received baptism.
+
+72. When 3 Corinthians is taken out of consideration, it is not clear that Paul has preViously been to Corinth.
+
+73. Contra Acts 14:1-6.
+
+74. V. 1. at 21:1. Myra is an example of "filling in" stations at which no mission work is described in Acts. This tendency can be observed (without details) in the D-Text, as in Acts 21:1.
+
+75. C. Schmidt, with Wilhelm Schubart, PRAXEIS PAULOU.
+
+76. For other small fragments, see Elliott, Apocrypha 352, with bibliography, 357-58.
+
+77. C. Schmidt, Acti Pauli: Aus der heidelberger koptischen Papyrushandschrift nr. 1. (2 vols. J,eipzig: Hinrichs, 1905).
+
+78. F. C. Conybeare, Apology, 49-88, judges (59) that the Latin tradition is superior to the Greek, the Syriac to the Latin, and the Armenian to Syriac. His arguments, 49-60, are still worth consulting. For a translation of the Syriac, see W. Wright, Apocryphal Acts of the Apostles, Edited from Syriac Manuscripts in the British Museum and Other Libraries, 2 vols. (London: Williams and Norgate, 1871) 2:116-45. The variant traditions indicate, at the very least, that this story experienced considerable editing. Additional bibhography on various versions can be found in Elliott, Apocrypha, 358-59.
+
+79. W. E. Crum, "New Coptic Manuscripts in the John Rylands Library," BJRL 5 (1920), 497-503, 501.
+
+80. Bauckham, "Sequel."
+
+81. Third Corinthians is an exception, but this is a subsequent addition.
+
+82. The canonical Acts tends to locate most of the information about a site at the report of the first visit.
+
+83. The exception is Rome, where he rents a large building (14:1). This was because the people at Corinth raised a collection for Paul (14:6), a subject not unrelated to controversy about Paul's collection for Jerusalem.
+
+84. See, in general, F. Bovon, "The Synoptic Gospels and the Non-Canonical Acts of the Apostles," HTR 81 (1988): 19-36. In particular, see Dennis R. MacDonald, ''Apocryphal and Canonical Narratives about Paul," in Paul and the Legacies of Paul, ed. William S. Babcock (Dallas: Southern Methodist University Press, 1990), 55-70 (63-68), and Ann G. Brock, "Genre of the Acts of Paul: One Tradition Enhancing Another," Apocrypha 5 (1994): 119-36. Apparent knowledge of all the canonical Gospels suggests a date near 170, as proposed above.
+
+85. The episode is symbolic in meaning. Ability to subdue the animal kingdom is one attribute of a "divine person"; see Ludwig Bieler, EIOS ANHR: Das Bild des "Giittlichen Menschen" in Spiitantike und Fruchristentum, 2 vols. (Darmstadt: Wissenschaftliche Buchgesellschaft, 1967 [original 1935-36]), 1:103-10, provides examples). That baptism led a lion to elect a celibate life is an example a maiore ad minus for human beings.
+
+86. Acts of Titus 4 proudly reports that Titus was Paul's forerunner in every city. This is probably not derived from the Acts of Paul. He, with Luke, also anticipated Paul's arrival in Rome (14.1).
+
+87. Onesiphorus and his household also abandoned all ties and possessions to follow Paul (3.23).
+
+88. This arrest is repeated in Myra (API 5), where Paul shouts that he is not a robber (cf. Mark 14:48).
+
+89. Onesiphorus illustrates the tension between the ideal wandering believer and the household patron. The one-time patron can no longer support himself. In short, the ideal that all should give up their possessions is just that, for enactment would all but destroy the movement.
+
+90. Note that this action in Mark follows the statement about the shepherdless crowd, applied in the Acts of Paul to Thecla.
+
+91. Acts of Paul 3:21 (trans. Elliott, Apocrypha, 368).
+
+92. Polymorphy is also a characteristic of Paul (3.3). Transfiguration was a common (Acts 6:15; 7:55) and controversial (2 Cor. 3:7-18) item of the repertory of holy persons.
+
+93. On the cloak, cf. 2 Tim. 4:3, and Richard I. Pervo, "Romancing an Oft-neglected Stone: The Pastoral Epistles and the Epistolary Novel." Journal of Higher Criticism 1 (1994): 25-47 (42 n. 94), as well as Spicq, Les epitres pastorales, 814-16.
+
+94. Cf. Mark 6:41; John 6:9.
+
+95. Cf. Mark 14:48.
+
+96. Acts of Paul 6/4. P.Heid. 31 (trans. Elliott, Apocrypha, 375).
+
+97. Cf. John 14:12.
+
+98. On the later developments of this tradition, which included the integration of Paul's
+martyrdom with Peter's, see Harry W. Tajra, The Martyrdom of St. Paul: Historical and Judicial Context, Traditions, and Legends, WUNT 67 (TU.bingen: Mohr Siebeck, 1994), 118-65. Paul is the prototypical martyr for Ignatius (Eph. 12:2) and Polycarp (Phil 11:3).
+
+99. See above.
+
+100. Even if this episode was taken by the author or a subsequent editor from the Acts of Peter (Vere. 36/Passion 5), as is likely, its function in the Acts of Paul is clear.
+
+101. cf. Mark 16:2.
+
+102. Cf. Mark 16:8.
+
+103. That is, baptism.
+
+104. Acts of Paul. Martyrdom 7 (trans. Elliott, Apocrypha, 388).
+
+105. This appearance refuted the claim of Celsus, who wondered why Jesus elected to appear to Galilean fishermen and what he was pleased to call "hysterical women'' (Origen, Contra Celsum 2.63).
+
+106. Pervo, Acts, pp. 20-21.
+
+107. For argument and evidence, see MacDonald, ''Apocryphal and Canonical," 66-67.
+
+108. See, for example, Dennis R. MacDonald, The Legend and the Apostle: The Battle for Paul in Story and Canon (Philadelphia: Westminster, 1983).
+
+109. See Table 1.
+
+110. Seep. 286n11.
+
+111. This is preserved in 3 Corinthians II, but is unlikely to have been invented by the interpolator. Note also Frontina, who has been alienated from her parents (10-11). Paul also alienates Patroclus from the affections of Nero (14.2-3). Those who read printed editions of the apocroyphal acts of the apostles are accustomed to episodes in which the conversion of a woman of high status leads to persecution. These are undoubtedly original, but the majority of mss. censor them. In the case of the Acts of Paul this censorship has been quite successful.
+
+112. On the subject, see Gerd Theissen, The Social Setting of Pauline Christianity: Essays on Corinth, ed. and trans. John H. Schiltz (Philadelphia: Fortress Press, 1982), 27-54, and Sociology of Early Palestinian Christianity, trans. John Bowden (Philadelphia: Fortress Press, 1978).
+
+113. Conybeare, Apology, 76-77, and his note on p. 88.
+
+114. "And taking hold of Alexander, she tore his cloak and pulled off his crown and made him a laughing-stock" (trans. Elliott, Apocrypha, 369). Since Syrian and Armenian Christians opposed the theology of the current emperors, they left the text unaltered.
+
+115. Note the v.I. INSERT TEXT (Imperial Priest of Syria), which, despite the objections of Vouaux (Actes de Paul, 195), is probably original.
+
+116. One might speculate.that some of the most exuberant anti-imperial rhetoric ended up on the cutting room floor.
+
+117. MacDonald (Legend, 78-85) locates the author in a Montanist milieu.
+
+118. For examples from Israelite history, see API 13. Use of such examples is not equivalent to a theology of salvation history.
+
+119. Third Corinthians, not an original component of the Acts of Paul, differs.
+
+120. For introduction and a translation, see C. Detlef G. Muller, "Epistula Apostolorum," in Schneemelcher, ed., New Testament Apocrypha, 1:249-78. See also Jacques-Noel Peres, "Epitre des apotres:· in Bovon et Geoltrain, eds., Ecrits apocryphes chretiens, 357-92, and L'Epttre des apotres et le Testament de notre Seigneur et notre Sauveur Jesus-Christ (Turnhout: Brepols, 1994); Julian V. Hills, Tradition and Composition in the Epistula Apostolorum, HDR 24 (Minneapolis: Fortress Press, 1990). On its view of Paul, see also Manfred Hornschuh, Studien zur Epistula Apostolorum, PTS 5 (Berlin: de Gruyter, 1965), 84-91. On the Epistula's relation to Pauline traditions, see Lindemann, Paulus, 109-12, and Dassmann, Stachel, esp. 261-66.
+
+121. Peres ("Epltre des apotres") prefers to entitle the work "the book that Jesus Christ revealed to his disciples" (360) and uses the equivalent of "book" in ch. 1 (365) where the German version speaks of the equivalent of a 'letter:' ("Book" is also used in the translation of Julian Hills (The Epistle of the Apostles. Santa Rosa, CA: Polebridge, 2009), who kindly supplied an advance draft.)
+
+122. Arguments for c. 150 derive from ch. 17, which says that the end will come after the 150th yeat (Ethiopic) or the 120th "part" (Coptic). Based upon our knowledge that the crucifixion took place c. 30, this would indicate that the work was composed c. 150. It is not certain that the author knew the date of the crucifixion, and numbers could be symbolic. Familiarity with a range of early Christian literature makes a date c. 175-200 more likely.
+
+123. A substantial portion of a Coptic edition, from a ms. of the fourth or fifth century, also survives.
+
+124. The dialogue tradition became a framework for speeches rather than genuine conversation, as can be seen in Cicero's philosophical dialogues. In the Christian revelation dialogues, the disciples' questions tend to be little more than titles for lengthy speeches. For a survey, see Pheme Perkins, The Gnostic Dialogue: The Early Church and the Crisis of Gnosticism (New York: Paulist, 1980).
+
+125. The "churchly" character of Epistula Apostolorum is apparent in that, at the close, it becomes, with substantial influence from Matthew, a church order of sorts.
+
+126. Of the more than 230 notes devoted to intertextual references identified by Muller ("Epistula Apostolorum''), 47 refer to Pauline epistles (including Hebrews). Not all of these are certain by any criterion. See the conservative evaluation of Lindemann, Paulus, 391-93. David K. Rensberger, "As the Apostle Teaches: The Development of the Use of Paul's Letters in Second-Century Christianity" (Ph.D. diss., Yale, 1981), 89-90, is dubious, but familiarity with the corpus is almost certain.
+
+127. The narrator reports that Peter went to an unspecified "another place." See Pervo, Acts, 299-312. Reference to the cockcrow indicates that Epistula Apostolorum understood Acts 12:1-17 as a kind of "Passion of Peter."
+
+128. Trans. Muller, "Epistula Apostolorum," 267. This passage is available only in Ethiopic. The formula treats "Paul" as the Greek translation of "Saul."
+
+129. See Czachesz, "The Acts of Paul." In ch. 32, the Lord states that Paul's journey to Damascus began in Cilicia. This could be based upon Acts' claim that Paul came from Tarsus, but it contradicts Acts 9:1, where Paul departs from Jerusalem with written authorization from the high priests. A possible source for this statement is the Acts of Paul.
+
+130. Hornschuh, however, (n. 120) argues for an anti-gnostic context of the Pauline material.
+
+131. Chapter 1 mentions Simon and Cerinthus.
+
+132. Johannine features are most prominent, as are themes from the Synoptics, but the work is not, on balance, a model of systematic theology.
+
+133. Hornschuh, Studien, 84, says that the attention devoted to Paul is "astonishing."
+
+134. Epistula Apostolorum contains some syncretistic features, including notions utilized by "Gnostic" theologians. See Muller, "Epistula Apostolorum," 251.
+
+135. On the view of Paul in Epistula Apostolorum, see also Lindemann, Paulus, 109-12.
+
+136. On the state of the question, see Gerard Poupon, "Les 'Actes de Pierre' et leur remaniement; ANRW II.25.6 (1988): 4363-83, and Christine M. Thomas, "The 'Prehistory' of the Acts of Peter," in The Apocryphal Acts of the Apostles, ed. Francyois Bovon et al.; Harvard Divinity School Studies (Cambridge, Mass.: Harvard University Press, 1999), 41-62. Note her full-length study, The Acts of Peter, Gospel Literature, and the Ancient Novel: Rewriting the Past (New York: Oxford University Press, 2003). See also the essays in Jan Bremmer, ed., The Apocryphal Acts of Peter: Magic, Miracles and Gnosticism, SAAA 3 (Leuven: Peeters, 1998), as well as Klauck, Apocryphal Acts, 81-112.
+
+137. G. Poupon (L'Origine africaine des Actus Vercellenses; in Bremmer, ed., The ApocryphalActs of Peter, 192-99) argues for an African provenance of this translation.
+
+138. This classification does not prevent Eusebius from drawing historical data from the Acts of Peter (H.B. 2.14).
+
+139. Origen (prooably), the Didascalia 6.7-9 (highly probable), and Commodian, Carmen Apologeticum 625-630 (probably c. 250 CE).
+
+140. See the various essays in Stoops, ed., The Apocryphal Acts of the Apostles in Intertextual Perspectives, and Jan N. Bremmer, "Aspects of the Acts of Peter: Women, Magic, Place and Date," in Bremmer, ed., The Apocryphal Acts of Peter, 1-20 (14-20).
+
+141. See also the discussion of Dionysius of Corinth, p. 144.
+
+142. See below.
+
+143. Actus Vercellenses 17, a flashback, was evidently transferred from the original Jerusalem ministry to provide context for Peter's conflict with Simon.
+
+144. This speech provides Peter with the opportunity for a formal farewell address, an item lacking in the canonical book.
+
+145. This may be due to the influence of 2 Timothy.
+
+146. The model is evidently Acts 16:25-40 (Philippi).
+
+147. Conversion of women takes one of two narrative directions in the apocroyphal acts of the apostles. Either the husband also converts, enhancing the mission, or strongly resists her new-found continence, and launches a persecution. The choice lies more or less entirely in the hands of the narrator. A persecution could also have propelled Paul to Spain. The choice made in Vere. 1 portrays the apostle as enjoying good standing with a Roman official.
+
+148. The image of physician is developed in the Acts of Xanthippe and Polyxena, p. 173.
+
+149. On the farewell scene, seen. 153.
+
+150. See chapters 1 and 3.
+
+151. The narrative does not state explicitly that Paul founded the Roman community, but he is its undisputed leader.
+
+152. The narrator is blissfully unaware that Paul's christological message, as summarized, would have been utterly unconvincing to faithful Jews.
+
+153. On the types of farewell scene, see Francyois Bovon, "Le Saint-Esprit, l'Eglise et les relations humaines selon Actes 20,36-21,16," in Les Actes des Apotres: Traditions, redaction, theolgies, ed. Jacob Kremer; BETL 43 (Leuven: Leuven University Press,1979), 339-58.
+
+154. The use of water instead of wine may be a secondary emendation. This is evidence for the ascetic character of Actus Vercellenses. On the subject, see Andrew McGowan, Ascetic Eucharists: Food and Drink in Early Christian Ritual Meals (Oxford: Oxford University Press, 1999).
+
+155. His words evoke Acts 13:10-11 (Paul and Elymas), as well as 8:20-23 (Peter and Simon).
+
+156. This is an improvement upon the episode of Peter's daughter (from the no longer extant Jerusalem section), who was paralyzed to prevent her from serving as an object of temptation for men.
+
+157. On this motif, seep. 15.
+
+158. E.g., Col. 1:21-22; 3:7-8.
+
+159. Seep. 14.
+
+160. The text reinforces this thesis. In ch. 4, Simon gains adherents because Paul, as well as Timothy and Barnabas, were not on the scene. This comment may be part of the earlier text, since it says nothing about Spain. The faithful pray for Paul's return. In ch. 6, the faithful Ariston laments the absence of Paul. The power of Satan has overcome all those entrusted to the leadership by Paul. The apostle appeared to Ariston in a vision (like Christ!) advising him to flee. Chapter 40 (Mart. 12) contains a reference to the expected return of Paul. With the possible exception of the first, all of these are later additions.
+
+161. The author was evidently unaware that no first-century Roman Senator would bear the Greek name Demetrius.
+
+162. Allusions to and borrowings from the Pauline epistles are especially prominent in the later additions to Acts of Peter. See Vouaux, Actes de Pierre, 47.
+
+163. See the excursus, p. 184.
+
+164. On this text, see Aurelio de Santos Otero, "Later Acts of Apostles," in Schneemelcher, ed., New Testament Apocrypha, 2:426-82 (443), and Tajra, Martyrdom, 154-57.
+
+165. In Acts of Peter 32, Paul is absent when Peter prays Simon out of the sky.
+
+166. This shift conforms to the tendency of later editors to remove episodes in which apostles break up lawful marriages.
+
+167. The Passion takes pains to authenticate the traditional burial sites of the two apostles.
+
+168. The shorter edition has Peter and Paul arrive in Rome together and does not narrate their deaths.
+
+169. See de Santos Otero, "Later Acts," 440-42. The text is found in Lipsius and Bonnet, Acta Apostolorum Apocrypha, 1:178-222.
+
+170. Acts of Peter and Paul 5.
+
+171. The two added station (Messina, Didymus) probably represent the interest oflater Christian communities in possessing an apostolic foundation.
+
+172. Dioscurus, captain of the vessel on which Paul sailed to Italy, becomes a Christian and martyr. His name derives from the name of the ship (an Alexandrian ship with the Twin Brothers as its figurehead, Acts 28:11).
+
+173. See Tajras summary, Martyrdom, 144-50. An example of its historical reliability is the claim that Peter converted Livia, the wife of Nero (ch. 31). Its novelistic propensity is illustrated by the story of Perpetua (ch. 80 [Plautilla in accounts of Paul's martyrdom]). She, blind in one eye, gave Paul her handkerchief for a blindfold, as he is led out to execution. When it was returned, she put it back on, whereupon her eye was healed. This corresponds to Paul's healing scarves (Acts 19:11-12) and to the legend of Veronica, who, having been healed by touching Jesus' garment (Mark 5:25-34), wiped his face with a cloth while he was on the way to the cross.
+
+174. De Santos Otero, "Later Acts: 440. The Gelasian Decree III.2 attributed the claim that the two died separately to heretics, that is, it utilized the repudiation of the apocroyphal acts of the apostles to support the claim that both were martyred on the same day.
+
+175. Lipsius and Bonnet, eds., Acta Apostolorum Apocrypha, 2:292-302. An old English version can be found in ANF 8:493-96.
+
+176. See de Santos Otero, "Later Acts;' 465-66, and Istvan Czachesz, Commission Narratives: A Comparative Study of the Canonical and Apocryphal Acts, Studies on Early Christian Apocrypha 8 (Leuven: Peeters, 2007), 184-207, with bibliography 184 n. 1. Note also Klauck, Apocryphal Acts, 247.
+
+177. See de Santos Otero, "Later Acts," 466. Chapters 6 and 7, which deal with Mark's elaborate and extended penance of Mark, are omitted in various witnesses, including Cod. Vat. gr. 1667.
+
+178. In Acts Silas "replaces" Barnabas. Perhaps readers will think that John, whose Hebrew (!) name was changed to Mark in a vision, was associated with the cult of Zeus at Lystra (Acts 14:8-18).
+
+179. Chapters 16, 19-22.
+
+180. Chapter 19 reports an athletic event in which a multitude of naked men and women participated. Men did compete naked, and a few examples of competitions involving girls and women are recorded, but a joint contest would have been unusual. The narrator's knowledge appears imperfect. For a similar situation, see the Armenian version of the Martyrdom of Bartholomew 3 (Louis Leloir, Apocrypha Apostolorum Armeniaca II, CCSA 4 [Brepols: Turnhout, 1992], 495). One technique was to "baptize" old festivals by transforming them into Christian holidays.
+
+181. Mark is the traditional "apostolic" founder of the church in Alexandria.
+
+182. An anonymous host there may be the Onesiphorus of API 3.
+
+183. This probably derives from Gal. 4:13. The author had read Galatians with care.
+
+184. Cf. 2 Tim. 4:13, the evident inspiration.
+
+185. Cf. Acts 13:1-3.
+
+186. The pair nonetheless took pains (ch. 11) to prevent people from discovering that Paul and Barnabas had separated.
+
+187. The claim that Mark founded the church at Alexandria is reported in Eusebius, H.B. 2.16.1. The statement follows the reference to Mark in 1 Pet. 5: 12; its authority is anonymous ("they say"). The historian then proceeds to describe the life of Mark's converts, which was so "philosophical" that Philo wrote about them (the Vita contemplativa). This chapter inspires little confidence. It is, however, true that Clement of Alexandria did make use of the Gospel of Mark, which was generally ignored.
+
+188. Cf. 0. F. A. Meinardus, "Cretan Traditions about St Paul's Mission to the Island," Ostkirchliche Studien 22 (1973):, 172-83; Pervo, ''Acts of Titus"; Czachesz, Commission Narratives, 208-23; and Klauck, Apocryphal Acts, 77-78.
+
+189. Czachesz, Commission Narratives, 210-15.
+
+190. Seep. 110.
+
+191. On Paul's itinerary in ATit, see Pervo, "Acts of Titus;' 462.
+
+192. INSERT TEXT (Life and Conduct) is a conventional title for saints' lives. On this text, see M. R. James, Apocrypha Anecdota, Texts and Studies 2 (Cambridge: Cambridge University Press, 1893), 43-57 (introduction), 59-85 (text); E. Haight, More Essays on Greek Romances (New York: Longmans, 1945), 66-80; S. L. Davies, The Revolt of the Widows: The Social World of the Apocryphal Acts (Carbondale, Ill.: Southern Illinois University Press, 1980), 8-10, 64-69; for a translation, see ANF 10:205-17. Note E. Junod, "Vie et conduite des saintes femmes Xanthippe, Polyxene et Rebecca (BHG 1977)," in Oecumenica et Patristica, FS W. Schneemelcher (Stuttgart: Teubner, 1989), 83-106. A recent study is J. Gorman, "Thinking with and about 'Same-sex Desire': Producing and Policing Female Sexuality in the Acts of Xanthippe and Polyxena," Journal of the History of Sexuality 10 (2001): 416-41. See also Klauck, Apocryphal Acts, 250-51.
+
+193. James, Apocrypha Anecdota, 67; Davies, Revolt, 8-10.
+
+194. See Junod, "Vie et conduite:' and Richard I. Pervo, review of S. Davies, Revolt of the Widows, ATR 63 (1981): 329-30.
+
+195. Evidently the couple will live in a celibate partnership.
+
+196. Babylonia is part of the geography of romantic novels. If this requires a seacost, it will, like Shakespeare's Bohemia (A Winters Tale), receive one.
+
+197. Shipwreck is a normal mode of travel in the Greek romantic novels, and kidnapping, bandits, and pirates are staples of the genre.
+
+198. In their respective Acts, both Philip and Andrew spend time in Greece.
+
+199. On the relations between female characters in Xan, see the possibilities explored by Gorman, "Thinking with and about 'Same-sex Desire'."
+
+200. One speculation is that Xan is a later abbreviation of an earlier narrative.
+
+201. The ship bearing Peter to Rome also plays a part in the narrative (Xan. 24).
+
+202. The first part of the book is characterized by flowery rhetoric, much of it from the mouth of Xanthippe.
+
+203. Slaves, along with soldiers and merchants, are groups identified by A. D. Nock as primary agents of cultic diffusion; see Nock's Conversion: The Old and the New in Religion from Alexander the Great to Augustine of Hippo (Oxford: Oxford University Press, 1933), 66-67. Slaves are distinct because they could bring about upward diffusion of ideas and other matters.
+
+204. See above.
+
+205. Mark 2:17. For later use, see G. W. H. Lampe, A Patristic Greek Lexicon (Oxford: Clarendon, 1961), 662, s.v. INSERT TEXT 3.
+
+206. Chapter 24 also reflects Actus Vercellenses.
+
+207. Cf. Mark 5:27-28; 6:56.
+
+208. Cf. Matt. 9:26; Luke 4:14.
+
+209. Cf. Mark 2:1-12. In this case authority resides with Paul; Xanthippe lacks this power (ch. 19).
+
+210. Chapter 9: "Paul said to Xanthippe, 'Believe me, daughter, that by the Devil's suggestion and working I have not passed a single hour without chains and blows: Xanthippe said to him, 'But you suffer these things by your own free will, since you have not neglected your preaching even to scourging, but this again I tell you, that your bonds shall be the defeat of the prompter, and your humiliation their overthrow' " (trans. W. A. Craigie, in Allan Menzie, ed., The Ante-Nicene Fathers, vol. X. (Grand Rapids: Eerdmans, 1978), 207, alt.
+
+211. Cf. APl 3.21 (Thecla).
+
+212. Undoubtedly the subject of Philemon. Onesimus also appears in the Deutero-Pauline tradition (Col. 4:7). A person with the same name was Bishop of Ephesus in the time of Ignatius (Eph. 1:3).
+
+213. First-person narration continues into ch. 41, where, in the fashion of Acts (e.g., 16:18), the narrative suddenly reverts to the third-person.
+
+214. Another possibility is Lucius of Cyrene (Acts 13:1), but note the tradition of the old Gospel prologue that Luke died at 84 in Boeotia; see K. Aland, Synopsis Quattuor Evangeliorum (Stuttgart: Wiirttembergische Bibelanstalt, 1964), 353.
+
+215. This could be the result of textual abbreviation.
+
+216. Cf. Callirhoe 8.6-8; Ephesian Tale 5.13.
+
+217. Note also ch. 31 (Jas 80.9-10), also ambiguous and possibly edited. This interest in celibacy, an ascetic reference in ch. 31 (no wine), and the occasionally monarchian character of its theology (e.g., ch. 12) might lead one to suspect a Priscillianist background, but the work shows no knowledge of Span, and the (presumably) original Greek language also tells against this hypothesis.
+
+218. Note the expression "god of Paul" (20 [x 2], 26, 27 [x 3], and 31).
+
+219. On the genre, see M. Himmelfarb, Ascents to Heaven in Jewish and Christian Apocalypses (New York: Oxford University Press, 1993), and Tours of Hell: An Apocalyptic Form in Jewish and Christian Literature (Philadelphia: Fortress Press, 1985).
+
+220. Surveys, with introduction, bibliography, and translation may be found in Hugo Duensing and Aurelio de Santos Otero, "Apocalypse of Paul," in Schneemelcher, ed., New Testament Apocrypha, 2:712-52, and Elliott, Apocrypha, 616-44.
+
+221. Richard Bauckham, ''Apocryphal Pauline Literature," DPL, 35-37 (37) Dictionary. Consult abbreviations ..
+
+222. On attestation, see Elliott, Apocrypha, 620; Duensing and de Santos Otero, "Apocalypse of Paul," 712. This is a good caution against deriving conclusions about popularity from patristic discussions.
+
+223. On this technique, see Wolfgang Speyer, Bucherfunde in der Glaubenswerbung der Antike (Gottingen: Vandenhoeck & Ruprecht, 1970).
+
+224. On this probable parody of a vision report, seep. 176.
+
+225. Duensing and de Santos Otero, ''Apocalypse of Paul," 741.
+
+226. More strictly, at some time from 150-350.
+
+227. Nag Hammadi texts are referred to by codex in Roman, the document, and the page and line numbers. On this text, see W. R. Murdock and G. W. MacRae, eds., "The Apocalypse of Paul," in Nag Hammadi Codices V 2-5 and VI with Papyrus Berolensis 8502, 1 and 4, ed. Douglas M. Parrott; Nag Hammadi Studies 11 (Leiden: Brill, 1979), 47-63, and Wolf-Peter Funk, "The Coptic Gnostic Apocalypse of Paul," in Schneemelcher, New Testament Apocrypha, 2;.695-700, both with bibliography. On its relation to Paul, see also Lindemann, Paulus, 332-34.
+
+228. The others include two works entitled "The Apocalypse of James" and "The Apocalypse of Adam."
+
+229. Lindemann, Paulus, 332, does not agree.
+
+230. See, for example, APl 12; Acts of John 88; Apocryphon of John 20.19-21.4.
+
+231. See above.
+
+232. Apocalypse of Paul 18.14-19, trans. MacRae and Murdock, 257.
+
+233. Apocalypse of Paul 23.13-17 (trans. Murdock and MacRae, 61). In a note, Funk ("Coptic Gnostic Apocalypse;' 700 n. 12) offers an alternate rendition: "I will go into the world of the dead in order to become a (fellow-) prisoner in the captivity which was led captive in the captivity of Babylon." This is barely possible, grammatically but the version cited is preferable.
+
+234. This is additional evidence against Funk's alternate translation.
+
+235. On this genre, see Tomas Szepessy, "The Ancient Family Novel (A Typological Proposal)," Acta Antiqua Acadamiae Scientiarum Hungaricae 31 (1985-88): 357-65. The use of a previous novel as a source is widely accepted in scholarship. See S. Trenkner, The Greek Novella in the Classical Period (Cambridge: Cambridge University,Press, 1958). 101-2, and B. E. Perry, The Ancient Romances: A Literary Historical Account of the Origins, Sather Lectures, 1951 (Berkeley: University of California Press, 1967). 285-93. F. Stanley Jones rejects this view: "Eros and Astrology in the INSERT TEXT: The Sense of the Pseudo-Clementine Novel," Apoc 12 (2001 ): 53-78.
+
+236. See N. Kelley, Knowledge and Authority in the Pseudo-Clemen tines: Situating the Recognitions in 4th Century Syria, WUNT 213 (Tubingen: Mohr Siebeck, 2006).
+
+237. The designation "Pseudo-Clementines" is otiose.
+
+238. A standard introduction -is Johannes Irmscher and Georg Strecker, "The PseudoClementines," in Schneemelcher, ed., New Testament Apocrypha, 2:483-541, with excepts. No complete English version exists. For a survey of earlier research, see F. Stanley Jones, "The PseudoClementines: A History of Research," SecCent 2 (1982): 1-33, 63-96; F. Manns, "Les pseudoclementines (Homelies et Reconnaisances): Etat de la Question," Studii Biblici Franciscani Liber Annuus 53 (2003): 157-84; and Klauck, Apocryphal Acts, 193-229. See also Ludemann, Opposition to Paul in Jewish Christianity, 169-94; Lindemann, Paulus, 101-9; and Dassmann, Stachel, 279-86.
+
+239. J. B. Lightfoot, The Apostolic Fathers. Part One. Clement. Vol. 1 (Grand Rapids: Baker Book House, 1981 [reprint of 1890]), 14-16. (The notes are mine.)
+
+240. In the Recognitions, the father is named Faustinianus, the brothers Faustinus and Faustus.
+
+241. Shipwreck, pirates, and enslavement are standard motifs of ancient popular literature.
+
+242. Mark 7:24-30; Matt. 15:21-28.
+
+243. Luke 19:1-10.
+
+244. The motif is novelistic.
+
+245. Note that Barnabas is regarded as a disciple of Jesus.
+
+246. The source is Acts 9:32-11:18.
+
+247. This presumes (correctly) that Barnabas had sided with Peter.
+
+248. Cf. Paul's escape from Damascus in Acts 9:23-25.
+
+249. This island was also the site of the recognition scene in the novel Callirhoe (7.5-8.1).
+
+250. Obstacles to recognition are a common and often not highly credible feature of popular literature.
+
+251. See Klauck, Apocryphal Acts, 196-98.
+
+252. F. S. Jones, An Ancient Jewish Christian Source on the History of Christianity: Pseudo Clementine Recognitions 1.21-71, SBLTT 37 (Atlanta: Scholars Press, 1995). 111-55.
+
+253. Jones, An Ancient Jewish Christian Source, 157-67.
+
+254. Ludemann, Opposition, 183. (Ludemann's own source theory differs from that of Jones.) For similar views, see J. L. Martyn, "Clementine Recognitions 1,33-71, Jewish Christianity, and the Fourth Gospel," in God's Christ and His People: Studies in Honour of Nils Alstrup Dahl, ed. Jacob Jervell and Wayne A. Meeks (Oslo: Universitetsforlaget, 1977). 265-95 (273), and F. S. Jones, "A Jewish Christian Reads Luke's Acts of the Apostles: The Use of the Canonical Acts in the Ancient Jewish Christian Source behind Pseudo-Clementine Recognitions 1.27-71," in SBLSP, 1995 (Atlanta: Scholars Press, 1995), 617-35.
+
+255. This thesis is quite defensible. See John Painter, Just James: The Brother of Jesus in History and Tradition (Columbia: University of South Carolina Press, 1997). The thesis is valid in that success of the gentile, Torah-free, mission placed grave obstacles upon the mission to observant Jews.
+
+256. This section follows Jones' translation of the Syriac, Armenian, and Latin editions of Recognitions (An Ancient Jewish Christian Source, 51-109).
+
+257. The inspiration comes from Acts 7 and makes use of Jubilees. See Jones, "Jewish Christian," 632.
+
+258. This corresponds to the Christian beliefthat Jesus was the prophet promised in Deut. 18:15-18 (e.g., Matt. 17:5; Luke 24:25; John 1:21; Acts 3:22; 7:37).
+
+259. This is the pre-conversion of Paul in Acts, a person with no control of his temper and a penchant for violence. Seep. 15 (lentz).
+
+260. Cf. Acts 14:19-20. The motif of apparent death is common in popular fiction. See Pervo, Profit, 148 n. 42.
+
+261. A marginal note in a ms. makes the identification explicit.
+
+262. By adding that the enemy believed that Peter had fled to Damascus, Rec provides justification for the odd mission of Acts 9: 1.
+
+263. The contestation is one of the preliminary documents to the Homilies.
+
+264. Epistula Clementis 1.1 (trans. Irmscher and Strecker, "The Pseudo-Clementines," 2:496-97).
+
+265. Formally, they use the Semitic greeting of "peace," rather than the Pauline blend of grace and peace."
+
+266. Trans. Irmscher and Strecker, "The Pseudo-Clementines," 2:494.
+
+267. The specific subject need not be the description of the controversy at Antioch in Gal. 2. Paul there portrayed Peter as liberal on Torah observance, willing to remain observant rather than offend the "people from James."
+
+268. Matt. 11:11. In the scheme of syzygies the first, wicked prophet represents the female.
+
+269. Trans. Irmscher and Strecker, "The Pseudo-Clementines," 2:535-36.
+
+270. This criterion disqualifies Paul from being an apostle in Acts (1:21-22).
+
+271. The confession of Peter is a popular theme in the Pseudo-Clementines.
+
+272. One could cause difficulties by asking how James' teaching is correct, since he was not among the followers ofJesus, according to the gospel tradition.
+
+273. For other examples, see Ludemann, Opposition, 185-91.
+
+274. See Robert E. Van Voorst, The Ascents of James: History and Theology of a Jewish-Christian Community, SBLDS 112 (Atlanta: Scholars Press, 1989). Note also the comments in Jones, An Ancient Jewish Christian Source, index p. 190 s. v. Anabathmoi Jakobou.
+
+275. The Greek reads "of the priest," allowing the interpretation that the high priest's daughter was the object of his affection.
+
+276. Members of priestly families could not marry proselytes.
+
+277. Trans. Jones, "Jewish Christian," 617-18 n. 2. Foranotherversion, see Ludemann, Opposition, 180. Jones believes that this text drew upon both the Steps of James and Rec. 1.27-71.
+
+278. Seep. 288n71.
+
+279. Acts 9; 1 Tim. 1.
+
+280. Compare the story that Jesus was the illegitimate child of a Roman soldier: Origen, C. Gels 1.32. Origen, C.Cels 1.32. See Contra Celsum, trans. Henry Chadwick (Cambridge: Cambridge University Press, 1953), 31 n. 3.
+
+281. See pp. 124 and 127.
+
+282. For this view of coordination, see, for example, Ignatius, Rom. 4:3; Irenaeus, A.H. 3.1.1; Tertullian, Adv. Marcion 4.5; Praescription of Heretics 36.
+
+283. Eusebius, H.B. 2.25.5-7, cites Gaius, a second-/third-century presbyter, and opponent of Montanism, on the tombs of Peter and Paul at Rome. The next paragraph (8) cites Dionysius.
+
+284. For the traditions, see Tajra, Martyrdom, 183-97. Note also de Santos Otero, "Later Acts," 440-42.
+
+285. Decretum Gelasianum III 2. Note also Arator's mid-sixth-century epic based on Acts, which, in the end (at 2:1218), abandons the plot of Acts to report the joint martyrdom of Peter and Paul.
+
+286. E.g., Leo the Great, Sermon 82.
+
+287. A by-product of this relationship is that the patron saints of the Episcopal Cathedral in Washington, D.C. (intended from the beginning to be a "national Cathedral"), are Peter and Paul.
+
+288. For an early synthesis of the various traditions regarding Peter and Paul, see Eusebius, H.E. 2.22.1-3.Embed
