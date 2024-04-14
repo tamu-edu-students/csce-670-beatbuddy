@@ -77,7 +77,9 @@ if __name__ == "__main__":
     dataset_path = "dataset.csv"
     df = pd.read_csv(dataset_path)
     author_song_df = pd.read_csv('updated_dataset_with_youtube_urls.csv')
-    df = df[1198:5000]
+    # Note adjust the indices accordingly before downloading the songs.
+    # This is for remaining songs from 2100 to 5000
+    df = df[2100:5000]
     search_and_download(df, author_song_df)
 
 
