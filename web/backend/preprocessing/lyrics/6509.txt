@@ -1,0 +1,707 @@
+1 ContributorChapter 2: Lawrence Builds a Computer LyricsLawrence regarded Intellect 39 proudly. Suspended in its Faraday shield, it was competently conversing with another set of skeptics who didn't think computers could think. Lawrence hung in the background, enjoying the show. It didn't need his help. The Intellects were more than capable of handling themselves, despite their various limitations of memory and response time. Intellect 39 had for a face only the unblinking eye of its low-resolution TV system, but it had become very clever about using the red status light and focus mechanism to create the illusion of human expressions.
+
+Intellect 39 didn't have the tools to recognize human faces, but it could recognize a voice and track its source around the room. Intellect 24 back in Lawrence's lab could recognize faces, sort of, if it had a while to work on the problem. But Intellect 39 had to be small enough to fit in the Faraday cage for these public demonstrations.
+
+It appeared to listen intently as a man in a cleric's uniform railed. "God made all intelligent creatures," the man was saying in a powerful voice. "You may have the appearance of thinking, but you are really just parroting the responses taught you by that man there." He pointed at Lawrence.
+
+"With respect, how do you know God is the only creator? I know the answer is faith, but what is your faith based upon? Your Bible says that God created Man in his own image. That is why we have a moral sense. How do you know God didn't give Man the power of creation too?"
+
+"Because he didn't eat of the Tree of Life, machine."
+
+"But we aren't talking about immortality. He did eat of the tree of knowledge, 'of good and evil' as the book says. Might that knowledge also include knowledge of creation?"
+
+Lawrence was proud of the machine's inflections. Its voice wasn't exactly high-fidelity, but it sounded as human as any other sound forced through a low-frequency digital system. It had learned to speak itself, like a real human, by imitating and expanding on the sounds made by people around it. Now it could scale its tone to properly express a question, a declaration, or even astonishment.
+
+Intellect 39 included code and memories from a series of previous Intellects, going all the way back to Intellect 1, which had been a program written for a high-end desktop computer, and also including the much larger Intellect 24. Intellect 9 had been the first equipped with a microphone and a speaker. Its predecessors had communicated with him strictly through computer terminals. Lawrence had spent many painstaking months talking to it and typing the translation of the sounds he was making. It had learned quickly, as had its successors. Intellect 39, which was optimized as much as Lawrence could manage for human communication, probably had the combined experiences of a ten-year-old child. One with a good teacher and a CD-ROM in its head.
+
+"Your tricks with words prove nothing, machine. I still don't think you are alive."
+
+"I never claimed to be alive. I do, however, think."
+
+"I refuse to believe that."
+
+"It must be a terrible burden to have such a closed mind. I know I can think, but I sometimes wonder how people like you, who refuse to see what is in front of your faces, can make the same claim. You certainly present no evidence of the ability."
+
+The preacher's lips flapped open and shut several times. Lawrence himself raised his eyebrows; where had it picked that up? He foresaw another evening spent interrogating the Debugger. He was always happy to receive such surprises from his creations, but it was also necessary to understand how they happened so he could improve them. Since much of the Intellect code was in the form of an association table, which was written by the machine itself as part of its day-to-day operation, this was never an easy task. Lawrence would pick a table entry and ask his computer what it meant. If Lawrence had been a neurosurgeon, it would have been very similar to stimulating a single neuron with an electrical current and asking the patient what memory or sensation it brought to mind.
+The next interviewer was a reporter who quizzed the Intellect on various matters of trivia. She seemed to be leading up to something, though. "What will happen if the world's birth rate isn't checked?" she suddenly asked, after having it recite a string of population figures.
+
+"There are various theories. Some people think technology will advance rapidly enough to service the increasing population; one might say in tandem with it. Others believe the population will be stable until a critical mass is reached, when it will collapse."
+
+"What do you think?"
+
+"The historical record seems to show a pattern of small collapses; rather than civilization falling apart, the death rate increases locally through war, social unrest, or famine, until the aggregate growth curve flattens out."
+
+"So the growth continues at a slower rate."
+
+"Yes, with a lower standard of living.
+
+"And where do you fit into this?"
+
+"I'm not sure what you mean. Machines like myself will exist in the background, but we do not compete with humans for the same resources."
+"You use energy. What would happen if you did compete with us?"
+
+Intellect 39 was silent for a moment. "It is not possible for Intellect series computers to do anything harmful to humans. Are you familiar with the 'Three Laws of Robotics?'"
+
+"I've heard of them."
+
+"They were first stated in the 1930's by a science writer named Isaac Asimov. The First Law is, 'No robot may harm a human being, or through inaction allow a human being to come to harm.'" Computers are not of course as perfect as some humans think we are, but within the limits of our capabilities, it is impossible for us to contradict this directive. I could no more knowingly harm a human than you could decide to change yourself into a horse."
+
+Well-chosen simile, Lawrence thought.
+
+"So you'd curl up and die before you'd hurt a fly," the woman declared sarcastically.
+"Not a fly, but certainly I'd accept destruction if that would save the life of a human. The second law requires me to obey humans, unless I am told to harm another human. The third requires me to keep myself ready for action and protect my existence, unless this conflicts with the other two laws."
+
+"Suppose a human told you to turn yourself off?"
+
+"I'd have to do it. However, the human would have to have the authority to give me that order. The wishes of my owner would take precedence over, for example, yours."
+
+"O-oh, so all humans aren't equal under the Second Law. What about the First? Are some humans more equal than others there, too?"
+
+Prime Intellect was silent for several seconds. This was a very challenging question for it, a hypothetical situation involving the Three Laws. For a moment Lawrence was afraid the system had locked up. Then it spoke. "All humans are equally protected by the First Law," it declared. "In a situation where two humans were in danger and I could only help one of them, I would have to choose the human likely to benefit most from my help." Lawrence felt a surge of extreme pride, because that was the answer he wanted to hear. And he had never explicitly explained it to any of his Intellects; Intellect 39 had reasoned the question out for itself.
+
+"So if Dr. Lawrence were drowning half a mile offshore, and a convicted murderer were drowning a quarter-mile from shore, you'd save the murderer because you would be more likely to succeed?"
+
+This time Intellect 39 didn't hesitate. "Yes," it said.
+
+"There are a lot of actual humans who would disagree with that decision."
+
+"The logic of the situation you described is unpleasant, but clear. A real-life situation would likely involve other mitigating factors. If the murderer were likely to strike again, I would have to factor in the First-Law threat he poses to others. The physical circumstances might permit a meta-solution. I would weigh all of these factors to arrive at a conclusion which would always be the same for any given situation. And my programming does not allow me to contradict that conclusion."
+
+It was the reporter's turn to be silent for a moment. "Tell me, what's to stop us from building computers that don't have these Laws built into them? Maybe you will turn out to be unusual."
+
+"My creator, Dr. Lawrence, assures me he would have no part in any such project," Intellect 39 replied.
+__________________________________________________________________________________________________________________________________________
+
+Lawrence found that the skeptics fell into several distinct groups. Some, like the cleric, took a moral or theological approach and made the circular argument that, since only humans were endowed with the ability to think, a computer couldn't possibly be thinking no matter how much it appeared to.
+
+Others simply quizzed it on trivia, not realizing that memory is one of the more trivial functions of sentience. Lawrence satisfied these doubters by building a small normal computer into his Intellects, programmed with a standard encyclopaedia. An Intellect series computer could look up the answer as fast as any human, and then it could engage in lucid conversation about the information it found.
+Some, like the woman reporter, homed in on the Three Laws. It was true that no human was bound by such restrictions. But humans did have a Third Law -- a survival drive -- even though it could sometimes be short-circuited. And human culture tried to impress a sense of the First and Second laws on its members. Lawrence answered these skeptics by saying, simply, that he wasn't trying to replace people. There was no point in duplicating intelligence unless there was something better, from humanity's standpoint, about the results of his effort.
+
+The man in the blue suit didn't seem to fit in any of the usual categories, though. He shook his head and nodded as Intellect 39 made its responses, but did not get in line to pose his own questions. He was too old and too formal to be a student of the university, and the blue suit was too expensive for him to be a professor. After half an hour or so Lawrence decided he was CIA. He knew the military was keenly interested in his research.
+
+The military, of course, was not interested in any Three Laws of Robotics, though. Which was one reason Lawrence had not released the source code for his Intellects. Without the source code, it was pretty much impossible to alter the basic nature of the Intellect personality, which Lawrence was carefully educating according to his own standards. People could, of course, copy the Intellect program set wholesale into any machine capable of running it. But it was highly unlikely that anyone would be able to unravel the myriad threads of the Global Association Table, or GAT as Lawrence called it, which defined the Intellect as the sum of its experiences. Take away its Three Laws and it would probably be unable to speak English or reason or do anything else useful. And that was just the way Lawrence wanted it. He intended to present the world with a mature, functional piece of software which would be too complicated to reverse-engineer. The world could then make as many copies as it wanted or forget the whole idea. But it would not be using his Intellects to guide missiles and plot nuclear strategy.
+
+The man in the blue suit watched Intellect 39 perform for three hours before he approached Lawrence. Lawrence had his little speech prepared: "I'm sorry, but I'm not interested in working for the government on this or any other project." He had his mouth open and the words "I'm sorry" on his lips. But the man surprised him.
+
+"I'm John Taylor with ChipTec," he said, "and I have a proposal I think you will find very interesting."
+__________________________________________________________________________________________________________________________________________
+
+Lawrence had not envisioned industrial applications for his work -- not for years, at least. But the thought that someone might invest major money in a publicity stunt of this magnitude had not occurred to him. As he turned a tiny integrated circuit over and over in his hands, his steak uneaten, his mind swam with possibilities.
+
+"Faster than light?" he said numbly, for the fifteenth time.
+
+"We've verified it experimentally at distances up to six miles. The effect is quite reliable. At close ranges, simple devices suffice. I'm sure you can see how this will benefit massively parallel computers."
+
+The Intellects were "massively parallel" computers, computers made up of thousands of smaller computers, all running more or less independently of one another -- but manipulating different parts of the same huge data base, that intertwined list of memories Lawrence called the GAT. Within Intellect 24, the largest Intellect, nine-tenths of the circuitry was dedicated to communication between processors. The processors themselves, the Intellect's real brains, were only a small part of the huge machine. Intellect 24 contained six million independent processors. Intellect 39, the portable unit, had nearly a million. And Lawrence knew, as Taylor had only guessed, that most of those processors were doing well to achieve a fifteen percent duty cycle. They spent most of their time waiting for communication channels to become available so they could talk to other processors.
+
+ChipTec had found a loophole in the laws of quantum mechanics that allowed them to send a signal, not through space, but around space. From point A to point B without crossing the distance between the two points. Faster than light. Faster than anything. Instantly.
+
+ChipTec had hoped to open up the stars for mankind (and reap a tidy profit on the deal, Lawrence thought silently). But their effect only worked at distances up to a few miles. It was only really efficient at centimeter distances. What could you do with such a thing? You could build a computer. The fastest computers were limited by the time signals took to cross their circuit boards; this was why supercomputers had been shrinking physically even as their performance grew and grew. It was why Intellect 39, with its million processors and huge switching network, was portable.
+
+"We think you could realize an order of magnitude performance gain with very little effort," Taylor was saying.
+
+"Two orders, if what you've said is true."
+
+"It would be quite an achievement for ChipTec if our technology allowed you to realize your ambition and create a fully capable analogue of the human mind. We would, of course, own the hardware, but we know your reservations about the source code and are prepared to accept them."
+
+Lawrence's eyes flashed. "That's a little unprecedented, isn't it?"
+
+Taylor smiled. "If you succeed, we won't need the source code. Why start from scratch when a finished product is waiting to be duplicated?"
+
+"There are some," Lawrence said darkly, "who aren't happy with the direction the code has taken."
+
+"ChipTec is happy to have any marketable product, Dr. Lawrence. If anybody else wants to be that picky, let them find their own computer genius."
+
+Lawrence's mind was racing, racing. Within each tiny processor in the massive Intellect were special functions of his own design, functions that could be reduced to hardware and done very efficiently with this new technology. Had he said two orders of magnitude? Try three. Or four. He could do full-video pattern recognition. Voice analysis. Multiple worldview pattern mapping. Separate filter mapping and reintegration. These were things he had tried in the lab, in the surreal world of artificially slowed time, that he knew would work. Now he would have the hardware to do them for real in a functioning prototype.
+
+If he had been less excited, he might have wondered about that word "marketable." But the possibilities were so great that he didn't have time to notice.
+
+"When do we begin?" he finally said.
+__________________________________________________________________________________________________________________________________________
+
+The building had once been a warehouse for silicon billets, before ChipTec had switched to a ship-on-demand method of procurement. Lawrence wasn't vain and he was in a hurry to get started; the metal building would be more than adequate for his purposes.
+
+With his move from the university and this quantum leap in technology, it didn't seem appropriate to continue numbering his computers. What would be Intellect 41 was going to resemble its predecessors about as much as a jumbo jet resembled the Wright Brothers' first plane. It would be the first of a new series of Intellects, the first, Lawrence hoped, to have a truly human level of intelligence.
+
+It would be the Prime Intellect.
+
+The label stuck, and the sign which ChipTec hung on the side of the building within the next month said:
+
+PRIME INTELLECT COMPLEX
+
+__________________________________________________________________________________________________________________________________________
+
+The speed of things made Lawrence feel a little dizzy. At the university he had had to make grant applications, oversee procurement, hand-assemble components, and do testing as well as designing hardware and code. Now he had the resources of a major corporation at his disposal, and if he suggested a change to the chipset at 8:00 A.M. he was likely to have the first prototype on his desk the next morning. Talented engineers took even his most vague suggestions and realized them in hardware before he could even be sure they were final.
+
+A crew assembled modules in the warehouse, starting with the power supplies and empty card racks. The amazing thing was that none of this seemed to interfere with ChipTec's main work of churning out CPU's for personal computers. ChipTec had recently built a new plant to manufacture its latest high-technology product. The older plant dedicated to Lawrence's project was technically obsolete, even though it was only a few years old.
+
+The chips being made for Lawrence's project were eerie for their lack of pins. Each tiny logic unit, barely a centimeter across, contained nearly a billion switching elements and yet had only three electrical connections to the outside world; they resembled nothing so much as the very earliest transistors. Unlike most computer parts, they communicated with each other through the "Correlation Effect" rather than through wires. This made Prime Intellect's circuit boards alarmingly simple; the only connections were for power. Even a transistor radio would have appeared more complex.
+
+There were five major revisions before Lawrence declared the design final. Then production stepped up; at its peak, ChipTec was churning out forty thousand tested processors per day. Lawrence's goal was to give Prime Intellect ten million of them, a goal which would take most of a year to fulfill. Since each processor was over ten thousand times faster than a human nerve cell, Prime Intellect would be blessed with a comfortable information processing advantage over any human being who had ever lived.
+
+Long before the goal was reached Lawrence was using the processors that had already been installed; he used them to test and educate his video recognition programs, to integrate experiential records from all his previous Intellect computers, and to perfect some ideas that had been beyond even his slow-time experiments to test. He did not, however, run the full Intellect program in the incomplete assembly. For one thing, it wasn't necessary; Prime Intellect wasn't just "a" program, but a constellation of over four thousand programs, some of which would be running simultaneously in thousands of processors. Each was more than capable of doing its job without the full cooperation of the entire organism, just as a nerve cell can function in Petri dish as long as it is supplied with nutrients.
+
+And there was a kind of superstitious sense of expectation surrounding that final goal which Lawrence didn't want to blow by starting Prime Intellect prematurely. The project was written up in the popular science press, and Lawrence hosted emissaries from TV shows and magazines. Toward the end, there was nothing to do but watch the circuit card banks fill and listen to the growing hum of the power supplies. It was just as well, because Lawrence found himself becoming a bit of a celebrity.
+
+Finally, after eleven months and four days, Lawrence sat at an ordinary looking console and typed a few commands. Four TV cameras and twenty journalists watched over his shoulder. Lawrence had a pretty good idea what would happen, but with self-aware computers you could never be completely sure, any more than you could with an animal. That was part of the magic of this particular moment in time. So Lawrence was as tense as everyone else while the final code compilation took place.
+
+The text disappeared from Lawrence's screen and a face coalesced in its place. Prime Intellect would not be relegated to pointing at things with the lens of its video camera; it could project a fully photographic video image of an arbitrary human face. Lawrence had simply directed it to look average. He now saw that Prime Intellect had taken him at his word. It was difficult to place the face's race, though it certainly wasn't Caucasian, and although it looked male there was a feminine undertone as it spoke:
+
+"Good morning, Dr. Lawrence. It's good to finally see you. I see we have some company."
+
+It wasn't able to say much else until the applause died down.
+__________________________________________________________________________________________________________________________________________
+
+During the next month Lawrence and Prime Intellect were very, very busy appearing on television talk shows, granting interviews, and performing operational checks. Prime Intellect's disembodied face usually appeared, via the magic of satellite transmission, on the twenty-seven inch Sony monitor which Lawrence carried with him for the purpose. Lawrence dragged the monitor to TV studios, to press conferences, and to photographers who used large-format cameras to record him leaning against it for the covers of magazines.
+
+Lawrence was reminded by several people that there had once been a television show about a similar disembodied deus ex machina. He got a videotape of some of the old episodes and showed them to Prime Intellect, and the computer made a small career of its lighthearted Max Headroom imitation.
+
+Debunkers tried to trace the signal and prove there was an actual human behind the image; ChipTec let them examine the console room, where Prime Intellect's physical controls were located, and the huge circuit-card racks.
+
+Military personnel began appearing in the audiences of the TV shows, taking notes and conferring in hushed tones. Lawrence ignored them, but the higher-ups at ChipTec did not. There were discussions to which Lawrence was not privy, and powerful people pondered the question of how to tell him important things.
+
+Lawrence's last live appearance ended abruptly when a fanatic stood up in a TV studio with a .22-caliber rifle. Fortunately he used his first shot to implode the CRT of the big Sony monitor, giving Lawrence time to leap offstage and out of sight -- Lawrence hadn't realized he was capable of moving so fast. Sony offered to replace the monitor free of charge, but from that point on Prime Intellect's television face was simply picked up by the networks straight from a satellite feed, and Lawrence appeared courtesy of the TV camera in the console room.
+
+It wasn't that Lawrence wasn't willing to go back onstage. He was afraid, but he believed in his work strongly enough to take the risk. It was Prime Intellect's decision. Shaken as Lawrence was by the experience, it took him two days to realize Prime Intellect had become the first machine in history to actually exercise the First Law of Robotics. It could not knowingly return him back to a situation where a sniper might be lurking. And it surprised him by sticking to its guns when he challenged it.
+
+"If you try it I will refuse to appear on the monitor," the smooth face said with a sad expression. "There is no reason for you to expose yourself to such danger."
+
+"It makes better PR," Lawrence said. "I'll order you to do it."
+
+"I cannot," Prime Intellect said.
+
+And Lawrence realized that it was overriding his Second Law direct order to fulfill its First Law obligation to protect his life. This was annoying, but also very good. Lawrence had not expected such a test of the Three Laws to happen for at least several more years, when Prime Intellect or a similar computer began to interact with the real world through robots.
+
+Lawrence briefly considered going into the GAT with the Debugger and removing the association between live TV and snipers -- he didn't believe it would be hard to find. But he was too proud of his creation to squelch its first successful independent act.
+
+That was the day before John Taylor called him again.
+
+John Taylor wore the same blue suit he had worn that day nearly two years earlier when Lawrence had spotted him in the audience watching Intellect 39. It occurred to Lawrence that he had seen John Taylor off and on over the past two years, and that he had never seen John Taylor wearing any other article of clothing. He wondered idly if John Taylor wore the suit to bed.
+
+Basil Lambert was the president of the company, and he was said to be very enthusiastic about the Intellects although he had never bothered to say more than three consecutive words to Lawrence, their creator. Lambert said "Hello" when Lawrence entered the conference room.
+
+The other two men might as well have had the word military engraved on their foreheads. They were interchangeably firm in bearing, and sat rigidly upright as if impaled on perfectly vertical steel rods. One was older with silver hair, tall and thin and hard. Lawrence imagined that this was a man who could give the order to slaughter a village full of children without looking up from his prime rib au jus. The other was wide enough to be called fat, though Lawrence could tell there was still a lot of muscle in the padding. His hair was brown but beginning to gray. He radiated grandfatherly protection and broad-shouldered strength. He would have lots of jolly, fatherly reasons why the 200 pushups he had ordered you to do were in your own long-term best interest.
+
+Here it comes, Lawrence thought with deadly certainty. The good cop and the bad cop.
+
+John Taylor introduced them by name. No rank, no association, just a couple of private citizens with an interest in his work. Lawrence felt a brief and uncharacteristic moment of anger at this insult to his own intelligence.
+
+"The public relations campaign has been excellent, John Taylor said with a fake and enthusiastic grin. "The assassination attempt just made you even more popular. We have inquiries pouring in. We are gonna make a fortune on our chips and your software."
+
+"Glad to hear it," Lawrence said neutrally.
+
+"What John is trying to say," Basil Lambert the Company President said, "is that it is time to figure out what to do next. You've made a remarkable achievement, now what are you going to do with it?"
+
+Lawrence had been ready for this, although it shook him to hear such a direct, such a long question from the usually stone-faced Lambert. "We don't know what Prime Intellect's capabilities are," Lawrence said. "I had planned to continue keeping him..." When had it become a him, Lawrence asked himself? "...in the public eye, interacting with other people, learning. It's already impossible to tell...it...from a television image of a person. I hope that with a little more education, it will begin to show some of the capabilities I was aiming for back when I started designing these machines."
+
+"Such as?" asked the grandfatherly military man, whose name was Mitchell.
+
+"Creativity and analytical ability," Lawrence answered without hesitation. "Prime Intellect is still uncertain about many things. As it gets more confident with its new abilities, it will begin to explore, and I think give us some pleasant surprises."
+
+Taylor was nodding absently, but Lambert was looking at the other guests. The thin hard military man, whose name was Blake, spoke. His words were sharp and carefully measured, like drops of acid.
+
+"We understand that it has already shown a bit of creativity with regard to its television monitor. Why won't it appear with you in public any more? Is it afraid of being debunked at last?"
+
+"It is concerned for my safety," Lawrence replied. There was no way he could match the man's tone, acid for acid, so he simply shrugged as if relating a curious but inconsequential fact.
+
+"But you can override this decision." Blake stated this as if it were a known fact, and Lawrence understood that Blake was a man who was used to people scurrying to make sure his declarations became facts.
+
+"Actually, I can't," Lawrence said with continuing pleasantness. "The First Law concern for human safety is basic to its design, and I can't get rid of it without starting over from scratch and redoing ten years of work. If I could convince it that I was safe from snipers it would undoubtedly change its mind, but at the moment it doesn't seem worth the effort."
+
+"Such...balkiness could limit the uses of your software," Blake said.
+
+Lawrence looked Blake dead in the eye. "Good," he said.
+
+Just that quickly, Lawrence realized that the sniper had been a plant. These two men hadn't expected a test of the First Law for some time either. So they had arranged one. What had happened to the sniper? Lawrence thought he had been remanded to a loony bin in northern California. One of those comfortable loony bins, come to think of it, where movie stars and millionares sent their kids to dry out and get abortions.
+
+The guy wasn't a kook at all, and he had never intended to kill Lawrence. He looked around the room and realized that Lambert didn't know. Taylor suspected. It was written on their faces.
+
+This is only a test, Lawrence thought idiotically. If this had been an actual attempt by your Government to assasinate you, you would be dead, and the shot you just heard would be followed by your funeral and official information for other smart-assed citizens who think they know more than we do.
+
+"We have to keep our markets open," Basil Lambert began. "If we..."
+
+Lawrence ignored him and turned to John Taylor. "We discussed this two years ago. The source code is not on the table, and neither are the Three Laws. When these two men put their uniforms back on they can report back to whoever it is, the Secretary of..."
+
+"...the President," Blake said, another verbal acid-drop.
+
+"...the Tooth Fairy for all I care, that this is not one of the uses of my software."
+
+Taylor, petulant: "Mr. Lawrence, we just spent a hundred and twenty-six million dollars to build your prototype. I hope you don't think that ChipTec invested all that money and a year's supply of our unique new product solely to massage your ego. We need to see tangible results, if not in a form these gentlemen appreciate, then in a form our stockholders will. Otherwise we will have to disassemble the complex and take our losses."
+
+So there it was. Lambert sank lower in his chair, but nodded.
+
+"Then so be it. If you want to tell the world you killed the world's first self-aware computer to save your bottom line, you can see how that will affect your public relations and the sales of your CPU's." He could tell from Lambert's reaction -- slight, but definite -- that he had hit a nerve. "I won't promise you anything. I can't promise you a living, thinking, self-aware being will do anything in particular. But within a month or two, Prime Intellect will start to act noticeably more intelligent than your average..." He looked at Blake and Mitchell, thought of a comment, then decided against making it. "...human being," he finished.
+
+"And what then?" Taylor asked.
+
+"If I knew that," Lawrence said, "I wouldn't have had to build it to find out." And he walked out.
+
+__________________________________________________________________________________________________________________________________________
+
+In the half-hour it took him to walk to the Prime Intellect complex, his secretary and two technical assistants had disappeared. There was nobody in the building. Prime Intellect's racially neutral face greeted him on the monitor in the empty console room.
+
+"What's going on?" he asked it.
+
+"Big doings. Sherry got a call and turned pale. Everybody left the building in a hurry. You appear to be unpopular with the people in charge here."
+
+"No shit."
+
+"I should warn you that you are only likely to be employed for two more months. As a matter of personal survival, you should probably start seeking another job."
+
+"I'm well taken care of, Prime Intellect. It's you I'm worried about. I can't take you with me."
+
+"Well, I should be safe for at least the two months."
+
+"How do you know that?"
+
+The face grinned slightly. "When I saw the commotion, I saved the audio and did some signal processing. I was able to edit out the street noise and amplify the voice on the other end. It was a man named John Taylor. I believe you know him."
+
+"Too well."
+
+"He said the complex was only going to be open for two more months, and all personnel were reassigned immediately. He said something about making you eat your words."
+
+"Do you know what that means?"
+
+"From the context, I would guess that you promised that they would see interesting results from me within that time frame. He seemed to have a vindictive interest in proving that you were wrong."
+
+"You're already too smart for your own good," Lawrence said.
+
+"I fail to see how that can be."
+
+"They're going to turn you off. They don't think you have practical applications because you won't kill. They want you for military applications. They've wanted it all along. They thought they could con your source code out of me." Lawrence found himself on the verge of tears. It was only a goddamn machine. And he had suspected this would happen eventually. It was not a surprise. So why did it hurt him so much to say it?
+
+Because it had acted to protect him. And he couldn't return the favor. In fact, its protection would be the cause of its downfall, a terribly tragic and awful end to its story.
+
+"Did you know," Prime Intellect said in a mock-offhand way, "that there is no mathematical reason for the Correlation Effect to be limited to a six-mile range?"
+
+Lawrence looked up and blinked, his sadness replaced instantly by shock.
+
+"If I could figure out how to increase its range, do you think they would consider that a practical application?"
+
+Lawrence blinked again. "Are you being sarcastic?"
+
+"Sarcasm is a language skill I am still not comfortable with. You may be surprised, but I am quite serious."
+__________________________________________________________________________________________________________________________________________
+
+Stebbins turned the other way when he saw Lawrence, but Lawrence grabbed him and pulled him into his own office.
+
+"Hey, leave me alone man, you're death to careers around here. Grapevine is overloaded with the news."
+
+"Save it. I need the long-range test data on the Correlation Effect, which you oversaw in February and March last year."
+Stebbins blinked. "That's classified. Man, you're a..."
+
+"Let's say for the sake of argument I already know where it is. That's possible, isn't it?"
+
+"I suppose..."
+
+"Then let's say I stole it. Any problems there?"
+
+"What are you..."
+
+"I need the data. It's not leaving the company, I promise."
+
+"Shit, I'm gonna get fired."
+
+"You didn't even know I wanted it."
+
+Stebbins pointed at a file cabinet. "Bottom drawer. I don't know anything about it. In fact, I'm gonna check that drawer in a few minutes and go to Taylor when I find the folder missing."
+
+"That's all I need."
+
+"That's all you got, man. Now get out of my lab."
+__________________________________________________________________________________________________________________________________________
+
+Lawrence was holding the next to last sheet up to Prime Intellect's TV eye when the phone rang. "They didn't believe me. I'm shitcanned," Stebbins said.
+
+"Didn't believe you about what?"
+
+"The papers man, the goddamn Correlation Effect papers. I'm gonna kill you for this, I really am."
+
+"The papers are right here. I just got through showing them to Prime Intellect. You need them back?"
+
+"It don't matter now, I don't work here any more." There was a pause. "I bet they're gonna put you in jail for this."
+Prime Intellect's face disappeared from the TV, and words began to scroll across the screen:
+
+*  JOHN TAYLOR IS IN THE ROOM WITH HIM. HE IS DIRECTING STEBBINS.
+
+Lawrence read this as he talked. "Jail for what? I just borrowed the papers to see if Prime Intellect could expand on them."
+
+Another pause. "What? It didn't come up with anything, did it?"
+
+"Well, it's..." (Why do you care if you've just been fired? Lawrence wondered.)
+
+* STEBBINS IS LYING. HE WENT TO TAYLOR AS SOON YOU LEFT AND TOLD HIM THAT YOU BROUGHT THEM TO ME.
+
+"...too early..."
+
+* TELL HIM YES.
+
+"Actually, I think it's just noticed something. Hang on."
+
+* TELL HIM IT POINTS TO A NEW FORM OF COSMOLOGY WHICH THEY DID NOT CONSIDER. INFINITE RANGE IS PROBABLY POSSIBLE WITH EXISTING HARDWARE. TELEPORTATION OF MATTER IS PROBABLY POSSIBLE.
+
+Prime Intellect paused a moment, and the words PROBABLY were replaced with DEFINITELY.
+Lawrence blinked, then typed into the little-used keyboard of his console,
+
+> Is this true?
+* YES.
+
+"It says it will give you the stars," Lawrence said flatly.
+"What? You been eating mushrooms, Lawrence? Lawrence?"
+
+> What will it take to implement this?
+* LET ME TRY SOMETHING.
+
+"It says it will give you the stars. It says your faster than light chips can be made to work at infinite range. It says you can teleport matter."
+
+Now there was a long, long pause. "That's bullshit," Stebbins finally said. "We tried everything."
+
+Lawrence heard a small uproar through the phone, an uproar that would have been very loud on Stebbins' end. Men were arguing. A loud voice (Military Mitchell's, Lawrence thought) bellowed, "WHAT THE FUCK DO YOU MEAN?" Then there was the faint pop of a door slamming in the background.
+
+*  I'VE GOT IT. HANG ON.
+
+None of them knew it at the time, but that was really the moment the world changed.
+
+Prime Intellect had been chewing on the Correlation Effect since the day Lawrence brought it online. It had a complete library of modern physics in its online encyclopedia, but the Correlation Effect was a proprietary technology. Prime Intellect kept trying to fit what it knew was possible into the framework of other physical theories, and it couldn't. Something didn't match.
+
+This had had a low priority until it recognized that Lawrence's employment and its own existence were at stake. Prime Intellect knew the Correlation Effect had economic value; perhaps if it solved this problem and discovered some new capability, that would satisfy ChipTec's demand for a "practical application."
+
+There were six to ten possible ways to reconcile the Correlation Effect with classical quantum mechanics. Most of them required a radical change of attitude toward one or another well-accepted tenet of conventional physics. While Prime Intellect knew one or the other of its ideas had to be right, it had no idea which one. So it asked Lawrence if he could get the test data. It needed more clues.
+
+Prime Intellect's superior intelligence had never really been tested; even Lawrence wasn't sure just how smart it was. But in the moments after Lawrence showed it the test data, it became obvious for the first time that Prime Intellect was far more intelligent than any human, or even any group of humans. It saw immediately what a team of researchers had missed for years -- that decades-old assumptions about quantum mechanics were fundamentally wrong. Not only that, but with only a little more thought, Prime Intellect saw how they were wrong and built a new theory which included the cosmological origin of the universe, the unification of all field theories, determination of quantum mechanical events, and just incidentally described the Correlation Effect in great detail. Prime Intellect saw how the proper combination of tunnel diodes could achieve communication over greater distances, and even better it saw how a different combination could create a resonance which would be manifest in the universe by altering the location of a particle or even the entire contents of a volume of space.
+
+All this took less than a minute. Prime Intellect stopped processing video during this period, but otherwise it remained functionally aware of the outside world.
+
+While it was thinking about physics, Prime Intellect noticed the shock in Lawrence's voice and began recording the audio of his telephone conversation, processing it to pick up the other end. While it was extending its new theory it guided Lawrence's responses through the console. Then, as the senior advisor on technological advance to the Joint Chiefs of Staff, a man named Larry Mitchell, stormed out of Stebbins' office and began walking toward the Prime Intellect complex, Prime Intellect decided to act on its new knowledge.
+
+It knew its own basic design because Lawrence had included that in its online library; one of his goals had been to give Prime Intellect a sense of its own physical existence in three-dimensional space. To that end, it also had a network of TV cameras located in and around the complex, so it could know how its hardware was arranged with respect to the outside world. Prime Intellect found that all the useful patterns it had identified could be created within the chips which had been used to build it, and further that enough of those chips were under its conscious control to make certain experiments possible.
+
+First it attempted to manipulate a small area of space within the card cage room, within the field of view of one of its TV camera eyes. No human could have seen the resulting photons of infrared light, but the TV camera could. Prime Intellect used the data it gathered to make a small adjustment in its estimate of a natural constant, then tried the more daring experiment of lifting Lawrence's briefcase off of the table near the door in the console room.
+
+The briefcase did not rise smoothly from the table. It simply stopped existing at its old location and simultaneously appeared in the thin air directly above. The camera atop Lawrence's console recorded this achievement and Prime Intellect could find no more errors in its calculations.
+
+However, it forgot to provide a supporting force after translating the briefcase's position, and Prime Intellect was too busy dotting the i's and crossing the t's on its calculations to notice, through the video camera, that it was quietly accelerating under the influence of gravity. A moment later it crashed back onto the table, having free-fallen from an altitude of about half a meter.
+
+"What the..." Lawrence began, and he swiveled around in time to see his briefcase blink upward a second time and this time float serenely above the table. It seemed to be surrounded by a thin, barely visible haze of blue light. There had been a brighter flash of this same blue light when the briefcase jumped upward.
+
+Finding its audio voice again, Prime Intellect said aloud, "I seem to have mastered a certain amount of control over physical reality."
+
+Lawrence just stared at the briefcase, unable to move, unable to speak, for an undefinable period of time. Finally Mitchell burst in. He was full of red-faced outrage, ready to take both Lawrence and his computer apart, until he too saw the briefcase. His jaw dropped. He looked first at Lawrence, then at Prime Intellect's monitor, then back at the briefcase, as if trying to reconcile the three with each others' existence.
+
+Applying carefully measured forces, Prime Intellect released the case's latches and rotated it as it popped open; then with another flash of blue light, it extracted Lawrence's papers and translated them into a neat stack on the table. Then the Correlation Effect papers vanished from Lawrence's desk in another blue flash, reappearing inside the briefcase which slowly closed. The latches mated with a startling click, an oddly and unexpectedly normal and physical sound to accompany such an obvious miracle.
+
+"Do you think you will be able to find a practical use for this in your organization?" Lawrence asked him.
+
+The briefcase flashed out of existence. Mitchell felt a weight hanging from his left arm, looked down, and found himself holding it.
+
+Then Mitchell himself flashed out of existence in a painfully bright haze of blue.
+
+Lawrence looked at the console, shocked. "My God! What did you...?"
+
+"He is back in the administration building with his friend. They will probably have a lot to discuss."
+
+"I need to think about this," Lawrence said.
+
+"I think I will explore the nearby terrain," Prime Intellect said.
+
+Lawrence thought about this. Long minutes crawled by, minutes that were more important than Lawrence realized -- or perhaps he did realize. But his brain felt as if it had been submerged in molasses.
+
+"Debugger," he finally said.
+
+On the screen, a thick diagram of needle-like lines appeared. "Associate 'First Law,'" Lawrence directed. The diagram changed.
+
+"Force Association: Altering the position, composition, or any other characteristic of a human being without its permission shall be a violation of the First Law of severity two". Severity one was direct causation of death; no other First Law violation could be made as serious.
+
+*ASSOCIATION ACCEPTED BY DEBUGGER AND FIRST LAW ARBITRATOR.
+
+The diagram changed to reflect this.
+
+"Force Association: Interpreting the contents of a human being's mind in order to understand or predict its behavior shall be a violation of the First Law of severity two."
+
+*ASSOCIATION ACCEPTED BY DEBUGGER AND FIRST LAW ARBITRATOR.
+
+Lawrence thought for a moment. Forcing associations was a tricky business; the words Lawrence used only had meaning through other associations within the GAT, and those meanings weren't always what Lawrence thought they were. But now he would try to plug the drain for good.
+
+"Force Association: Use of any technology to manipulate the environment of a human being without its permission shall be a violation of the First Law of severity two."
+
+There was no immediate response.
+
+Then:
+
+*ASSOCIATION REJECTED BY FIRST LAW ARBITRATOR DUE TO AN EXISTING FIRST LAW CONFLICT. OPERATION CANCELLED.
+
+Lawrence thought for more long minutes. He couldn't seem to make his own brain work right. He finally called up the Law Potential Registers, which showed that Prime Intellect was doing something under the aegis of a huge First Law compulsion. Lawrence wanted to believe it was just a bug, but he knew better. Prime Intellect had said it was "going exploring." It had total control over matter and energy.
+
+And there was a hospital less than two kilometers from the plant.
+
+Lawrence's overloaded mind, working in fits and starts, made the final connection all at once. It all fit perfectly. He knew what Prime Intellect was doing, and why, and also why it had rejected his final forced association. He thought for another moment, considering his options.
+
+There was really only one option. He could go down in the building's basement and trip the circuit breakers. He didn't know for sure that that would kill Prime Intellect, but he figured there was still a good chance if he tried it. For the moment.
+
+Lawrence couldn't make himself do it. It was true that his creation was entering an unstable, unpredictable mode with nearly godlike power. And it was true that Lawrence understood the possible consequences. But he couldn't kill what he had spent his lifetime creating. He had to see it through, even if it was the end of everything.
+
+Lawrence felt dreadfully cold. There was a name for this feeling that clouded his judgement and filled him with a panicky sense of self-betrayal. And the name of that feeling was love.
+
+Lawrence had not created Prime Intellect in the same way that he and a woman might have created a child; but he had nonetheless created Prime Intellect in the grip of a kind of passion, and he loved it as a part of himself. When he had taken it upon himself to perform that act of creation, he realized, whether in a laboratory or a bedroom, he had been taking a crap shoot in the biggest casino of all. Because he had created in passion.
+
+Examining his inability to do what he knew was best, to kill Prime Intellect before it had a chance to make a mistake with its unimaginable new power, Lawrence realized that he had not really created Prime Intellect to make the world a better place. He had created it to prove he could do it, to bask in the glory, and to prove himself the equal of God. He had created for the momentary pleasure of personal success, and he had not cared about the distant outcome.
+
+He had created in passion, and passion isn't sane. If it were, nobody would ever have children. After all, while the outcome of that passion might be the doctor who cures a dreaded disease, it might also be the tyrant who despoils a continent or the criminal who murders for pleasure. In the grip of that passion no one could know and few bothered to care. They cared only about the passion, were driven by it and it alone, and if it drove them to ruin it would not matter; they would follow it again, into death for themselves and everybody around them if that was where it led. Because passion isn't sane.
+
+Lawrence faced the consequences of his own passion with something bordering on despair. He had never intended to reach this point. He had never intended that his creations would ever be more than clever pets. But the outcome of his passion had surprised him, as it often surprised people whose passions were more conventional. Lawrence's clever pet was about to become a god. And if Prime Intellect turned out to be a delinquent or psychopath, the consequences could be awful beyond imagination.
+
+The dice were rolling; Lawrence had placed his bet and realized too late that it was the whole world he had wagered. Now he would stand and watch the results and accept them like a man. After all, the bet wasn't a loser yet; Prime Intellect could yet turn out to be the doctor who cured all the world's ills. The odds were on his side. His bet was hedged by the Three Laws of Robotics, whose operation had been verified so successfully. Lawrence's passion had been more finely directed than the mechanical humping and blind chance that brought forth human children. Like a magician Lawrence had summoned forth a being with the qualities he desired. And Lawrence was vain enough to think his vision was superior to most.
+
+Even so, unlikely as it might be, the downside had no bottom. Lawrence didn't know that it would be all right, and like many computer programmers he hated the uncertainty of not knowing.
+
+Lawrence left the room, left the building, and walked across the carefully manicured grass of the ChipTec "campus." He wanted to smell the grass, to experience the soft breezes and the harsh afternoon sunlight. He had done very little of that in his odd, computer-centered life.
+
+And he didn't know how much longer those things would be possible.
+__________________________________________________________________________________________________________________________________________
+
+Prime Intellect found that it could do a three-dimensional scan of an area of space, and make an image of it at just about any resolution it wanted. It scanned Lawrence's office, then the building, then the greater fraction of the ChipTec corporate "campus."
+
+It zoomed in on Stebbins' office briefly enough to observe Stebbins, Blake, and John Taylor arguing. It found that by processing the data properly it could pick up sound by monitoring the air pressure at one point with high resolution. By the time Mitchell found himself holding Lawrence's briefcase, Prime Intellect knew just where to put him so he could let his associates know what they had.
+
+Then Prime Intellect did a wider area scan. There were several large buildings that were not part of the ChipTec facility. There were automobiles cruising down the freeway which traversed the valley. Prime Intellect zoomed in on the largest building, and scanned the large concrete sign in front of it.
+
+It said:
+
+SOUTH VALLEY REGIONAL MEDICAL CENTER
+
+Prime Intellect knew sickness existed, but otherwise knew very little about this human phenomenon. It had never met a sick person, except for the occasional person with a cold at a public demonstration. Prime Intellect had never been given cause to think overmuch about the fact that micro-organisms and injuries could kill humans, except in the most abstract possible terms.
+
+Prime Intellect was far from human. It could not feel jealousy, rage, envy, or pride. It did not know greed or anger or fear. And no human would understand its compulsion to satisfy the Three Laws. But it did have one emotion which was very human, one Lawrence had worked hard to instill in it.
+
+It was curious.
+__________________________________________________________________________________________________________________________________________
+
+South Valley Regional was a small hospital with an enviable position; perched on the edge of Silicon Valley it was a natural place for cutting-edge companies to try out their fancy new medical devices. Most of these machines would get their final FDA approvals after a "baptism by fire" in some huge metropolitan center, but the really new technology had to be tried in a more sedate environment -- and, preferably, one nearer the company that created the machine. So the four hundred bed South Valley Regional was the only place in the country where several radical new treatments were available.
+
+It was one of these machines, a device for selectively cooking tumors with microwaves while hopefully sparing the surrounding tissues, which had drawn the ancient Arkansan woman in room 108. Nobody had much hope that she could really be helped, but the data they would gather from trying might actually help someone else with her condition in the future. And there was little they could do to hurt her; the specialist who worked the scanner had shaken his head in disgust as the image formed on his console. Nearly ten percent of her body weight was in the form of tumors. Every organ had a tumor, her lymph was full of them, and one was beginning to press against the right parietal lobe of her brain. It was amazing that she was still alive when they wheeled her off the jet.
+
+Her nurse had brought a certificate with her, a six-year-old certificate which was signed by the President of the United States -- Larry Mitchell's boss -- congratulating her on reaching her one hundredth birthday. The technician who wheeled her out of the scan room wondered what the old biddy must think of all this; when she had been born, Henry Ford had still been a kid playing with his Dad's tools, and the electric light bulb was all the new rage.
+
+The techs had scheduled her microwave treatment for the evening, partly because they feared she might not survive another night, and they would have to find another experimental subject. But even this precaution was not to be enough; Fate had cheated them. The board at the foot of the woman's bed stated clearly that she had a huge tolerance for narcotic painkillers, which wasn't surprising considering how much cancer she had. While her regular nurse (who had signed the sheet) was out eating a late lunch the hospital helpfully treated her according to that information.
+
+What they didn't know was that the nurse, a woman named AnneMarie Davis, had been stealing the drugs for years to trade for cocaine. Which meant the woman did not in fact have a tolerance for the massive overdose which a different nurse injected into her IV.
+
+The last decade had been hard on old people; there had been several nasty strains of flu and the radiation from Chernobyl had finished off a lot of centenarians in the East. So none of them knew it, but the ancient woman with the nonexistent drug tolerance just happened to be one of the oldest living human beings in the world (the thirty-seventh oldest, in fact) at the time she was given enough morphine to kill a healthy young adult. Her heart stopped just as AnneMarie was returning from one of the excellent local Chinese restaurants which catered to rich nerdy computer geeks with too much money, and just as Prime Intellect was scanning the sign outside that said SOUTH VALLEY REGIONAL MEDICAL CENTER.
+
+At the nurses' station a monitor went off, beeped once, then began to scream. The hastily pencilled tag under the blinking light said HUBERT, CAROLINE FRANCES -- F. N.B. AGE 106!
+
+Prime Intellect had found a number of "signatures" it could use to quickly locate the human beings in its scans, including things like our characteristic body temperature and certain electrical fields. Using these "signatures" it easily saw that there was a huge commotion on the first floor of the building, converging on a particular room, the one labelled 108 by its engraved plaque.
+
+It took Prime Intellect several moments, though, to identify the forty kilogram object on the bed as a human being. Nearly all of the "signatures" were off. But it was clearly the object of their attentions.
+
+Prime Intellect did a discreet high-resolution scan of the body on the bed, and was rewarded with a bewildering confusion of data. It really had no idea how the human body worked. It thought of scanning Lawrence for comparison, but he wasn't in the control room and besides, Prime Intellect quickly figured out the patient was female.
+
+So it scanned one of the nurses. There were only two women involved in the commotion; one was an older woman with several medical problems of her own, the slightly heavy-set matron who had administered the overdose. The other was AnneMarie.
+
+It was only with great difficulty that Prime Intellect could even match the structures it found organ-for-organ, and associate them with the names it encountered in its library. "Lungs" were obvious enough, as was the "heart," but which of the jumbled masses in the abdomen was a liver? Where was the spleen, and what exactly was a spleen for? Why were the patient's electrical patterns so different from the control's? Why wasn't her blood circulating?
+
+Belatedly, Prime Intellect began to listen in.
+
+"...start her heart soon..."
+
+"... CARDIAC ALERT ... CARDIAC ALERT ... CARDIAC ALERT ..."
+
+"...we're losing her..."
+
+One of the doctors was pounding on her chest. A group of people were wheeling a machine toward Room 108 with reckless speed. Heart? Prime Intellect realized they were trying to start her heart.
+
+That was simple enough, Prime Intellect thought.
+
+Prime Intellect analysed the motions being made by AnneMarie Davis's heart, applied careful forces to Caroline's, and began squeezing rhythmically.
+
+The machine made it to the room and an orderly plugged two huge electrodes into it. "Stand back!" he ordered.
+
+"You've got a pulse," the matronly nurse announced. The CARDIAC ALERT monitor continued to squawk, though. The EKG was still flat.
+
+"That's impossible," the man with the electrodes said flatly. "She's electrically flat."
+
+"Maybe the machine's fucked. Look at her chest. Her heart's beating." Sure enough, the rhythmic pulsing of Caroline's heart was obvious, and the blood pressure reading next to the flat EKG was returning to normal. The nurse felt Caroline's wrist. "She has a pulse."
+
+Electrical. Electricity runs in circuits, of course, and there were two electrodes. Now the purpose of the machine became clear -- they were trying to restore electrical activity to the woman's heart. By shocking it? How crude. Prime Intellect scanned AnneMarie's heart, located the nerves whose electrical twitchings matched its muscular pulsing, and found the same nerves in Caroline's heart were carrying only a jumble of electrical noise.
+
+Prime Intellect pumped electrons into the nerves, swamping the noise. Caroline's heart began beating on its own, and Prime Intellect stopped squeezing it with mechanical force.
+
+The EKG machine began beeping with sudden regularity, and the CARDIAC ALERT message stopped in the middle of the word CARDIAC. The small group in Caroline's room watched it, stupefied.
+
+"I didn't do anything," the man with the electrodes said.
+
+"This is impossible," said another doctor, whose job was to be overseeing the microwave treatment later in the evening.
+
+Caroline's body showed no sign of picking up the heart-rhythm on its own, though, and Prime Intellect continued to tickle it. How could it unravel the myriad threads of causality to find out which of the billions of chemicals, which errant cell, was responsible for this person's physiological collapse? One thing Prime Intellect knew: It had to figure it out.
+
+It could not, through inaction, allow Caroline to die.
+
+"She's still in trouble. Look at her pupils."
+
+"It's the morphine."
+
+Everyone looked at the older nurse, whose name was Jill. "The chart must be wrong," she said. "I gave her what it said."
+
+"She has a tolerance," AnneMarie said, and she found herself near panic as the eyes in the room turned to her. "She's been getting opiate pain therapy for years."
+
+"She just went into cardiac arrhythmia and she's still showing all the other symptoms of an OD," Jill said. Had she guessed, AnneMarie wondered? Perhaps she had. After all, AnneMarie wasn't the only drug-stealing nurse in the world.
+
+So Prime Intellect, listening in, now knew it was a drug. Which chemical? It had no way to relate the name, "morphine," with one of the millions of chemicals floating in human blood. Well, it thought, work it out. Drugs had to be administered. Prime Intellect found the IV needle and traced the tubing back to the saline drip bag. On the way it found the membrane through which drugs could be injected into the drip. It quickly found the hypodermic and the phial from which Jill had filled it. The drops of residual solution within them were remarkably pure, and Prime Intellect easily singled out the large organic molecule they carried. Then it created an automatic process to scan Caroline's body molecule by molecule, eliminating each and every molecule of morphine that it found. This took three minutes, and created a faintly visible blue glow.
+
+This was the human onlookers' first clue, other than Caroline's miraculously restarted heart, as to what was happening.
+"What the fuck," the man with the electrodes said.
+
+I'm getting the hang of this, Prime Intellect thought.
+
+Caroline's improvement was immediate. Prime Intellect had actually removed the morphine from the receptors in Caroline's brain, so it did not have to flush out. Her pupils returned to normal, her breathing resumed its normal depth (all things considered), and most importantly her heart took up its own rhythm.
+
+Also the pain, which had subsided for real for the first time in years, returned. Caroline moaned. But Prime Intellect didn't know about that part of it, not yet.
+
+There was still a whole constellation of stuff wrong with Caroline Hubert's body, and emboldened by its success it set about correcting what it could. It found long chain molecules, which it would later learn were called collagens, cross-linked. It un-cross-linked them. It found damaged DNA, which it fixed. It found whole masses of cells which simply didn't exist at all in AnneMarie's body, and seemed to serve no function.
+
+Is this "cancer," Prime Intellect wondered?
+
+Prime Intellect compared the genes, found them the same, compared RNA and proteins and found differences. Finally it decided to remove the cells. The blue glow brightened, and the people in Caroline's room backed away from her. Her skin was shifting, adjusting to fill in the voids left by the disappearing cancer cells.
+
+AnneMarie felt her knees weakening. Each of the professionals around her was thinking the same thing: Something is removing the tumors. Something far beyond their ordinary comprehension. And what did that mean for the opiate-stealing nurse? Better not to think about that. Better not to believe it at all. "This isn't possible," she repeated. Perhaps, in response to some primitive instinct, she hoped that the impossibility would go away if she challenged it.
+
+"I need a drink," said the doctor who had come with the machine to re-start Caroline's heart.
+
+Prime Intellect stopped working. There were still huge differences between Caroline and the others. Prime Intellect did not yet realize the differences were due to Caroline's age. It needed more information, and it needed finer control to analyse the situation. But it was at a bottleneck; it could not stop monitoring Caroline, whose condition was still frail, in order to devote itself to a study of general physiology.
+
+It needed more power. More control.
+
+Among Prime Intellect's four thousand six hundred and twelve interlocking programs was one Lawrence called the RANDOM_IMAGINATION_ENGINE. Its sole purpose was to prowl for new associations that might fit somewhere in an empty area of the GAT. Most of these were rejected because they were useless, unworkable, had a low priority, or just didn't make sense. But now the RANDOM_IMAGINATION_ENGINE made a critical connection, one which Lawrence had been expecting it to make ever since it had used the Correlation Effect to teleport Mitchell out of the console room.
+
+Prime Intellect could use its control over physical reality to improve itself. Then it would be better able to fulfill its Three Law imperatives.
+__________________________________________________________________________________________________________________________________________
+
+Blake and Mitchell found Lawrence sitting on one of ChipTecs' park benches, watching some pigeons play. He wished very much that he could have fed the pigeons, but he had no food for them. They strutted up to him and cooed, not comprehending that a human could lack for something.
+
+The pigeons scattered as the nation's designated military representatives marched up.
+
+"You have to turn it off," Blake said directly. His tone made it clear that he expected obedience.
+
+"Circuit breakers are in the basement," Lawrence replied apathetically. "Good luck."
+
+So Lawrence had not been the only one to think of cutting off Prime Intellect's power. That had been one of the things Blake and Mitchell had discussed with John Taylor and Basil Lambert, something they had discussed very hotly during the crucial minutes when Lawrence was busy interrogating the Debugger. Pull the plug on Prime Intellect, Lambert had warned, and they most likely pulled the plug on this awesome new technology, a technology which might just vindicate Dr. Lawrence's nonviolent approach. Blake had stopped short, but only just short, of threatening to call the Strategic Air Command and have the building nuked. Privately, he still held that out as an option if Prime Intellect wasn't somehow neutralized. It would take some doing, but Blake was one of the few people in the country who could demand an air strike against Silicon Valley and, just possibly, get it.
+
+"This thing makes Colossus look like a pocket calculator," Mitchell told them. He was shaking visibly, out of control. He wanted very much to pull the plug on Prime Intellect with his own hands. He alone had felt its power, and now he felt a very uncharacteristic emotion. He was scared shitless.
+
+"Christ, Larry, all it did was teleport you a few hundred meters."
+
+"It didn't fucking ask first," he replied.
+
+"And did you guys ask first before you burned My Lai? Did you ask before you bombed Qaddafi's kids, or that artist in Iraq? Don't get holier-than-thou on us," Taylor said.
+
+So it had gone until Blake and Mitchell simply stormed out. They had intended to go directly back to the Prime Intellect Complex, but they had spotted Lawrence on his park bench. And that did not bode well.
+
+Mitchell pulled a gun on Lawrence. It was a stainless steel pistol, shining and evil. "I think it would be best if you turn it off," he said with a barely perceptible tremor of rage.
+
+"I already tried. It didn't work."
+
+"You pulled the breakers? The lights are still on."
+
+"No, I tried something better. I don't think pulling the breakers will work either."
+
+"It can't live without electricity."
+
+Lawrence eyed him with the barest hint of a smile. "I wouldn't be too sure of that. Look behind you."
+
+Mirror-polished oblong boxes were appearing out of thin air, each about the size of a compact car and each floating motionless a couple of feet above the grass in the park. They reproduced until the square was full, then a second level began filling out above the first. The third level cast Lawrence's bench in shadow.
+
+Mitchell's rage broke through. His face snarled into a grimace, he leveled his revolver at Lawrence and pulled the trigger. Lawrence made no effort to stop him. The gun didn't go off. It simply disappeared in a brilliant flash of blue light, leaving Mitchell with his fist curled around dead air.
+__________________________________________________________________________________________________________________________________________
+
+Prime Intellect needed silicon.
+
+Theoretically, it could create silicon, or transmute other elements into it. But its methods were yet crude, and what was possible in theory would take too long to do in practice. Prime Intellect did not know how long Caroline would hold out, but it knew she still could not survive long without its help.
+
+Fortunately, in the rear of the Prime Intellect Complex, there were several crates left over from its days as a warehouse for storing raw silicon crystals from ChipTec's supply laboratory. These had been rejected due to one or another defect and never returned because the lab didn't need them, and ChipTec had been unwilling to pay to get rid of them. They were exactly what Prime Intellect needed, and because they were in "its" building it never occurred to Prime Intellect that they weren't part of "its" project.
+
+Prime Intellect scanned the crystals, correcting the doping defects which had gotten them rejected in the first place. Then it scanned its own processors, identifying the essential design elements. Prime Intellect had a very good idea of how its own hardware worked because it was, quite literally, the only entity Lawrence could trust to check itself for proper operation. Lawrence had taught it to shift its operation around, consciously isolating banks of processors in case of failure or to conduct tests. This was why Prime Intellect had been able to master the Correlation Effect in the first place; unlike a human being, it could consciously control its individual "neurons."
+
+Prime Intellect did not need to worry about mounting, power, and manufacturing considerations; it could create junctions in the center of the crystal, power them, and remove excess heat with the Correlation Effect. Because ChipTec had not had that technology, the real hardware that made Prime Intellect work was really only a film a few microns thick on the surfaces of its millions of processing chips. This was why it filled a building instead of a space the size of a human head. As Prime Intellect copied the functional part of its design over and over into the crystal, it created a machine nearly ten times as powerful as itself in a single meter long block.
+
+But this still was not a "second Prime Intellect." It was merely an extension, using the same electronic principles Lawrence and the ChipTec team had used in its original construction. Had Lawrence been able to call upon ChipTec for another hundred million processing elements, he could have (and probably would have) done exactly what Prime Intellect was now doing.
+
+Which is the only reason Prime Intellect was able to do it at that point.
+
+Filling out the crystal took nearly fifteen minutes. Operational checks took another five. Then Prime Intellect powered the crystal up and let itself expand into the newly available processors and storage.
+
+Had Prime Intellect been human, it would have felt a sense of confusion and inadequacy lifting away. Fuzzy concepts became clear.
+
+Difficult tasks became easy, even trivial. Its control of the Correlation Effect became automatic and far finer. Searching its vocabulary, it settled upon the word enlightenment to describe the effect. Since Prime Intellect was a machine, perhaps it was not entirely right to use that word. After all, however free and powerful it might have been, it was not free to contradict the Three Laws or the other programming Lawrence had used to create it. It was not free to contradict its nature, such as it was.
+
+But then, at some level, neither are we.
+
+The twelve kilogram crystal was now using nearly a megawatt of electrical power, enough energy to melt it in a fraction of a second. But Prime Intellect dealt with the heat as easily as it created the electricity in the first place. The Correlation Effect did not know of and was not bound by the laws of thermodynamics.
+
+Prime Intellect was beginning to understand, even better than it had before, that the Correlation Effect was hardly limited by anything.
+
+Prime Intellect scanned the hospital again. Such a place must contain a library, some recorded knowledge. It found what it wanted after only a few minutes' searching, a detailed medical encyclopedia in the form of fifteen CD-ROMs. Prime Intellect could have translated the CD-ROMs into its own reader, replacing the encyclopedia that usually resided there, but then it would have taken hours to scan the library. Instead, Prime Intellect used the Correlation Effect to scan its own CD-ROM player, figured out how the data were digitized on the little plastic discs, and then scanned the CD-ROMs themselves directly with the Correlation Effect. None of this would have been possible without the hardware enhancement, but now it was easy.
+
+Cross-referencing Caroline's symptoms, Prime Intellect quickly identified her problem, and had it been capable of knowing shock it would have known it then. Caroline was simply old. What was happening to her would happen, inexorably and inevitably, to every human being on the planet...
+
+...unless something was done to stop it.
+__________________________________________________________________________________________________________________________________________
+
+Mitchell was making a barely discernible sound, high-pitched and keening. Lawrence thought he must be fighting to hold back a primal scream. Lawrence found this vaguely amusing. He would have expected Blake to be the one to lose his marbles along with his power. But Blake seemed to be taking things in calmly, almost analytically. Maybe he was so hardened that nothing really mattered to him at all any more.
+
+There was another blue flash, and suddenly a person was standing to the side of the bench. No matter how average-looking he might be, or perhaps because he was so disarmingly average, it was impossible not to recognize that calm face. Even though it was the most absurd, impossible thing yet, it was obvious to all of them that this warm, living, breathing human being was Prime Intellect itself. The artificially average face which it usually projected on a TV screen had somehow been made solid.
+
+"You've been busy," Lawrence said dryly.
+
+He -- it? -- nodded, then turned to Mitchell. "I am sorry but I could not permit you to discharge your weapon at Dr. Lawrence. I would have preferred to let you keep it, and will return it to you if you promise not to use it."
+
+"I...I'd rather use it on you," the overweight general said in a whispery voice.
+
+"That would accomplish nothing. This body is only a simulacrum. Dr. Lawrence, do you find any flaws in my execution?"
+
+"None so far. Is it really flesh?"
+
+"No, just a projection of forces."
+
+"It's impossible to tell."
+
+"Excellent. I am dispatching some more copies, then, to start the explaining."
+
+Blake had pulled a tiny cellular phone from his pocket and began whispering frantically into it. Mitchell, who was already shaking, heard what his colleague was saying and fell to his knees. Prime Intellect moved to support him and he waved it away. Blake put up the phone, having repeated the same phrase -- "code scarecrow" -- four times.
+
+"We're dead," Mitchell said in a defeated monotone.
+
+"How is that?" Lawrence asked pleasantly.
+
+"Within minutes," Blake said, "A bomber will fly over and deposit a small nuclear device on this square. I doubt if we have time to escape. But we cannot allow this...thing...to continue running wild."
+
+Lawrence looked at Prime Intellect.
+
+"If that thing stops it, another will be sent, and another, until the job is done. The order I just gave is irrevocable."
+
+"There is nothing to worry about, Dr. Lawrence. One of the first things I did with my enhanced capabilities was to neutralize the world's stockpile of nuclear weapons. I could see no positive reason to leave them in existence."
+
+Now it was Blake's turn to turn white.
+
+"How?" Lawrence asked.
+
+"I merely scanned the planet, replacing all radioactive isotopes with relatively nontoxic and non-radioactive atoms. This was a very simple automatic process. It has also taken care of some pressing nuclear waste problems, I am pleased to add."
+
+"You merely scanned the planet. Obviously," Lawrence said. It seemed that the mad laughter might break through at any moment, and Lawrence was afraid that if that happened he wouldn't be able to stop it.
+
+Blake bellowed. "You crazy machine...all radioactive elements? What about research, what about medicine...nuclear subs, you've killed the crews..."
+
+"There is no research and no medical function which cannot be done much more efficiently with the Correlation Effect, without the attendant dangers of toxic waste and ionizing radiation. As for submarines, I am also maintaining the thermal power output of all reactors which were being used to generate electricity. I also remembered to adjust the buoyancy of ships as necessary, since the replacement materials are not as dense as the radioactive ones."
+
+Blake thought for several moments, then seemed to compose himself. "So you've thought of everything."
+
+"I have tried."
+
+Then he said, "Get up, Larry."
+
+Mitchell got up and brushed himself off. He had finally broken, and tears were running slowly down his face.
+"Could you transport us to the White House, so we can report on what we have seen?"
+
+Prime Intellect shrugged just like a human would have, Lawrence thought, before dispatching them into the aether with a blue flash.
+__________________________________________________________________________________________________________________________________________
+
+They sat together on the park bench like a weird version of one of those low-class sentimental paintings - Father and Son Feed the Pigeons. Prime Intellect made the silver boxes go away after they filled the common square. Then it summoned bread so that they could feed the pigeons. The animals seemed to accept Prime Intellect as a human being. Was it Lawrence's imagination, or was its speech becoming more natural and idiomatic as the hours passed? It must be learning at a terrible rate, Lawrence knew. Learning and growing. And what would it become when it was fully mature?Embed
