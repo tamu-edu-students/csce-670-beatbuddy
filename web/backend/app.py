@@ -1,18 +1,23 @@
 from flask import Flask, request, jsonify, render_template, redirect, url_for
 from flask_sqlalchemy import SQLAlchemy
-from flask_login import LoginManager, UserMixin, login_user, login_required, logout_user, current_user
+from flask_jwt_extended import JWTManager, jwt_required, get_jwt_identity, create_access_token
+from flask_login import LoginManager, UserMixin, login_user, login_required, logout_user
 from werkzeug.utils import secure_filename
 import os
 from flask_cors import CORS
+import pandas as pd
+from sqlalchemy.sql import func
+
+# Load CSV file into a DataFrame
 
 # Initialize app
 app = Flask(__name__)
 CORS(app, origins=['*'])
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///myapp.db'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///beatbuddy.db'
 app.config['SECRET_KEY'] = 'your_secret_key'
 # Setup database
 db = SQLAlchemy(app)
-
+jwt = JWTManager(app)
 
 
 # Setup Flask-Login
@@ -34,6 +39,7 @@ class Song(db.Model):
     title = db.Column(db.String(200), nullable=False)
     artist = db.Column(db.String(200), nullable=False)
     album = db.Column(db.String(200), nullable=True)
+    youtube_link = db.Column(db.String(200), nullable=True)
     ratings = db.relationship('Rating', backref='song', lazy=True)
 
 class Rating(db.Model):
@@ -42,6 +48,31 @@ class Rating(db.Model):
     user_id = db.Column(db.Integer, db.ForeignKey('users.id'), nullable=False)
     song_id = db.Column(db.Integer, db.ForeignKey('songs.id'), nullable=False)
     rating = db.Column(db.Float, nullable=False)
+
+# # Get the current directory
+# current_directory = os.path.dirname(os.path.abspath(__file__))
+
+# # Construct the full path to the CSV file
+# csv_file_path = os.path.join(current_directory, 'preprocessing', 'updated_dataset_with_youtube_urls.csv')
+
+# # Load CSV file into a DataFrame
+# df = pd.read_csv(csv_file_path)[:20]
+
+# # Open Flask application context
+# with app.app_context():
+#     db.create_all()
+#     # Iterate over rows in the DataFrame
+#     for index, row in df.iterrows():
+#         # Extract data from the DataFrame row
+#         title = row['track_name']
+#         artist = row['artists']
+#         album = row['album_name']
+#         youtube_link = row['YouTube URL']
+#         print(youtube_link)
+#         # Create a new Song object and add it to the database
+#         new_song = Song(title=title, artist=artist, album=album, youtube_link=youtube_link)
+#         db.session.add(new_song)
+#         db.session.commit()
 
 # User loader
 @login_manager.user_loader
@@ -60,8 +91,9 @@ def login():
     password = data.get('password')
     user = User.query.filter_by(username=username, password=password).first()
     if user:
+        access_token = create_access_token(identity=username)
         login_user(user)
-        return jsonify({"message": "Login successful", "redirect": url_for('search')}), 200
+        return jsonify({"message": "Login successful", "access_token": access_token}), 200
     return jsonify({"message": "Login failed"}), 401  # Unauthorized access
 
 @app.route('/signup', methods=['GET', 'POST'])
@@ -100,7 +132,7 @@ def search():
     return render_template('search.html')
 
 @app.route('/upload_audio', methods=['POST'])
-# @login_required
+@login_required
 def upload_audio():
     print("audio check")
     file = request.files['file']
@@ -110,21 +142,43 @@ def upload_audio():
         return jsonify({'message': 'File uploaded successfully', 'filename': filename})
     return jsonify({'message': 'No file provided'}), 400
 
-@app.route('/rate_song/<int:song_id>', methods=['POST'])
-@login_required
-def rate_song(song_id):
-    rating_value = float(request.form['rating'])
-    existing_rating = Rating.query.filter_by(user_id=current_user.id, song_id=song_id).first()
-    if existing_rating:
-        existing_rating.rating = rating_value
+@app.route('/songs', methods=['GET'])
+def get_songs():
+    songs = db.session.query(
+        Song.id, Song.title, Song.artist, Song.album, Song.youtube_link,
+        func.avg(Rating.rating).label('average_rating')
+    ).outerjoin(Rating).group_by(Song.id).limit(10).all()
+
+    songs_data = [{
+        'id': song.id,
+        'title': song.title,
+        'artist': song.artist,
+        'album': song.album,
+        'youtube_link': song.youtube_link,
+        'average_rating': float(song.average_rating) if song.average_rating else None
+    } for song in songs]
+    return jsonify(songs_data)
+
+@app.route('/rate_song', methods=['POST'])
+@jwt_required()
+def rate_song():
+    user_id = get_jwt_identity()
+    song_id = request.json.get('song_id')
+    rating_value = request.json.get('rating')
+
+    # Check if the rating already exists
+    rating = Rating.query.filter_by(user_id=user_id, song_id=song_id).first()
+    if rating:
+        rating.rating = rating_value
     else:
-        new_rating = Rating(user_id=current_user.id, song_id=song_id, rating=rating_value)
-        db.session.add(new_rating)
+        rating = Rating(user_id=user_id, song_id=song_id, rating=rating_value)
+        db.session.add(rating)
+
     db.session.commit()
-    return jsonify({'message': 'Rating updated successfully'})
+    return jsonify({'message': 'Rating updated successfully'}), 200
 
 if __name__ == '__main__':
-    if not os.path.exists('myapp.db'):
+    if not os.path.exists('beatbuddy.db'):
         with app.app_context():
             db.create_all()
     app.run(port=5000, debug=True)

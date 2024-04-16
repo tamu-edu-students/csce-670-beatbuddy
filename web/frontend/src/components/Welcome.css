@@ -1,0 +1,17 @@
+/* Typing cursor effect */
+h1 {
+  border-right: 3px solid white;
+  white-space: nowrap;
+  overflow: hidden;
+  font-family: 'Courier New', Courier, monospace; /* Makes it look more like typewriting */
+}
+
+/* Cursor Blink Effect */
+@keyframes blinkCursor {
+  from { border-right-color: white; }
+  to { border-right-color: transparent; }
+}
+
+h1 {
+  animation: blinkCursor 0.75s step-end infinite;
+}
