@@ -1,0 +1,43 @@
+.song-card {
+  cursor: pointer;
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px; /* Adds space between cards */
+  background-color: #f9f9f9;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  width: 30%; /* Adjust based on your layout preference */
+}
+
+.song-title {
+  color: #333;
+  font-size: 1.5em;
+}
+
+.song-artist, .song-album {
+  color: #666;
+  font-size: 1.2em;
+}
+
+.song-rating {
+  color: gold;
+  margin: 10px 0;
+}
+
+.song-rating button {
+  background: none;
+  border: none;
+  color: gold;
+  cursor: pointer;
+}
+
+.song-rating button:hover {
+  transform: scale(1.2);
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: space-evenly;
+}
