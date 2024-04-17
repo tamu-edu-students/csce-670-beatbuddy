@@ -45,3 +45,32 @@
   left: 50%;
   transform: translateX(-50%);
 }
+
+.btn {
+  margin-right: 8px;
+}
+
+.text-center {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+@media (max-width: 768px) {
+  .feature-card {
+    width: 100%; /* Adjust width for small screens */
+    height: auto; /* Allow height to adjust based on content */
+  }
+  
+  .record-container {
+    position: static;
+    transform: none;
+    padding-top: 20px;
+    text-align: center;
+  }
+
+  .btn {
+    margin-bottom: 10px; /* More spacing on smaller screens */
+  }
+}
+

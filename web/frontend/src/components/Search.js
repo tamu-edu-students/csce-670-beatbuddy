@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import axios from 'axios';
 import { Spinner, ListGroup, Form, Button } from 'react-bootstrap';
 
-function Search() {
+function Search({ onSearchTextTrigger}) {
     const [query, setQuery] = useState('');
     const [results, setResults] = useState([]);
     const [isLoading, setIsLoading] = useState(false);
@@ -13,7 +13,7 @@ function Search() {
         setError('');
         setIsLoading(true);
         try {
-            const res = await axios.post('http://localhost:5000/search', { query });
+            const res = await axios.post('http://localhost:5000/search_via_text', { query });
             setResults(res.data);
             if (res.data.length === 0) {
                 setError('No results found.');
@@ -23,6 +23,7 @@ function Search() {
             setError('Search failed. Please try again.');
         }
         setIsLoading(false);
+        onSearchTextTrigger(); // This will change the view in Home to show search results
     };
 
     return (
@@ -41,7 +42,7 @@ function Search() {
                     {isLoading ? <Spinner as="span" animation="border" size="sm" role="status" aria-hidden="true" /> : "Search"}
                 </Button>
             </Form>
-            {error && <div className="text-danger">{error}</div>}
+            {error && <div className="text-danger">{error}</div>}   
             <ListGroup className="mt-3">
                 {results.map(song => (
                     <ListGroup.Item key={song.id}>

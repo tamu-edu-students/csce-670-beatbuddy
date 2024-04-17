@@ -40,6 +40,7 @@ class Song(db.Model):
     artist = db.Column(db.String(200), nullable=False)
     album = db.Column(db.String(200), nullable=True)
     youtube_link = db.Column(db.String(200), nullable=True)
+    nearest_songs = db.Column(db.String(200), nullable=True)
     ratings = db.relationship('Rating', backref='song', lazy=True)
 
 class Rating(db.Model):
@@ -131,19 +132,52 @@ def search():
         return render_template('search.html', results=songs)
     return render_template('search.html')
 
-@app.route('/upload_audio', methods=['POST'])
-@login_required
-def upload_audio():
+
+@app.route('/all_songs', methods=['GET'])
+def get_all_songs():
+    songs = db.session.query(
+        Song.id, Song.title, Song.artist, Song.album, Song.youtube_link,
+        func.avg(Rating.rating).label('average_rating')
+    ).outerjoin(Rating).group_by(Song.id).limit(10).all()
+
+    songs_data = [{
+        'id': song.id,
+        'title': song.title,
+        'artist': song.artist,
+        'album': song.album,
+        'youtube_link': song.youtube_link,
+        'average_rating': float(song.average_rating) if song.average_rating else None
+    } for song in songs]
+    return jsonify(songs_data)
+
+@app.route('/recommendations', methods=['GET'])
+def get_recommendations():
+    songs = db.session.query(
+        Song.id, Song.title, Song.artist, Song.album, Song.youtube_link,
+        func.avg(Rating.rating).label('average_rating')
+    ).outerjoin(Rating).group_by(Song.id).limit(10).all()
+
+    songs_data = [{
+        'id': song.id,
+        'title': song.title,
+        'artist': song.artist,
+        'album': song.album,
+        'youtube_link': song.youtube_link,
+        'average_rating': float(song.average_rating) if song.average_rating else None
+    } for song in songs]
+    return jsonify(songs_data)
+
+@app.route('/search_via_clip', methods=['GET'])
+def get_search_clip():
     print("audio check")
     file = request.files['file']
     if file:
         filename = secure_filename(file.filename)
         file.save(os.path.join('uploads', filename))  # Ensure the 'uploads' folder exists
         return jsonify({'message': 'File uploaded successfully', 'filename': filename})
-    return jsonify({'message': 'No file provided'}), 400
 
-@app.route('/songs', methods=['GET'])
-def get_songs():
+@app.route('/search_via_text', methods=['GET'])
+def get_search_text():
     songs = db.session.query(
         Song.id, Song.title, Song.artist, Song.album, Song.youtube_link,
         func.avg(Rating.rating).label('average_rating')

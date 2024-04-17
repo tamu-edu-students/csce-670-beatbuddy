@@ -1,0 +1,42 @@
+.record-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.record-controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.record-controls button {
+  margin-right: 0.5rem;
+}
+
+.record-controls .spinner {
+  margin-left: 0.5rem;
+}
+
+.recordings-list {
+  width: 100%;
+}
+
+.recording-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+.recording-item audio {
+  flex-grow: 1;
+  margin-right: 0.5rem;
+}
+
+.recording-item button {
+  flex-shrink: 0;
+}
+

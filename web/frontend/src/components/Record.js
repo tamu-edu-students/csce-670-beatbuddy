@@ -1,8 +1,8 @@
 import React, { useState, useRef } from 'react';
 import axios from 'axios';
 import { Button, ListGroup, Spinner, Alert } from 'react-bootstrap';
-
-function Record() {
+import './Record.css';
+function Record({onSearchClipTrigger}) {
     const [isRecording, setIsRecording] = useState(false);
     const [recordings, setRecordings] = useState([]);
     const [feedbackMessage, setFeedbackMessage] = useState('');
@@ -60,24 +60,25 @@ function Record() {
             console.error('Upload failed:', error);
             setFeedbackMessage('Upload failed.');
         }
+        onSearchClipTrigger(); // This will change the view in Home to show search results
     };
 
     return (
-        <div>
-            {feedbackMessage && <Alert variant="info">{feedbackMessage}</Alert>}
-            <Button onClick={isRecording ? stopRecording : startRecording} variant={isRecording ? "danger" : "primary"}>
-                {isRecording ? 'Stop Recording' : 'Start Recording'}
-                {isRecording && <Spinner as="span" animation="border" size="sm" className="ml-2" />}
-            </Button>
-            <ListGroup className="mt-3">
-                {recordings.map((recording, index) => (
-                    <ListGroup.Item key={index} className="d-flex justify-content-between align-items-center">
-                        <audio controls src={recording}></audio>
-                        <Button onClick={() => handleUpload(recording)} variant="success">Upload</Button>
-                    </ListGroup.Item>
-                ))}
-            </ListGroup>
-        </div>
+<div className="record-container">
+    {/* {feedbackMessage && <Alert variant="info" className="mb-3">{feedbackMessage}</Alert>} */}
+    <div className="record-controls">
+        <Button onClick={isRecording ? stopRecording : startRecording} variant={isRecording ? "danger" : "primary"}>
+            {isRecording ? 'Stop Recording' : 'Start Recording'}
+            {isRecording && <Spinner as="span" animation="border" size="sm" className="ml-2" />}
+        </Button>
+    </div>
+    <div className="recordings-list">
+        {recordings.map((recording, index) => (
+            <Button key={index} onClick={() => handleUpload(recording)} variant="success">Search</Button>
+        ))}
+    </div>
+</div>
+
     );
 }
 
