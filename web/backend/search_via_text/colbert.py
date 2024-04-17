@@ -39,6 +39,7 @@ def calculate_similarity(query_embeddings, doc_embeddings):
 def search_documents(query, num_results=10):
     query_tokens = preprocess_bm_25.preprocess(query)
     scores = bm25_model.get_scores(query_tokens)
+    print(scores)
     top_bm25_indices = np.argsort(scores)[::-1][:num_results]
     print(top_bm25_indices)
     path = "../preprocessing/lyrics"
