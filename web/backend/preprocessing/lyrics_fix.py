@@ -1,7 +1,7 @@
 import os
 
 # Define the directory containing the files
-directory = "./lyrics"
+directory = "web/backend/preprocessing/lyrics"
 
 # Check each file in the range from 0 to 5000
 for i in range(11173):  # up to and including 5000
