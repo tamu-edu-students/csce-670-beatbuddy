@@ -1,1 +1,7 @@
 env/
+isr_python_env/
+bert_embeddings.pkl
+bert_model.pkl
+bert_tokenizer.pkl
+bm25.pkl
+doc_ids.pkl
