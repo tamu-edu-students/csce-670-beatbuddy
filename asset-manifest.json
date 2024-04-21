@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/csce-670-beatbuddy/static/css/main.34810e78.css",
+    "main.js": "/csce-670-beatbuddy/static/js/main.290f5d4e.js",
+    "static/js/453.8ab44547.chunk.js": "/csce-670-beatbuddy/static/js/453.8ab44547.chunk.js",
+    "index.html": "/csce-670-beatbuddy/index.html",
+    "main.34810e78.css.map": "/csce-670-beatbuddy/static/css/main.34810e78.css.map",
+    "main.290f5d4e.js.map": "/csce-670-beatbuddy/static/js/main.290f5d4e.js.map",
+    "453.8ab44547.chunk.js.map": "/csce-670-beatbuddy/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34810e78.css",
+    "static/js/main.290f5d4e.js"
+  ]
+}
