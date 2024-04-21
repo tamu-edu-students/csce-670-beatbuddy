@@ -11,12 +11,14 @@ import './Home.css';
 function Home() {
     const navigate = useNavigate();
     const [activeView, setActiveView] = useState('songs'); // Default view is 'songs'
-
+    const [query, setQuery] = React.useState('');
     const handleSetActiveView = (view) => {
         setActiveView(view);
     };
 
-    const handleSearchTextTriggered = () => {
+    const handleSearchTextTriggered = (query) => {
+        console.log('Received query: ', query);
+        setQuery(query);
         setActiveView('search text results'); // Change view to show search results
     };
     const handleSearchClipTriggered = () => {
@@ -91,7 +93,7 @@ function Home() {
                     {/* Conditional rendering based on activeView */}
                     {activeView === 'songs' && <SongList endpoint="all_songs" title="All Songs" />}
                     {activeView === 'recommendations' && <SongList endpoint="recommendations" title="Recommendations" />}
-                    {activeView === 'search text results' && <SongList endpoint="search_via_text" title="Search Text Results" />}
+                    {activeView === 'search text results' && <SongList endpoint={`search_via_text?query=${query}`} title="Search Text Results" />}
                     {activeView === 'search clip results' && <SongList endpoint="search_via_clip" title="Search Clip Results" />}
                 </div>
             </div>

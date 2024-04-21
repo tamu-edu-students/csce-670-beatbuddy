@@ -3,6 +3,7 @@ import axios from 'axios';
 import { useNavigate } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './Login.css'; // Import custom CSS
+import config from '../Config.json';
 
 function Login() {
     const [username, setUsername] = useState('');
@@ -13,7 +14,7 @@ function Login() {
         e.preventDefault();
 
         try {
-            const res = await axios.post('http://localhost:5000/login', {
+            const res = await axios.post(config.python_url+'/login', {
                 username,
                 password
             });

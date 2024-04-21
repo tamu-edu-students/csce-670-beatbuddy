@@ -3,6 +3,7 @@ import axios from 'axios';
 import { useNavigate } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './Signup.css'; // Import custom CSS
+import config from '../Config.json'
 
 function Signup() {
     const [username, setUsername] = useState('');
@@ -13,7 +14,7 @@ function Signup() {
     const handleSubmit = async (e) => {
         e.preventDefault();
         try {
-            const res = await axios.post('http://localhost:5000/signup', { username, password, email });
+            const res = await axios.post(config.python_url+'/signup', { username, password, email });
             if (res.data) {
                 console.log('Signup successful:', res.data);
                 navigate('/home');

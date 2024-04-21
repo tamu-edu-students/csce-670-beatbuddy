@@ -30,6 +30,7 @@ def preprocess(text,train=True):
         _, *lines = text.split('\n')
         text = '\n'.join(lines)
     
+    print("Text is not a string:", text)
     # Remove words between square brackets
     text = re.sub(r'\[.*?\]', '', text)
     # Convert text to lowercase
