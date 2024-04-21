@@ -7,13 +7,14 @@ import os
 from flask_cors import CORS
 import pandas as pd
 from sqlalchemy.sql import func
-
+from search_via_text.colbert import search_documents
 # Load CSV file into a DataFrame
-
+current_directory = os.getcwd()
+db_path=current_directory+r"/instance/beatbuddy.db"
 # Initialize app
 app = Flask(__name__)
 CORS(app, origins=['*'])
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///beatbuddy.db'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///' + db_path #'sqlite:///beatbuddy.db'
 app.config['SECRET_KEY'] = 'your_secret_key'
 # Setup database
 db = SQLAlchemy(app)
@@ -83,7 +84,7 @@ def load_user(user_id):
 # Routes
 @app.route('/')
 def index():
-    return render_template('login.html')
+    return "Beats buddy Python Api"
 
 @app.route('/login', methods=['POST'])
 def login():
@@ -135,6 +136,7 @@ def search():
 
 @app.route('/all_songs', methods=['GET'])
 def get_all_songs():
+
     songs = db.session.query(
         Song.id, Song.title, Song.artist, Song.album, Song.youtube_link,
         func.avg(Rating.rating).label('average_rating')
@@ -178,19 +180,29 @@ def get_search_clip():
 
 @app.route('/search_via_text', methods=['GET'])
 def get_search_text():
-    songs = db.session.query(
-        Song.id, Song.title, Song.artist, Song.album, Song.youtube_link,
-        func.avg(Rating.rating).label('average_rating')
-    ).outerjoin(Rating).group_by(Song.id).limit(10).all()
+    query = request.args.get('query')
+    song_ids=search_documents(query)
 
-    songs_data = [{
-        'id': song.id,
-        'title': song.title,
-        'artist': song.artist,
-        'album': song.album,
-        'youtube_link': song.youtube_link,
-        'average_rating': float(song.average_rating) if song.average_rating else None
-    } for song in songs]
+    song_ids = [x + 1 for x in song_ids]
+
+    try:
+        songs = db.session.query(
+            Song.id, Song.title, Song.artist, Song.album, Song.youtube_link,
+            func.avg(Rating.rating).label('average_rating')
+        ).filter(Song.id.in_(song_ids)).outerjoin(Rating).group_by(Song.id).all()
+        songs = sorted(songs,key=lambda song: song_ids.index(song.id))
+        songs_data = [{
+            'id': song.id,
+            'title': song.title,
+            'artist': song.artist,
+            'album': song.album,
+            'youtube_link': song.youtube_link,
+            'average_rating': float(song.average_rating) if song.average_rating else None
+        } for song in songs]
+        print(songs_data)
+    except Exception as e:
+        print(e.args)
+
     return jsonify(songs_data)
 
 @app.route('/rate_song', methods=['POST'])

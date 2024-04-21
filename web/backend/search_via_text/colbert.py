@@ -10,7 +10,7 @@ import torch
 from sklearn.metrics.pairwise import cosine_similarity
 import os
 import pickle
-import preprocess_bm_25  # Ensure this module correctly preprocesses text for BM25
+import search_via_text.preprocess_bm_25 as preprocess_bm_25 # Ensure this module correctly preprocesses text for BM25
 
 def load_bm25_model(filepath='bm25.pkl'):
     with open(filepath, 'rb') as file:
@@ -71,7 +71,8 @@ def search_documents(query, num_results=10):
     tracks_df = pd.read_csv("web/backend/preprocessing/updated_dataset_with_youtube_urls.csv")
     filtered_tracks=tracks_df[tracks_df['SongID'].isin(top_song_ids)]["track_name"]
     track_names=filtered_tracks.reindex(top_song_ids).tolist()
-    return track_names
+    print(track_names)
+    return top_song_ids
 if __name__=="__main__":
     # Example usage
     query = """So many people have come and gone

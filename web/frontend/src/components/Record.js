@@ -2,6 +2,7 @@ import React, { useState, useRef } from 'react';
 import axios from 'axios';
 import { Button, ListGroup, Spinner, Alert } from 'react-bootstrap';
 import './Record.css';
+import config from '../Config.json'
 function Record({onSearchClipTrigger}) {
     const [isRecording, setIsRecording] = useState(false);
     const [recordings, setRecordings] = useState([]);
@@ -53,7 +54,7 @@ function Record({onSearchClipTrigger}) {
             const formData = new FormData();
             formData.append('file', audioBlob, 'recording.mp3');
 
-            const response = await axios.post('http://localhost:5000/upload_audio', formData);
+            const response = await axios.post(config.python_url+'/upload_audio', formData);
             console.log('Server response:', response.data);
             setFeedbackMessage('Upload successful!');
         } catch (error) {
