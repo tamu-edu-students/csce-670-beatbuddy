@@ -3,16 +3,17 @@ from flask_sqlalchemy import SQLAlchemy
 from flask_jwt_extended import JWTManager, jwt_required, get_jwt_identity, create_access_token
 from flask_login import LoginManager, UserMixin, login_user, login_required, logout_user
 from werkzeug.utils import secure_filename
+from flask.helpers import send_from_directory
 import os
 from flask_cors import CORS
 import pandas as pd
 from sqlalchemy.sql import func
-from search_via_text.colbert import search_documents
+from web.backend.search_via_text.colbert import search_documents
 # Load CSV file into a DataFrame
 current_directory = os.getcwd()
 db_path=current_directory+r"/instance/beatbuddy.db"
 # Initialize app
-app = Flask(__name__)
+app = Flask(__name__,static_folder="web/frontend/build",static_url_path="")
 CORS(app, origins=['*'])
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///' + db_path #'sqlite:///beatbuddy.db'
 app.config['SECRET_KEY'] = 'your_secret_key'
@@ -84,7 +85,7 @@ def load_user(user_id):
 # Routes
 @app.route('/')
 def index():
-    return "Beats buddy Python Api"
+    return send_from_directory(app.static_folder,"index.html")
 
 @app.route('/login', methods=['POST'])
 def login():
@@ -227,4 +228,4 @@ if __name__ == '__main__':
     if not os.path.exists('beatbuddy.db'):
         with app.app_context():
             db.create_all()
-    app.run(port=5000, debug=True)
+    app.run()
