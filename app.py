@@ -8,7 +8,9 @@ import os
 from flask_cors import CORS
 import pandas as pd
 from sqlalchemy.sql import func
+
 from web.backend.search_via_text.colbert import search_documents
+
 # Load CSV file into a DataFrame
 current_directory = os.getcwd()
 db_path=current_directory+r"/instance/beatbuddy.db"
@@ -88,6 +90,7 @@ def load_user(user_id):
 def index():
     #return send_from_directory(app.static_folder,"index.html")
     return "Beatbuddy Python API"
+
 
 @app.route('/login', methods=['POST'])
 def login():
