@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import Search from './Search';
 import Record from './Record';
 import SongList from './SongList'; // Importing SongList which replaces Songs and Recommendations
@@ -6,28 +6,56 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faMicrophone, faSearch } from '@fortawesome/free-solid-svg-icons';
 import { useNavigate } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import config from "../Config.json";
+import axios from 'axios';
+
 import './Home.css';
 
 function Home() {
+    
+
     const navigate = useNavigate();
     const [activeView, setActiveView] = useState('songs'); // Default view is 'songs'
     const [query, setQuery] = React.useState('');
+    const [resetKey, setResetKey] = useState(0);
+    const [isLoading, setIsLoading] = useState(false);
+    const [triggerSearch, setTriggerSearch] = useState(false);
     const handleSetActiveView = (view) => {
         setActiveView(view);
     };
-
+    console.log("Render Home", { activeView, isLoading, triggerSearch });
     const handleSearchTextTriggered = (query) => {
         console.log('Received query: ', query);
         setQuery(query);
         setActiveView('search text results'); // Change view to show search results
     };
-    const handleSearchClipTriggered = () => {
-        setActiveView('search clip results'); // Change view to show search results
+    const handleSearchClipTriggered =  () => {
+        if (!isLoading) {
+            setResetKey(prevKey => prevKey + 1);
+            setActiveView('search clip results');
+            // setIsLoading(true);
+            // setTriggerSearch(true); // Only trigger the search here
+        }
+        // navigate('/search_clip');
     };
+    
 
     const handleLogout = () => {
         navigate('/');
     };
+
+    // useEffect(() => {
+    //     if (triggerSearch) {
+    //         console.log('Executing search via clip...');
+    //         // Simulate an API call
+    //         setTimeout(() => {
+    //             setIsLoading(false);
+    //             setTriggerSearch(false); // Reset this to prevent re-triggering
+    //             console.log('Search completed!');
+    //         }, 3000);
+    //     }
+    // }, [triggerSearch]);
+      
 
     return (
         <div className="home-container">
@@ -66,12 +94,10 @@ function Home() {
                 <div className="col-md-6 col-lg-5 mb-4"> 
                     <div className="card feature-card h-100 shadow">
                         <div className="card-body text-center">
-                        <FontAwesomeIcon icon={faMicrophone} />
-                            
-                            <div className="record-container d-flex justify-content-center align-items-center h-100">
-                            
-                                <Record onSearchClipTrigger={handleSearchClipTriggered}/>
-                            </div>
+                        <h2 className="card-title">
+                                <FontAwesomeIcon icon={faMicrophone} />
+                            </h2>
+                            <Record onAudioReady={handleSearchClipTriggered} />
                         </div>
                     </div>
                 </div>
@@ -94,7 +120,8 @@ function Home() {
                     {activeView === 'songs' && <SongList endpoint="all_songs" title="All Songs" />}
                     {activeView === 'recommendations' && <SongList endpoint="recommendations" title="Recommendations" />}
                     {activeView === 'search text results' && <SongList endpoint={`search_via_text?query=${query}`} title="Search Text Results" />}
-                    {activeView === 'search clip results' && <SongList endpoint="search_via_clip" title="Search Clip Results" />}
+                    {/* {activeView === 'search clip results' && isLoading && <div>Loading search results...</div>} */}
+                    {activeView === 'search clip results' && <SongList key={resetKey} endpoint="search_via_clip" title="Search Clip Results" />}
                 </div>
             </div>
         </div>
