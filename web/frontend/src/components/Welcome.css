@@ -1,17 +1,30 @@
-/* Typing cursor effect */
-h1 {
-  border-right: 3px solid white;
-  white-space: nowrap;
-  overflow: hidden;
-  font-family: 'Courier New', Courier, monospace; /* Makes it look more like typewriting */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Russo+One&display=swap');
+
+.vh-100 {
+  display: flex;
+  flex-direction: column; /* Stack children vertically */
+  align-items: center; /* Center children horizontally */
+  justify-content: center; /* Center children vertically */
+  height: 100vh;
+  background-color: #343a40; /* Dark gray background */
+  color: white;
+  padding: 20px; /* To ensure content is not touching the edges */
+  text-align: center; /* Center the text inside the typewriter */
 }
 
-/* Cursor Blink Effect */
+.typewriter h1 {
+  font-family: "Russo One", sans-serif; /* Specify the font-family for h1 */
+  border-right: 3px solid white; /* Simulate the typewriter cursor */
+  white-space: nowrap; /* Keep the text on a single line */
+  overflow: hidden; /* Hide anything that overflows */
+  animation: blinkCursor 0.75s step-end infinite;
+  font-size: 2.5rem; /* Larger font size for visibility */
+}
+
+/* Rest of your CSS ... */
+
+/* Cursor animation keyframes */
 @keyframes blinkCursor {
   from { border-right-color: white; }
   to { border-right-color: transparent; }
-}
-
-h1 {
-  animation: blinkCursor 0.75s step-end infinite;
 }
