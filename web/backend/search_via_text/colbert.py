@@ -51,7 +51,7 @@ def search_documents(query, num_results=10):
     scores = bm25_model.get_scores(query_tokens)
     top_bm25_indices = np.argsort(scores)[::-1][:num_results]
     print(top_bm25_indices)
-    path = "web/backend/preprocessing/lyrics" 
+    #path = "web/backend/preprocessing/lyrics" 
     document_ids, documents = [], []
     for idx in top_bm25_indices:
         if idx in bert_embedding:
