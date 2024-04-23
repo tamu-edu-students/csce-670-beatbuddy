@@ -1,9 +1,7 @@
 {
- 
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://beatbuddyapp-env.eba-pws2vdsf.us-east-2.elasticbeanstalk.com/",
   "dependencies": {
     "@fortawesome/free-regular-svg-icons": "^6.5.2",
     "@fortawesome/free-solid-svg-icons": "^6.5.2",
@@ -14,24 +12,22 @@
     "axios": "^1.6.8",
     "bootstrap": "^5.3.3",
     "cors": "^2.8.5",
-<<<<<<< HEAD
-    "gh-pages": "^6.1.1",
-=======
->>>>>>> b712a8ff (Merge remote-tracking branch 'origin/master' into nagarjuna)
+    "fluent-ffmpeg": "^2.1.2",
+    "lamejs": "github:zhuker/lamejs",
     "react": "^18.2.0",
+    "react-audio-voice-recorder": "^2.2.0",
     "react-bootstrap": "^2.10.2",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.22.3",
-    "react-scripts": "^5.0.1",
+    "react-scripts": "^3.0.1",
+    "recorder-js": "^1.0.7",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build", 
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
