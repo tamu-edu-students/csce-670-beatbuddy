@@ -5,8 +5,9 @@ import { faStar as emptyStar } from '@fortawesome/free-regular-svg-icons';
 import config from "../Config.json"
 function SongList({ endpoint, title }) {
     const [songs, setSongs] = useState([]);
-
+    const [isLoading, setIsLoading] = useState(false);
     useEffect(() => {
+        setIsLoading(true);
         const token = localStorage.getItem('token');
         if (token) {
             fetch(config.python_url+`/${endpoint}`, {
@@ -15,10 +16,17 @@ function SongList({ endpoint, title }) {
                 }
             })
             .then(response => response.json())
-            .then(data => setSongs(data))
-            .catch(err => console.error(`Error fetching songs from ${title}:`, err));
+            .then(data => {
+                setSongs(data);
+                setIsLoading(false);
+            })
+            .catch(err => {
+                console.error(`Error fetching songs from ${title}:`, err);
+                setIsLoading(false);
+            });
         } else {
             console.log('User not logged in.');
+            setIsLoading(false);
         }
     }, [endpoint, title]);
 
@@ -63,8 +71,15 @@ function SongList({ endpoint, title }) {
     const openYoutubeLink = (url) => {
         window.open(url, '_blank');
     };
+    if (isLoading) {
+        return <div className="container mt-5 text-center"><div className="spinner-border text-primary" role="status"><span className="sr-only">Loading...</span></div></div>;
+    }
 
+    if (!isLoading && songs.length === 0) {
+        return <div className="container mt-5 text-center">No songs available. Please try again later.</div>;
+    }
     return (
+        
         <div className="container mt-5">
             <div className="row justify-content-center">
                 {songs.map(song => (
