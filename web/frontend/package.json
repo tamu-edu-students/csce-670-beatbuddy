@@ -14,7 +14,10 @@
     "axios": "^1.6.8",
     "bootstrap": "^5.3.3",
     "cors": "^2.8.5",
+<<<<<<< HEAD
     "gh-pages": "^6.1.1",
+=======
+>>>>>>> b712a8ff (Merge remote-tracking branch 'origin/master' into nagarjuna)
     "react": "^18.2.0",
     "react-bootstrap": "^2.10.2",
     "react-dom": "^18.2.0",
