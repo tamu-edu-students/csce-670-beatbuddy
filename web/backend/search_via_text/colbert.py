@@ -10,7 +10,7 @@ import torch
 from sklearn.metrics.pairwise import cosine_similarity
 import os
 import pickle
-import search_via_text.preprocess_bm_25 as preprocess_bm_25 # Ensure this module correctly preprocesses text for BM25
+import web.backend.search_via_text.preprocess_bm_25 as preprocess_bm_25 # Ensure this module correctly preprocesses text for BM25
 
 def load_bm25_model(filepath='bm25.pkl'):
     with open(filepath, 'rb') as file:
