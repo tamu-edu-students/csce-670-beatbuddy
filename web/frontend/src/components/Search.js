@@ -1,11 +1,9 @@
 import React, { useState } from 'react';
-import axios from 'axios';
-import { Spinner, ListGroup, Form, Button } from 'react-bootstrap';
-import config from '../Config.json';
+import { Spinner, Form, Button } from 'react-bootstrap';
 
 function Search({ onSearchTextTrigger}) {
     const [query, setQuery] = useState('');
-    const [results, setResults] = useState([]);
+    // const [results, setResults] = useState([]);
     const [isLoading, setIsLoading] = useState(false);
     const [error, setError] = useState('');
 
