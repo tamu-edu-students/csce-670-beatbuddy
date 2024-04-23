@@ -39,11 +39,13 @@
   margin-right: 10px;
 }
 
+/* Home.css */
 .record-container {
-  position: absolute;
-  bottom: 20px;
-  left: 50%;
-  transform: translateX(-50%);
+  display: flex;
+  justify-content: center; /* Aligns items on the horizontal line */
+  align-items: center;     /* Aligns items on the vertical line */
+  flex-direction: column;  /* Stacks items vertically */
+  gap: 100rem;   
 }
 
 .btn {
