@@ -61,19 +61,24 @@ def preprocess(text,train=True):
 # Assuming 'preprocessing' is a module you have that contains the 'preprocess' function
 # If 'preprocess' is a function within the same script, you can import it directly
 
-path = "web/backend/preprocessing/lyrics" # Adjust this path to the correct directory containing your documents
+
+
+#commenting the path as we are not deploying lyrics in prod env 
+path ="" #"web/backend/preprocessing/lyrics" # Adjust this path to the correct directory containing your documents
+
 
 documents = []
 documents_id=[]
 # Iterate through each file in the specified directory
-for filename in os.listdir(path):
-    doc_id = int(filename.split(".")[0])
-    file_path = os.path.join(path, filename)
-    if os.path.isfile(file_path):  # Check if it's a file
-        with open(file_path, 'r', encoding='utf-8') as f:  # Ensure correct handling of file encoding
-            document = f.read()
-            documents_id.append(doc_id)
-            documents.append(document)
+if path!="":
+    for filename in os.listdir(path):
+        doc_id = int(filename.split(".")[0])
+        file_path = os.path.join(path, filename)
+        if os.path.isfile(file_path):  # Check if it's a file
+            with open(file_path, 'r', encoding='utf-8') as f:  # Ensure correct handling of file encoding
+                document = f.read()
+                documents_id.append(doc_id)
+                documents.append(document)
 
 def save_bm25_model(filepath='bm25.pkl'):
     tokenized_corpus = [preprocess(doc)[0] for doc in documents]

@@ -1,0 +1,6 @@
+__pycache__
+isr_python_env
+web/frontend
+backup_final.csv
+web/backend/preprocessing/lyrics/
+download_log.txt
