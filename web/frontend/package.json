@@ -1,9 +1,9 @@
 {
-  "homepage": "https://tamu-edu-students.github.io/csce-670-beatbuddy",
+ 
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://127.0.0.1:5000/",
+  "proxy": "http://beatbuddyapp-env.eba-pws2vdsf.us-east-2.elasticbeanstalk.com/",
   "dependencies": {
     "@fortawesome/free-regular-svg-icons": "^6.5.2",
     "@fortawesome/free-solid-svg-icons": "^6.5.2",

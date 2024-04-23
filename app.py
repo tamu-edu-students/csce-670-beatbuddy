@@ -13,7 +13,8 @@ from web.backend.search_via_text.colbert import search_documents
 current_directory = os.getcwd()
 db_path=current_directory+r"/instance/beatbuddy.db"
 # Initialize app
-app = Flask(__name__,static_folder="web/frontend/build",static_url_path="")
+#app = Flask(__name__,static_folder="web/frontend/build",static_url_path="")
+app=Flask(__name__)
 CORS(app, origins=['*'])
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///' + db_path #'sqlite:///beatbuddy.db'
 app.config['SECRET_KEY'] = 'your_secret_key'
@@ -85,7 +86,8 @@ def load_user(user_id):
 # Routes
 @app.route('/')
 def index():
-    return send_from_directory(app.static_folder,"index.html")
+    #return send_from_directory(app.static_folder,"index.html")
+    return "Beatbuddy Python API"
 
 @app.route('/login', methods=['POST'])
 def login():
@@ -228,4 +230,4 @@ if __name__ == '__main__':
     if not os.path.exists('beatbuddy.db'):
         with app.app_context():
             db.create_all()
-    app.run()
+    app.run(host="0.0.0.0")
