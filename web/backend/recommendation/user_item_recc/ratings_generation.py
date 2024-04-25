@@ -87,5 +87,4 @@ def generate_user_ratings(data_path):
     # ratings_df.to_excel("ratings.xlsx", engine="openpyxl")
     return ratings_df
 
-
-generate_user_ratings("./web/backend/preprocessing/updated_dataset_with_youtube_urls.csv")
+# generate_user_ratings("./web/backend/preprocessing/updated_dataset_with_youtube_urls.csv")
