@@ -1,0 +1,47 @@
+import pandas as pd
+from spotlight.interactions import Interactions
+from spotlight.cross_validation import random_train_test_split
+from spotlight.factorization.implicit import ImplicitFactorizationModel
+import numpy as np
+import pickle
+
+
+def create_data(ratings_dict):
+    # Step 1: Prepare the data
+    users = list(ratings_dict.keys())
+    songs = list(set(song for user_ratings in ratings_dict.values() for song in user_ratings))
+    user_ids = {user: i for i, user in enumerate(users)}
+    song_ids = {song: i for i, song in enumerate(songs)}
+
+    user_ids_reverse = {v: k for k, v in user_ids.items()}
+    song_ids_reverse = {v: k for k, v in song_ids.items()}
+
+    data = []
+    for user, user_ratings in ratings_dict.items():
+        for song, rating in user_ratings.items():
+            data.append((user_ids[user], song_ids[song], rating))
+
+    data = pd.DataFrame(data, columns=['user_id', 'song_id', 'rating'])
+    return data
+
+def train_model(data):
+    # Step 2: Split the data into training and testing sets
+    interactions = Interactions(data['user_id'].values, data['song_id'].values, ratings=data['rating'].values)
+    train_interactions, test_interactions = random_train_test_split(interactions, test_percentage=0.2)
+
+    # Step 3: Train the VMF model
+    model = ImplicitFactorizationModel(n_iter=10)
+    model.fit(train_interactions)
+    return model
+
+def get_recommendations(ratings_dict):
+    data = create_data(ratings_dict)
+    model = train_model(data)
+
+
+
+ratings_df = pd.read_excel("ratings.xlsx", engine="openpyxl")
+ratings_dict = ratings_df.to_dict(orient='index')
+# get_recommendations(ratings_dict)
+# with open("spotlight_lib_mf_model.pkl", "wb") as f:
+#     pickle.dump(model, f)
