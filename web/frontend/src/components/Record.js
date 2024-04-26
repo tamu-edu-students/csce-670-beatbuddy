@@ -72,7 +72,7 @@ const Record = ({onAudioReady}) => {
       <div className="d-flex flex-column align-items-center">
         {/* <audio className="mb-3 w-100" controls src={audioURL}></audio> */}
         <button className="btn btn-success" onClick={uploadAudio}>
-          <i className="fas fa-upload"></i> Upload
+          <i className="fas fa-upload"></i> Search (Beta Version)
         </button>
       </div>
     )}

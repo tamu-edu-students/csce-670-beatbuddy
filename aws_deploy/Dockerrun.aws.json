@@ -1,7 +1,7 @@
 {
     "AWSEBDockerrunVersion": "1",
     "Image": {
-      "Name": "638316737030.dkr.ecr.us-east-2.amazonaws.com/beatbuddy-backend:latest",
+      "Name": "638316737030.dkr.ecr.us-east-2.amazonaws.com/beatbuddy-backend_clip:latest",
       "Update": "true"
     },
     "Ports": [

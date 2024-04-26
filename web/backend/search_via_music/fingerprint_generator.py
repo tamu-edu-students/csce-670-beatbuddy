@@ -16,7 +16,7 @@ from scipy.ndimage.morphology import (binary_erosion,
                                       generate_binary_structure,
                                       iterate_structure)
 
-from search_via_music.configuration import (CONNECTIVITY_MASK, DEFAULT_AMP_MIN,
+from web.backend.search_via_music.configuration import (CONNECTIVITY_MASK, DEFAULT_AMP_MIN,
                                     DEFAULT_FAN_VALUE, DEFAULT_FS,
                                     DEFAULT_OVERLAP_RATIO, DEFAULT_WINDOW_SIZE,
                                     FINGERPRINT_REDUCTION, MAX_HASH_TIME_DELTA,

@@ -8,6 +8,9 @@ FROM python:3.9-slim
 RUN apt-get update --fix-missing 
 RUN apt-get install -y gcc python3-dev 
 RUN pip install nltk
+RUN apt-get install -y ffmpeg 
+RUN apt-get install libportaudio2 libportaudiocpp0 portaudio19-dev libasound-dev libsndfile1-dev -y \
+        && pip3 install pyaudio
 
 # Set the working directory inside the container
 WORKDIR /app

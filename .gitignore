@@ -5,3 +5,5 @@ bert_model.pkl
 bert_tokenizer.pkl
 bm25.pkl
 doc_ids.pkl
+instance/beatbuddy.db
+web/backend/preprocessing/optimized_audio_fingerprint_database.csv
