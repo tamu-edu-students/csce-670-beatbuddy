@@ -334,24 +334,28 @@ def get_search_text():
     return jsonify(songs_data)
 
 @app.route('/recommendations', methods=['GET'])
+@jwt_required()
 def get_recommendations():
     # if request.method == "GET":
-    data = request.get_json()
-    user_id = data.get('userid')
+    user_name = get_jwt_identity()
+    print(user_name)
+    user = User.query.filter_by(username=user_name).first()
+    if user:
+        user_id= user.id
+    else:
+        user_id= None
+    print(user_name,user_id)
     if user_id in recc_data['User']:
-        u_id = user_id
-        
+        u_id = user_id       
     else:
         u_id = random.randint(0, 1999)
+    print(u_id)
     mf_song_ids = recc_data.loc[recc_data['User']==u_id, "Recommended Songs"].values[0]
     knn_song_ids = knn_recc_data.loc[knn_recc_data['User']==u_id, "Recommended Songs"].values[0]
     mf_song_ids = ast.literal_eval(mf_song_ids)
     mf_song_ids = random.sample(mf_song_ids, k=5)
-    knn_song_ids = ast.literal_eval(knn_song_ids)[:5]
+    knn_song_ids = ast.literal_eval(knn_song_ids)
     song_ids = knn_song_ids + mf_song_ids
-    print(mf_song_ids)
-    print(knn_song_ids)
-    print("Recommended Song IDs", song_ids)
     try:
         songs = db.session.query(
             Song.id, Song.title, Song.artist, Song.album, Song.youtube_link,
