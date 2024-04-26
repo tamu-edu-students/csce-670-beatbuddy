@@ -8,6 +8,8 @@ import os
 from flask_cors import CORS
 import pandas as pd
 from sqlalchemy.sql import func
+import random
+import ast
 from web.backend.search_via_music.fingerprint_generator import read_audio, fingerprint
 
 from itertools import groupby
@@ -32,6 +34,10 @@ app.config['UPLOAD_FOLDER'] = './web/backend/uploads'
 # Setup database
 db = SQLAlchemy(app)
 jwt = JWTManager(app)
+
+
+recc_data = pd.read_excel("recommended_songs_new_songsdb.xlsx", engine = "openpyxl")
+knn_recc_data = pd.read_excel("knn_recommended_songs_new_songsdb.xlsx", engine = "openpyxl")
 
 
 # Setup Flask-Login
@@ -325,6 +331,44 @@ def get_search_text():
     except Exception as e:
         print(e.args)
 
+    return jsonify(songs_data)
+
+@app.route('/recommendations', methods=['GET'])
+def get_recommendations():
+    # if request.method == "GET":
+    data = request.get_json()
+    user_id = data.get('userid')
+    if user_id in recc_data['User']:
+        u_id = user_id
+        
+    else:
+        u_id = random.randint(0, 1999)
+    mf_song_ids = recc_data.loc[recc_data['User']==u_id, "Recommended Songs"].values[0]
+    knn_song_ids = knn_recc_data.loc[knn_recc_data['User']==u_id, "Recommended Songs"].values[0]
+    mf_song_ids = ast.literal_eval(mf_song_ids)
+    mf_song_ids = random.sample(mf_song_ids, k=5)
+    knn_song_ids = ast.literal_eval(knn_song_ids)[:5]
+    song_ids = knn_song_ids + mf_song_ids
+    print(mf_song_ids)
+    print(knn_song_ids)
+    print("Recommended Song IDs", song_ids)
+    try:
+        songs = db.session.query(
+            Song.id, Song.title, Song.artist, Song.album, Song.youtube_link,
+            func.avg(Rating.rating).label('average_rating')
+        ).filter(Song.id.in_(song_ids)).outerjoin(Rating).group_by(Song.id).all()
+        songs = sorted(songs,key=lambda song: song_ids.index(song.id))
+        songs_data = [{
+            'id': song.id,
+            'title': song.title,
+            'artist': song.artist,
+            'album': song.album,
+            'youtube_link': song.youtube_link,
+            'average_rating': float(song.average_rating) if song.average_rating else None
+        } for song in songs]
+        print(songs_data)
+    except Exception as e:
+        print(e.args)
     return jsonify(songs_data)
 
 @app.route('/rate_song', methods=['POST'])
