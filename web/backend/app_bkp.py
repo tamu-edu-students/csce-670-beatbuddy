@@ -10,6 +10,8 @@ from sqlalchemy.sql import func
 from tqdm import tqdm
 from sqlalchemy.exc import SQLAlchemyError
 import pandas as pd
+import random
+import logging
 from search_via_music.fingerprint_generator import read_audio, fingerprint
 
 from itertools import groupby
@@ -40,6 +42,7 @@ app.config['SECRET_KEY'] = 'your_secret_key'
 app.config['UPLOAD_FOLDER'] = 'uploads'
 app.config['ALLOWED_EXTENSIONS'] = {'mp3', 'wav'}
 
+logging.basicConfig(level=logging.INFO) 
 
 # Setup database
 db = SQLAlchemy(app)
@@ -49,6 +52,9 @@ jwt = JWTManager(app)
 # Setup Flask-Login
 login_manager = LoginManager()
 login_manager.init_app(app)
+
+
+recc_data = pd.read_excel("recommended_songs_new_songsdb.xlsx", engine = "openpyxl")
 
 # Models
 class User(UserMixin, db.Model):
@@ -334,6 +340,37 @@ def rate_song():
     db.session.commit()
     return jsonify({'message': 'Rating updated successfully'}), 200
 
+
+# @app.route('/recommendations', methods=['GET'])
+# def get_recommendations():
+#     # if request.method == "GET":
+#     data = request.get_json()
+#     user_id = data.get('userid')
+#     if user_id in recc_data['User']:
+#         song_ids = recc_data[recc_data['User']==user_id]["Recommended Songs"]
+#     else:
+#         user_id_rand = random.randint(0, 1999)
+#         song_ids = recc_data[recc_data['User']==user_id_rand]["Recommended Songs"]
+#     app.logger.info('Song IDS', song_ids)
+#     print("######### song_ids",song_ids)
+#     try:
+#         songs = db.session.query(
+#             Song.id, Song.title, Song.artist, Song.album, Song.youtube_link,
+#             func.avg(Rating.rating).label('average_rating')
+#         ).filter(Song.id.in_(song_ids)).oupoterjoin(Rating).group_by(Song.id).all()
+#         songs = sorted(songs,key=lambda song: song_ids.index(song.id))
+#         songs_data = [{
+#             'id': song.id,
+#             'title': song.title,
+#             'artist': song.artist,
+#             'album': song.album,
+#             'youtube_link': song.youtube_link,
+#             'average_rating': float(song.average_rating) if song.average_rating else None
+#         } for song in songs]
+#         print(songs_data)
+#     except Exception as e:
+#         print(e.args)
+#     return jsonify(song_ids)
 
 
 def load_songs():
