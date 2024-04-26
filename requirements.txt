@@ -41,4 +41,8 @@ Flask-Cors==4.0.0
 Flask-JWT-Extended==4.6.0
 Flask-Login==0.6.3
 Flask-SQLAlchemy==3.1.1
-
+pydub==0.25.1
+sounddevice==0.4.6
+soundfile==0.12.1
+wheel==0.37.1
+matplotlib==3.3.3
