@@ -251,7 +251,10 @@ def get_search_clip():
             # Open the audio file using a context manager
             with open(original_path, 'rb') as f:
                 audio = AudioSegment.from_file(f)
-                audio.export(final_path, format='mp3')
+                try:
+                    audio.export(final_path, format='mp3')
+                except:
+                    audio.export(final_path, format='mp4')
 
             channels, samplerate = read_audio(final_path)
 
