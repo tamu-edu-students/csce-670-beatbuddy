@@ -11,6 +11,8 @@ from sqlalchemy.sql import func
 import random
 import ast
 from web.backend.search_via_music.fingerprint_generator import read_audio, fingerprint
+from datetime import timedelta
+from sqlalchemy import case, desc
 
 from itertools import groupby
 from operator import itemgetter
@@ -31,6 +33,7 @@ CORS(app, origins=['*'])
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///' + db_path #'sqlite:///beatbuddy.db'
 app.config['SECRET_KEY'] = 'your_secret_key'
 app.config['UPLOAD_FOLDER'] = './web/backend/uploads'
+app.config['JWT_EXPIRATION_DELTA'] = timedelta(days=7) 
 # Setup database
 db = SQLAlchemy(app)
 jwt = JWTManager(app)
@@ -78,6 +81,7 @@ class Fingerprint(db.Model):
     hash = db.Column(db.String(255), nullable=False)
     offset = db.Column(db.Integer, nullable=False)
 
+songs_data = []
 # User loader
 @login_manager.user_loader
 def load_user(user_id):
@@ -153,12 +157,16 @@ def upload_audio():
 
 
 @app.route('/all_songs', methods=['GET'])
+@jwt_required()
 def get_all_songs():
-
-    songs = db.session.query(
-        Song.id, Song.title, Song.artist, Song.album, Song.youtube_link,
-        func.avg(Rating.rating).label('average_rating')
-    ).outerjoin(Rating).group_by(Song.id).limit(10).all()
+    user_name = get_jwt_identity()
+    user_id = User.query.filter_by(username=user_name).first().id
+    print(user_id)
+    user_rated_songs = db.session.query(
+    Song.id, Song.title, Song.artist, Song.album, Song.youtube_link,
+    Rating.rating.label('user_rating'),
+    func.avg(Rating.rating).over(partition_by=Song.id).label('average_rating')
+    ).join(Rating, Rating.song_id == Song.id).filter(Rating.user_id == user_id).order_by(desc('user_rating')).limit(20)
 
     songs_data = [{
         'id': song.id,
@@ -167,7 +175,8 @@ def get_all_songs():
         'album': song.album,
         'youtube_link': song.youtube_link,
         'average_rating': float(song.average_rating) if song.average_rating else None
-    } for song in songs]
+    } for song in user_rated_songs]
+    print(songs_data)
     return jsonify(songs_data)
 
 # @app.route('/recommendations', methods=['GET'])
@@ -243,7 +252,7 @@ def align_matches(matches, dedup_hashes, queried_hashes, df_songs, topn=5, defau
     songs_result = [song_id for song_id, _, _ in songs_matches[:min(len(songs_matches), topn)]]
     return songs_result
 
-songs_data = []
+# songs_data = []
 @app.route('/search_via_clip', methods=['GET'])
 def get_search_clip():
     upload_folder = app.config['UPLOAD_FOLDER']
@@ -259,17 +268,18 @@ def get_search_clip():
                 audio = AudioSegment.from_file(f)
                 try:
                     audio.export(final_path, format='mp3')
+                    # os.remove(original_path)
                 except:
                     audio.export(final_path, format='mp4')
 
             channels, samplerate = read_audio(final_path)
 
-            print(channels, samplerate)
+            # print(channels, samplerate)
             hashes = set()
             for channel in channels:
                 channel_fingerprints = fingerprint(channel, Fs=samplerate)
                 hashes.update(channel_fingerprints)
-            print("Done generating hashes", len(hashes))
+            # print("Done generating hashes", len(hashes))
             song_ids = find_matches_in_database(hashes)
             song_ids = [x + 1 for x in song_ids]
             songs = db.session.query(
@@ -277,27 +287,16 @@ def get_search_clip():
                 func.avg(Rating.rating).label('average_rating')
             ).filter(Song.id.in_(song_ids)).outerjoin(Rating).group_by(Song.id).all()
             songs = sorted(songs,key=lambda song: song_ids.index(song.id))
-            songs_data.extend([{
+            songs_data = [{
                 'id': song.id,
                 'title': song.title,
                 'artist': song.artist,
                 'album': song.album,
                 'youtube_link': song.youtube_link,
                 'average_rating': float(song.average_rating) if song.average_rating else None
-            } for song in songs])
-
+            } for song in songs]
+            os.remove(final_path)
             # Check if the files exist before removing them
-            if os.path.isfile(original_path):
-                try:
-                    os.remove(original_path)
-                except PermissionError:
-                    print(f"Failed to remove file: {original_path}")
-
-            if os.path.isfile(final_path):
-                try:
-                    os.remove(final_path)
-                except PermissionError:
-                    print(f"Failed to remove file: {final_path}")
 
     return jsonify(songs_data)
 
@@ -319,7 +318,7 @@ def get_search_text():
             func.avg(Rating.rating).label('average_rating')
         ).filter(Song.id.in_(song_ids)).outerjoin(Rating).group_by(Song.id).all()
         songs = sorted(songs,key=lambda song: song_ids.index(song.id))
-        songs_data = [{
+        songs_data_text = [{
             'id': song.id,
             'title': song.title,
             'artist': song.artist,
@@ -327,52 +326,68 @@ def get_search_text():
             'youtube_link': song.youtube_link,
             'average_rating': float(song.average_rating) if song.average_rating else None
         } for song in songs]
-        print(songs_data)
+        # print(songs_data_text)
     except Exception as e:
         print(e.args)
 
-    return jsonify(songs_data)
+    return jsonify(songs_data_text)
 
 @app.route('/recommendations', methods=['GET'])
 @jwt_required()
 def get_recommendations():
     # if request.method == "GET":
     user_name = get_jwt_identity()
-    print(user_name)
+    # print(user_name)
     user = User.query.filter_by(username=user_name).first()
     if user:
         user_id= user.id
     else:
         user_id= None
-    print(user_name,user_id)
+    # print(user_name,user_id)
     if user_id in recc_data['User']:
         u_id = user_id       
     else:
         u_id = random.randint(0, 1999)
-    print(u_id)
-    mf_song_ids = recc_data.loc[recc_data['User']==u_id, "Recommended Songs"].values[0]
-    knn_song_ids = knn_recc_data.loc[knn_recc_data['User']==u_id, "Recommended Songs"].values[0]
+    # print(u_id-1)
+    mf_song_ids = recc_data.loc[recc_data['User']==u_id-1, "Recommended Songs"].values[0]
+    knn_song_ids = knn_recc_data.loc[knn_recc_data['User']==u_id-1, "Recommended Songs"].values[0]
     mf_song_ids = ast.literal_eval(mf_song_ids)
-    mf_song_ids = random.sample(mf_song_ids, k=5)
+    # mf_song_ids = random.sample(mf_song_ids, k=5)
+    mf_song_ids = random.sample(mf_song_ids, k=min(5, len(mf_song_ids)))
+
+    # print(mf_song_ids)
     knn_song_ids = ast.literal_eval(knn_song_ids)
+    song_ids = mf_song_ids
     song_ids = knn_song_ids + mf_song_ids
+    song_ids = [id + 1 for id in song_ids]
     try:
         songs = db.session.query(
-            Song.id, Song.title, Song.artist, Song.album, Song.youtube_link,
-            func.avg(Rating.rating).label('average_rating')
-        ).filter(Song.id.in_(song_ids)).outerjoin(Rating).group_by(Song.id).all()
-        songs = sorted(songs,key=lambda song: song_ids.index(song.id))
+        Song.id, Song.title, Song.artist, Song.album, Song.youtube_link,
+        func.avg(Rating.rating).label('average_rating'),
+        func.avg(
+            case(
+                (Rating.user_id == user_id, Rating.rating),
+                else_=0
+            )
+        ).label('user_rating')
+    ).filter(Song.id.in_(song_ids)).outerjoin(Rating).group_by(Song.id).all()
+        # Sorting songs based on their order in song_ids
+        songs = sorted(songs, key=lambda song: song_ids.index(song.id))
+        # print(songs)
         songs_data = [{
             'id': song.id,
             'title': song.title,
             'artist': song.artist,
             'album': song.album,
             'youtube_link': song.youtube_link,
-            'average_rating': float(song.average_rating) if song.average_rating else None
+            'average_rating': float(song.average_rating) if song.average_rating else None,
+            'user_rating': float(song.user_rating) if song.user_rating else None
         } for song in songs]
-        print(songs_data)
+        # print(songs_data)
     except Exception as e:
         print(e.args)
+        songs_data = []
+
     return jsonify(songs_data)
 
 @app.route('/rate_song', methods=['POST'])
@@ -389,6 +404,7 @@ def rate_song():
     else:
         rating = Rating(user_id=user_id, song_id=song_id, rating=rating_value)
         db.session.add(rating)
+        print("done")
 
     db.session.commit()
     return jsonify({'message': 'Rating updated successfully'}), 200
@@ -450,8 +466,8 @@ if __name__ == '__main__':
         if(Song.query.count() == 0):
             print("Songs table is empty")
             load_songs()
-        if(Fingerprint.query.count() == 0):
-            print("Finerprints table is empty")
-            load_finger_prints()
+        # if(Fingerprint.query.count() == 0):
+        #     print("Finerprints table is empty")
+        #     load_finger_prints()
 
-    app.run(host="0.0.0.0")
+    app.run(host="0.0.0.0",debug=True)

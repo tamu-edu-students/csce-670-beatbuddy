@@ -57,7 +57,7 @@ function SongList({ endpoint, title }) {
             console.log(data.message);
             setSongs(songs.map(song => {
                 if (song.id === songId) {
-                    return { ...song, average_rating: rating };
+                    return { ...song, user_rating: rating };
                 }
                 return song;
             }));
@@ -86,23 +86,26 @@ function SongList({ endpoint, title }) {
                     <div key={song.id} className="col-lg-4 mb-4" onClick={() => openYoutubeLink(song.youtube_link)}>
                         <div className="card feature-card h-100" style={{ cursor: "pointer" }}>
                             <div className="card-body">
-                                <h3 className="card-title">{song.title}</h3>
-                                <h4 className="text-muted">{song.artist}</h4>
-                                {/* <h4 className="" */}
-                                <p className="small">{song.album}</p>
-                                <div className="d-flex justify-content-center mb-2">
-                                    {[1, 2, 3, 4, 5].map(num => (
+                            <h3 className="card-title">{song.title}</h3>
+                            <h4 className="text-muted">{song.artist}</h4>
+                            <p className="small">{song.album}</p>
+                            <div className="d-flex justify-content-center mb-2">
+                                {[1, 2, 3, 4, 5].map(num => (
                                         <FontAwesomeIcon
-                                            icon={song.average_rating >= num ? fullStar : emptyStar}
-                                            onClick={(e) => handleRatingChange(song.id, num, e)}
-                                            key={num}
-                                            className="text-warning"
-                                        />
-                                    ))}
-                                </div>
-                                <p className="small text-center">
-                                    Average Rating: {song.average_rating ? song.average_rating.toFixed(1) : "Not Rated"}
-                                </p>
+                                        icon={song.user_rating != null && song.user_rating >= num ? fullStar : emptyStar}
+                                        onClick={(e) => handleRatingChange(song.id, num, e)}
+                                        key={num}
+                                        className="text-warning"
+                                    />
+                                ))}
+                            </div>
+                            <p className="small text-center">
+                                User Rating: {song.user_rating ? song.user_rating.toFixed(1) : "Not Rated"}
+                            </p>
+                            <p className="small text-center">
+                                Average Rating: {song.average_rating ? song.average_rating.toFixed(1) : "Not Rated"}
+                            </p>
+
                             </div>
                         </div>
                     </div>
