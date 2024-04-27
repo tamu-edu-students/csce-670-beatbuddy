@@ -295,7 +295,10 @@ def get_search_clip():
                 'youtube_link': song.youtube_link,
                 'average_rating': float(song.average_rating) if song.average_rating else None
             } for song in songs]
-            os.remove(final_path)
+            try:
+                os.remove(final_path)
+            except FileNotFoundError as e:
+                print(e.args)
             # Check if the files exist before removing them
 
     return jsonify(songs_data)
@@ -470,4 +473,4 @@ if __name__ == '__main__':
         #     print("Finerprints table is empty")
         #     load_finger_prints()
 
-    app.run(host="0.0.0.0",debug=True)
+    app.run(host="0.0.0.0")
