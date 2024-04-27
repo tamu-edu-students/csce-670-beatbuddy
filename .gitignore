@@ -11,3 +11,4 @@ web/frontend/src/Config.json
 *.pyc
 **/__pycache__/**
 **/__pycache__/
+web/backend/uploads/
