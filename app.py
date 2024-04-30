@@ -3,6 +3,7 @@ from flask_sqlalchemy import SQLAlchemy
 from flask_jwt_extended import JWTManager, jwt_required, get_jwt_identity, create_access_token
 from flask_login import LoginManager, UserMixin, login_user, login_required, logout_user
 from werkzeug.utils import secure_filename
+from sqlalchemy.sql import literal
 from flask.helpers import send_from_directory
 import os
 from flask_cors import CORS
@@ -106,14 +107,14 @@ def login():
         return jsonify({"message": "Login successful", "access_token": access_token}), 200
     return jsonify({"message": "Login failed"}), 401  # Unauthorized access
 
-@app.route('/signup', methods=['GET', 'POST'])
+@app.route('/signup', methods=['POST'])
 def signup():
     if request.method == 'POST':
         data = request.get_json()
         username = data.get('username')
         password = data.get('password')  # In production, ensure this is hashed
         email = data.get('email')
-
+        print(data)
         existing_user = User.query.filter((User.username == username) | (User.email == email)).first()
         if existing_user:
             return jsonify({'message': 'Username or email already exists'}), 409
@@ -122,9 +123,13 @@ def signup():
         db.session.add(new_user)
         db.session.commit()
 
-        return jsonify({'message': 'User created successfully', 'userId': new_user.id}), 201  # Assuming id is auto-generated
+        # Generate access token for the new user
+        access_token = create_access_token(identity=username)
+        login_user(new_user)
 
-    return "Signup Python API"
+        return jsonify({'message': 'User created successfully', 'userId': new_user.id, 'access_token': access_token}), 201  # Assuming id is auto-generated
+
+    return jsonify({'message': 'Use POST method to signup'}), 405
 
 @app.route('/logout')
 @login_required
@@ -161,22 +166,41 @@ def upload_audio():
 def get_all_songs():
     user_name = get_jwt_identity()
     user_id = User.query.filter_by(username=user_name).first().id
+    # user_id -= 1
     print(user_id)
-    user_rated_songs = db.session.query(
-    Song.id, Song.title, Song.artist, Song.album, Song.youtube_link,
-    Rating.rating.label('user_rating'),
-    func.avg(Rating.rating).over(partition_by=Song.id).label('average_rating')
-    ).join(Rating, Rating.song_id == Song.id).filter(Rating.user_id == user_id).order_by(desc('user_rating')).limit(20)
+# Query top rated songs
+    user_top_rated_songs = db.session.query(
+        Song.id, Song.title, Song.artist, Song.album, Song.youtube_link,
+        func.avg(Rating.rating).label('average_rating'),
+        Rating.rating.label('user_rating')
+    ).outerjoin(Rating).filter(Rating.user_id == user_id).group_by(Song.id).order_by(func.avg(Rating.rating).desc()).limit(10).all()
 
+    # Fetch globally top rated songs excluding those rated by the user
+    globally_top_rated_songs = db.session.query(
+    Song.id, Song.title, Song.artist, Song.album, Song.youtube_link,
+    func.avg(Rating.rating).label('average_rating'),
+        literal(None).label('user_rating')  # Add a placeholder user_rating column
+    ).outerjoin(Rating, Song.id == Rating.song_id) \
+        .filter(Rating.user_id != user_id) \
+        .group_by(Song.id) \
+        .order_by(func.avg(Rating.rating).desc()) \
+        .limit(10) \
+        .all()
+
+    # Combine user's top rated songs with globally top rated songs
+    songs = user_top_rated_songs + globally_top_rated_songs
+
+    # Convert to JSON format
     songs_data = [{
         'id': song.id,
         'title': song.title,
         'artist': song.artist,
         'album': song.album,
         'youtube_link': song.youtube_link,
-        'average_rating': float(song.average_rating) if song.average_rating else None
-    } for song in user_rated_songs]
-    print(songs_data)
+        'average_rating': float(song.average_rating) if song.average_rating else None,
+        'user_rating': float(song.user_rating) if song.user_rating else None
+    } for song in songs]
+    print(songs_data[0])
     return jsonify(songs_data)
 
 # @app.route('/recommendations', methods=['GET'])
@@ -386,6 +410,7 @@ def get_recommendations():
             'average_rating': float(song.average_rating) if song.average_rating else None,
             'user_rating': float(song.user_rating) if song.user_rating else None
         } for song in songs]
+        songs_data = sorted(songs_data, key=lambda x: x['average_rating'], reverse=True)
         # print(songs_data)
     except Exception as e:
         print(e.args)
@@ -404,6 +429,7 @@ def rate_song():
     rating = Rating.query.filter_by(user_id=user_id, song_id=song_id).first()
     if rating:
         rating.rating = rating_value
+        print("updated")
     else:
         rating = Rating(user_id=user_id, song_id=song_id, rating=rating_value)
         db.session.add(rating)
@@ -473,4 +499,4 @@ if __name__ == '__main__':
         #     print("Finerprints table is empty")
         #     load_finger_prints()
 
-    app.run(host="0.0.0.0")
+    app.run(host="0.0.0.0", debug=True)
