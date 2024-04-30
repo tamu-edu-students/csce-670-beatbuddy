@@ -51,6 +51,7 @@ function SongList({ endpoint, title }) {
             if (!response.ok) {
                 throw new Error('Failed to update rating');
             }
+            console.log("Updated rating")
             return response.json();
         })
         .then(data => {
