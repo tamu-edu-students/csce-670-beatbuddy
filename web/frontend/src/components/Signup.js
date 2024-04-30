@@ -14,13 +14,25 @@ function Signup() {
     const handleSubmit = async (e) => {
         e.preventDefault();
         try {
-            const res = await axios.post(config.python_url+'/signup', { username, password, email });
-            if (res.data) {
-                console.log('Signup successful:', res.data);
+            const res = await axios.post(config.python_url+'/signup', {
+                username,
+                password,
+                email
+            });
+            if (localStorage.getItem('token')) {
+                localStorage.removeItem('token');
+            }
+            if (res.data && res.data.access_token) {
+                localStorage.setItem('token', res.data.access_token); // Store the token in localStorage
+                console.log('Signup successful and token stored');
                 navigate('/home');
+            } else {
+                console.error('No token received');
+                alert('Signup failed, no token received');
             }
         } catch (error) {
             console.error('Signup failed:', error);
+            alert('Singup failed, username or email already exists');
         }
     };
 

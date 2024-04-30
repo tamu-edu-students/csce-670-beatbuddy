@@ -18,7 +18,9 @@ function Login() {
                 username,
                 password
             });
-
+            if (localStorage.getItem('token')) {
+                localStorage.removeItem('token');
+            }
             if (res.data && res.data.access_token) {
                 localStorage.setItem('token', res.data.access_token); // Store the token in localStorage
                 console.log('Login successful and token stored');
